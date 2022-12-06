@@ -44,6 +44,7 @@ Para padronizar a leitura dos dados, considere que os arquivos com os textos de 
 Palavras como artigos (o, a, um …), preposições (de, em, para, …) e pontuações (‘.’ , ‘ !’, ‘?’, ...) são nas contagens. 
 
 ### Forma de execução 
+Para a execução do programa instale o [CMAKE](https://cmake.org/download/) em sua máquina.
  ```JavaScript
     cmake -B build
 ```
