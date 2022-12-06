@@ -1,0 +1,6 @@
+add_executable(main main.cpp)
+target_link_libraries(main PUBLIC projedii)
+add_executable(mainHuffman mainHuffman.cpp)
+target_link_libraries(mainHuffman PUBLIC projedii)
+add_executable(mainTrie mainTrie.cpp)
+target_link_libraries(mainTrie PUBLIC projedii)

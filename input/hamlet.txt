@@ -1,0 +1,7038 @@
+Project Gutenberg's Hamlet: Drama em cinco Actos, by William Shakespeare
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Hamlet: Drama em cinco Actos
+
+Author: William Shakespeare
+
+Translator: Luis I Rei de Portugal
+
+Release Date: June 1, 2008 [EBook #25667]
+
+Language: Portuguese
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK HAMLET: DRAMA EM CINCO ACTOS ***
+
+
+
+
+Produced by Pedro Saborano and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This book was
+produced from scanned images of public domain material
+from the Google Print project.)
+
+
+
+
+
+
+
+HAMLET
+
+DRAMA EM CINCO ACTOS
+
+
+WILLIAM SHAKESPEARE
+
+
+HAMLET
+
+Drama em cinco actos
+
+
+Traduccao Portugueza
+
+Segunda Edicao
+
+
+LISBOA
+
+Imprensa Nacional
+
+1880
+
+
+
+
+INTERLOCUTORES
+
+
+  CLAUDIO--Rei de Dinamarca.
+
+  HAMLET--Filho do defunto Rei e sobrinho do Rei reinante.
+
+  POLONIO--Camareiro mor.
+
+  HORACIO--Amigo de Hamlet.
+
+  LAERTE--Filho de Polonio.
+
+  VOLTIMANDO    }
+                }
+  CORNELIO      }
+                }
+  ROSENCRANTZ   } Cortezaos dinamarquezes.
+                }
+  GUILDENSTERN  }
+                }
+  OSRICO        }
+
+  UM OUTRO CORTEZaO.
+
+  UM PADRE.
+
+  REINALDO--Creado de Polonio.
+
+  MARCELLO E BERNARDO--Officiaes.
+
+  FRANCISCO--Soldado.
+
+  UM EMBAIXADOR.
+
+  A SOMBRA DO REI HAMLET.
+
+  FORTIMBRAZ--Principe de Noruega.
+
+  GERTRUDES--Rainha de Dinamarca, mae de Hamlet.
+
+  OPHELIA--Filha de Polonio.
+
+Senhores, damas, officiaes, soldados, actores, padres, coveiros,
+marinheiros, mensageiros, creados, etc.
+
+
+A scena passa-se em Elsenor
+
+
+
+
+ACTO PRIMEIRO
+
+
+SCENA I
+
+Elsenor, a explanada do castello
+
+FRANCISCO de sentinella, BERNARDO vem encontrar-se com elle
+
+BERNARDO
+
+Quem vem la? viva quem?
+
+FRANCISCO
+
+Responde tu primeiro, faze alto, deixa-te reconhecer.
+
+BERNARDO
+
+Viva o rei.
+
+FRANCISCO
+
+Bernardo?
+
+BERNARDO
+
+Eu mesmo.
+
+FRANCISCO
+
+es pontual.
+
+BERNARDO
+
+Acaba de dar meia noite; vae descansar, Francisco.
+
+FRANCISCO
+
+Agradeco-te de me teres vindo render; faz um frio glacial, e comecava a
+sentir-me incommodado.
+
+BERNARDO
+
+Nao houve novidade emquanto estiveste de sentinella?
+
+FRANCISCO
+
+Nem sequer ouvi correr um rato.
+
+BERNARDO
+
+Entao boas noites; se vires Horacio e Marcello, que tambem estao de
+guarda, dize-lhes que se aviem.
+
+Chegam HORACIO e MARCELLO
+
+FRANCISCO
+
+Creio ouvil-os, facam alto, quem vem la?
+
+HORACIO
+
+Amigos da patria.
+
+MARCELLO
+
+Subditos do rei de Dinamarca.
+
+FRANCISCO
+
+Santas noites.
+
+MARCELLO
+
+Viva, meu valente soldado, quem te rendeu?
+
+FRANCISCO
+
+Bernardo esta agora de sentinella. Boa noite. (Retira-se.)
+
+MARCELLO
+
+Ola, Bernardo?
+
+BERNARDO
+
+Nao e Horacio que eu vejo?
+
+HORACIO
+
+Elle mesmo em corpo e alma.
+
+BERNARDO
+
+Bemvindo sejas, Horacio, e tu tambem, amigo Marcello.
+
+MARCELLO
+
+Dize-me, ja viste a apparicao esta noite?
+
+BERNARDO
+
+Ainda nada vi.
+
+MARCELLO
+
+Horacio diz que e effeito da minha imaginacao, e nega-se a acreditar na
+visao temerosa, de que ja por duas vezes fomos testemunhas; pedi-lhe
+portanto que viesse comnosco, para que se o phantasma de novo apparecer,
+elle possa testemunhar a verdade do que afiancamos e dirigir-lhe a
+palavra.
+
+HORACIO
+
+Historias, qual apparecer!
+
+BERNARDO
+
+Sentemo-nos um instante, e vamos repetir-te a narracao do que temos
+presenceado duas noites consecutivas e a que prestas tao pouco credito.
+
+HORACIO
+
+Com todo o gosto, e deixemos fallar Bernardo.
+
+BERNARDO
+
+A noite passada, a hora em que esta estrella que veem ao poente do polo
+descreve o seu giro e vem illuminar esta parte do firmamento, em que ora
+brilha, no momento em que na torre soava uma hora, Marcello e eu...
+
+MARCELLO
+
+Silencio, eil-o que apparece.
+
+Apparece a sombra do REI
+
+BERNARDO
+
+Assimilha-se ao defunto rei.
+
+MARCELLO
+
+Tu que estudaste, Horacio, falla-lhe.
+
+BERNARDO
+
+Nao e verdade que se parece com o defunto rei? Observa bem, Horacio.
+
+HORACIO
+
+A similhanca e espantosa; a surpreza e o terror paralysaram-me.
+
+BERNARDO
+
+Parece esperar que lhe fallem.
+
+MARCELLO
+
+Falla-lhe, Horacio.
+
+HORACIO
+
+Quem quer que es, que a esta hora da noite usurpas a forma magestosa e
+guerreira, debaixo da qual se mostrava o meu defunto soberano, em nome
+do ceu, falla, ordeno-to eu!
+
+MARCELLO
+
+Parece descontente.
+
+BERNARDO
+
+Eil-o que se afasta, caminhando lenta e gravemente.
+
+HORACIO
+
+Detem-te, falla, falla, intimo-te a que falles. (A sombra afasta-se.)
+
+MARCELLO
+
+Foi-se sem responder.
+
+BERNARDO
+
+Entao, Horacio, que e essa tremura e pallidez; nao havera alguma cousa
+mais do que um effeito de imaginacao, que dizes agora?
+
+HORACIO
+
+Pelo Deus do ceu, nao o acreditava sem o testemunho positivo e
+irrecusavel dos meus proprios olhos.
+
+MARCELLO
+
+Nao se parece com o rei?
+
+HORACIO
+
+Como tu te pareces comtigo mesmo, era a armadura que usava quando
+combateu o ambicioso norueguez; tinha aquelle ar ameacador, no dia em
+que no seu proprio carro, atacou, por causa de uma acalorada porfia, o
+guerreiro polaco, e o prostrou no gelo para nunca mais se levantar. e
+assombroso!
+
+MARCELLO
+
+Assim e que elle ja duas vezes passou pelo nosso posto de observacao com
+o seu caminhar grave e marcial.
+
+HORACIO
+
+Com que designio, ignoro-o, mas em minha opiniao e um presagio para o
+estado de alguma grande catastrophe.
+
+MARCELLO
+
+Pois bem, sentemo-nos, e aquelle d'entre vos todos que o souber, diga
+porque fatigam, com guardas vigilantes e rigorosas, os subditos d'este
+reino; para que esta fundicao diaria de canhoes de bronze, estas compras
+de armamentos e municoes no estrangeiro; para que se enchem de operarios
+os nossos arsenaes maritimos; porque este augmento de trabalho, que nem
+os dias santos sao respeitados; para que esta actividade de dia e de
+noite? O que sera? Qual de vos m'o podera dizer?
+
+HORACIO
+
+Posso eu, ao menos, referir os boatos. Nosso ultimo rei, cuja imagem
+ainda ha pouco vimos, foi, segundo dizem, convocado a campo fechado por
+Fortimbraz de Noruega, que um cioso orgulho tinha levado a esse acto.
+N'esse combate o nosso valente Hamlet, e era justa a sua reputacao,
+matou a Fortimbraz. Ora em virtude de uma declaracao authentica,
+sanccionada pelas leis da cavallaria, se Fortimbraz succumbisse, todos
+os seus estados pertenceriam ao vencedor. Por sua parte o nosso rei
+tinha empenhado da mesma forma a sua palavra; e no caso de elle ser
+vencido, uma igual porcao de territorio pertenceria a Fortimbraz. Assim,
+em virtude d'este pacto reciproco, a successao do vencido pertencia de
+direito a Hamlet. Comtudo o joven Fortimbraz, ardente e sem experiencia,
+reuniu nas fronteiras de Noruega um exercito de aventureiros, promptos e
+resolvidos pela soldada aos mais audaciosos commettimentos. O seu
+projecto, segundo o nosso governo esta informado, e nada menos do que
+retomar a viva forca e de mao armada esse territorio que seu pae perdeu
+com a vida: eis-aqui, na minha fraca opiniao, a rasao principal dos
+preparativos que fazemos, das guardas a que somos obrigados, e d'esta
+actividade tumultuosa que se nota em todo o paiz.
+
+BERNARDO
+
+Tambem eu julgo ser esse o motivo; isto explica-nos porque vemos passar
+diante dos postos de guarda a sombra do rei, com a sua armadura e com o
+seu porte magestoso, d'esse rei que foi e e o causador d'esta guerra.
+
+HORACIO
+
+e um argueiro nos olhos da intelligencia para lhes perturbar a vista.
+Nos tempos mais gloriosos e florescentes de Roma, pouco antes da morte
+do grande Julio, abriram-se os tumulos, e os mortos, nas suas mortalhas,
+divagaram pela cidade, soltando gritos ameacadores; viram-se estrellas
+deixar apos si rastos luminosos, choveu sangue, desastrosos signaes
+appareceram no ceu, e o astro humido, sob cuja influencia esta o imperio
+de Neptuno, eclipsou-se; todos julgavam ser o fim do mundo. Estes mesmos
+signaes precursores de acontecimentos terriveis, correios de maus
+destinos, preludios de grandes catastrophes, o ceu e a terra os fizeram
+apparecer nos nossos climas, aos olhos impressionaveis dos nossos
+compatriotas.
+
+A sombra reapparece
+
+HORACIO continuando
+
+Mas silencio, olhem, eil-o que volta. Vou interpellal-o, embora elle me
+fulmine. Para. Illusao. Se tens o dom da palavra, se podes articular
+sons, falla; se ha alguma boa accao cujo cumprimento te possa alliviar e
+contribuir para a minha salvacao, responde-me: se es sabedor de alguma
+desgraca que ameace a tua patria, e que um aviso opportuno possa
+desviar... Oh falla! ou se em tua vida confiaste as entranhas da terra
+riquezas mal adquiridas; e a maior parte das vezes e por isso que vos,
+os espiritos, divagaes depois da morte, dil-o. (O gallo canta.) Detem-te
+e falla. Veda-lhe o caminho, Marcello.
+
+MARCELLO
+
+Devo servir-me da minha partazana?
+
+HORACIO
+
+Serve-te se nao parar.
+
+BERNARDO
+
+Para ca?
+
+HORACIO
+
+Por acola. (A sombra afasta-se.)
+
+MARCELLO
+
+Partiu!--que presenca magestosa!--sao desacertadas estas demonstracoes
+violentas! e invulneravel como o ar, e os nossos golpes nao sao senao o
+ridiculo esforco de uma colera impotente.
+
+BERNARDO
+
+Ia fallar quando cantou o gallo.
+
+HORACIO
+
+Estremeceu como um culpado que uma intimacao subita aterra. Ouvi dizer
+que o gallo, que e o clarim da aurora, acorda o Deus da manha com a sua
+voz sonora e penetrante, e que a esse signal todos os espiritos errantes
+no mar, no fogo, na terra ou no ar se apressam em voltar aos seus
+respectivos dominios. A prova esta no que acabamos de presencear.
+
+MARCELLO
+
+O gallo cantou, e elle desappareceu. Algumas pessoas dizem que na
+vespera do dia em que se celebra a natividade do Salvador do mundo, o
+arauto da manha canta toda a noite sem interrupcao; pretendem entao que
+nenhum espirito ousa sair da sua mansao, que as noites sao salubres, que
+nenhuma estrella exerce influencia maligna, nenhum maleficio surte
+effeito, que nenhuma feiticeira exercita os seus feiticos, tanto esse
+dia e bento, e esta sob o imperio de uma graca celeste.
+
+HORACIO
+
+Assim o ouvi dizer, e acredito-o. Mas eis que no oriente, acola no
+fundo, por detras dos outeiros, surge a manha, vestida de purpura por
+entre o orvalho. Demos fim a nossa vigilia, e vamos dar parte ao joven
+Hamlet do que vimos esta noite; porque, por vida minha, creio que este
+espirito, mudo para todos, lhe fallara. Approvam esta confidencia, que
+nos impoe o nosso dever e a nossa affeicao?
+
+MARCELLO
+
+Vamos sem detenca; sei onde o acharemos, e onde lhe poderemos fallar sem
+constrangimento. (Retiram-se.)
+
+
+SCENA II
+
+Uma sala apparatosa no castello
+
+Entram o REI e a sua comitiva, a RAINHA, HAMLET, POLONIO, LAERTE,
+VOLTIMANDO, CORNELIO e CORTEZaOS
+
+O REI
+
+A morte de Hamlet, nosso amado irmao, ainda e tao recente, que pareceria
+justo, que nossos coracoes estivessem immersos na tristeza e saudade, e
+que uma nuvem de dor cobrisse o solo d'este reino; comtudo, a rasao
+combateu os impulsos da natureza, tanto que enfreamos a nossa dor, e
+embora ainda esteja bem viva a recordacao, pensamos tambem em nos.
+Portanto, com um prazer incompleto, confundindo os sorrisos com as
+lagrimas, a alegria com o luto; unindo o dobrar dos sinos aos canticos
+nupciaes, tomamos por esposa aquella que outr'ora era nossa irma, e
+fizemol-a compartir comnosco a coroa d'este bellicoso paiz. N'esta
+conjunctura ouvimos primeiro os vossos illustrados conselhos, livremente
+enunciados. Somos-lhes gratos. Quanto ao joven Fortimbraz, fazendo
+seguramente uma fraca idea do nosso poder, ou imaginando que a morte de
+nosso chorado irmao lancasse o estado na dissolucao e na anarchia,
+embalando-se em chimerica esperanca, ousou mandar-nos mensagem apos
+mensagem, intimando-nos a restituir-lhe o territorio perdido por seu
+pae, e legalmente adquirido por nosso valoroso irmao; isto por o que lhe
+respeita. Fallemos agora de nos e do motivo d'esta reuniao. O motivo e
+este. Pelas presentes escrevemos ao rei de Noruega, tio do joven
+Fortimbraz, que jazendo enfermo n'um leito, mal conhece os projectos de
+seu sobrinho, pedindo-lhe que ponha o seu veto a empreza, porque e de
+entre os seus subditos que se fazem as levas de soldados e os
+alistamentos. Encarregamo-vos, Cornelio e Voltimando, de apresentar as
+nossas saudacoes ao idoso monarcha norueguez, e e nossa vontade, que nas
+negociacoes vos conformeis adstrictamente as instruccoes que junto com a
+nossa carta recebereis. Adeus; a celeridade do resultado prove a
+dedicacao dos negociadores.
+
+CORNELIO e VOLTIMANDO
+
+Senhor, a nossa dedicacao e obediencia nao tem limites.
+
+O REI continuando
+
+Nem o duvidamos. Recebam um cordeal adeus. (Cornelio e Voltimando saem.)
+Agora, tu, Laerte, que pretendes? Disseram-nos que nos querias fazer uma
+supplica? Qual e? Tu nao podes fazer ao monarcha dinamarquez um pedido
+que nao seja rasoavel, e nao recorres a elle em vao. Que poderias
+desejar, Laerte, a que nao estejamos promptos a annuir, mesmo antes de
+conhecer a pretensao. A cabeca nao e mais sympathica ao coracao, a mao
+nao e mais prompta em servir a boca do que o throno de Dinamarca e
+dedicado a teu pae. Que desejas pois, Laerte?
+
+LAERTE
+
+Meu augusto soberano, a vossa licenca e o vosso consentimento, para
+voltar a Franca. Gostosamente vim a Dinamarca para assistir a vossa
+coroacao, mas, cumprido esse dever, confesso-o, os meus desejos e a
+minha vontade me chamam a Franca, e supplico a vossa magestade que me
+conceda partir.
+
+O REI
+
+Ja alcancaste o consentimento de teu pae? o que diz Polonio?
+
+A RAINHA
+
+Arrancou-me o meu consentimento, tanto me importunou; acabei por ceder,
+mau grado meu, aos seus desejos. Supplico-lhe, pois, senhor, que lhe
+conceda a licenca pedida.
+
+O REI
+
+Podes partir quando te aprouver, Laerte; deixo-te a liberdade de
+dispores do teu tempo e da tua pessoa. Entao, Hamlet, meu primo, meu
+filho?
+
+HAMLET a parte
+
+Aindaque mui proximos parentes nao somos primos.
+
+O REI
+
+Porque essas nuvens que pesam sobre a tua fronte?
+
+HAMLET
+
+Engana-se, senhor, como pode haver nuvens, quando brilha o sol.
+
+A RAINHA
+
+Querido Hamlet, despe essas roupas de do, e lanca um olhar amigavel para
+o rei de Dinamarca. Descrava os teus olhos do chao; pareces procurar as
+pegadas do teu glorioso pae. Sabes bem que e um destino invariavel; tudo
+quanto vive ha de morrer, e este mundo e uma ponte para a eternidade.
+
+HAMLET
+
+Sim, senhora, e um destino commum.
+
+A RAINHA
+
+Se e assim, o que te parece a ti tao extraordinario?
+
+HAMLET
+
+Senhora, nao me parece, e-o na verdade. O parecer para mim nada vale.
+Minha mae, nao sao nem esta capa negra, nem estas vestes obrigadas nos
+lutos solemnes, nem os suspiros que mal pode soltar um peito opprimido,
+nem torrentes de lagrimas, nem o semblante macerado, nem todas as
+manifestacoes de uma dor pungente, que podem exprimir e revelar o que eu
+sinto. Todos estes signaes podem parecer dor; e um papel facil de
+representar, mas nao sao verdadeira dor, sao como o fato para o
+comediante; mas eu (pondo a mao sobre o coracao) sinto aqui, o que nao
+ha palavras que o expressem.
+
+O REI
+
+Nada ha na verdade, Hamlet, mais commovente e louvavel do que os deveres
+funebres prestados a memoria de um pae. Mas lembra-te que teu pae ja
+perdera o seu, e que esse tambem ja perdera o pae. E para o sobrevivente
+um dever de piedade filial, dar durante um certo praso provas de uma dor
+respeitosa; mas perseverar n'uma affliccao obstinada, e mostrar uma
+teima impia; e uma dor cobarde, e a prova de uma vontade rebelde aos
+decretos da providencia, de um coracao sem energia, de uma alma incapaz
+de resignacao, de uma intelligencia pobre e limitada. Porque nos deve
+impressionar a tal ponto um acontecimento, que sabemos ser uma
+necessidade, e que se repete tao frequente, quanto as occorrencias mais
+vulgares; e uma triste indocilidade. Que!! e uma offensa a Deus, uma
+offensa aos finados, uma absurda offensa a natureza, que nao tem em seus
+fastos mais vulgar acontecimento, que a morte de um pae; a qual, desde o
+primeiro cadaver ate ao homem que hoje se finou, nunca deixou de nos
+clamar: Assim estava escripto. Supplico-te, portanto, abandona essa
+affliccao impotente, e ve em nos um segundo pae; porque queremos que
+todos saibam que tu es o mais proximo ao nosso throno, e que a affeicao
+mais terna que um pae tem a seu filho, tenho-a eu a ti. Quanto a tua
+intencao de voltar a Wittemberg, para continuares os teus estudos, nada
+ha mais opposto aos nossos desejos; conjuramos-te que fiques aqui, se o
+prazer de nossos olhos, o primeiro da nossa corte, nosso sobrinho, nosso
+filho.
+
+A RAINHA
+
+Hamlet, far-te-ha tua mae uma supplica baldada? peco-te fica comnosco,
+nao vas para Wittemberg.
+
+HAMLET
+
+Farei o que poder, para em tudo vos provar obediencia.
+
+O REI
+
+Eis emfim uma resposta affectuosa e comedida. Seras na Dinamarca um
+segundo _Eu_. (a rainha) Venha, senhora, este acto de deferencia de
+Hamlet, cumprido tao naturalmente e sem esforco, enche de jubilo o meu
+coracao. Para o celebrar o rei de Dinamarca nao libara uma taca, sem que
+a voz do canhao o transmitta as nuvens. A cada taca quero que o ceu o
+annuncie, repercutindo o estrondo dos raios da terra. Vamos agora.
+(Todos saem excepto Hamlet.)
+
+HAMLET so
+
+Ah! porque nao podera esta carne tao solida fundir-se e tornar-se
+orvalho. Ah que se o Eterno nao tivesse fulminado como reprobo o
+suicida... Senhor Deus, meu Deus, como sao insipidos, fastidiosos e vaos
+os gosos do mundo. Que pena! Elle e um jardim inculto que so tem plantas
+grosseiras e maleficas. Pois sera possivel que ousassem tanto? Morto ha
+dois mezes! que digo? Nem dois mezes ainda. Um rei tao bom, que tanta
+similhanca tinha com este como Hyperion com um Satyro, todo ternura para
+minha mae, a ponto de nao querer que uma brisa mais fresca acoutasse o
+seu rosto! Ceus e terra! e deverei eu recordar-me? Parecia que a vida de
+um era a vida do outro! Comtudo, passado apenas um mez--nao posso nem
+quero pensal-o--, fragilidade e synonymo de mulher. So um mez, sem ainda
+ter gasto o calcado que usava acompanhando o feretro do marido, banhada
+em lagrimas como uma Niobe, ella mesma, essa mulher, oh ceus! um animal
+privado do soccorro da rasao teria prolongado o seu luto; essa mulher
+desposou meu tio, o irmao de meu pae, mas que tem tanto de meu pae como
+eu de Hercules. No fim de um mez, antes que seccassem as suas hypocritas
+lagrimas, casou. Oh criminosa precipitacao! Voar com tanto afan a um
+leito incestuoso, e horrivel! E sera possivel que o ceu o tolere?
+Despedaca-te coracao, ja que forcoso e calar.
+
+Chegam HORACIO, BERNARDO e MARCELLO
+
+HORACIO
+
+Deus guarde a Vossa Alteza.
+
+HAMLET
+
+Quanto folgo de te ver de boa saude. es tu, Horacio, nao me engano.
+
+HORACIO
+
+Eu mesmo, o vosso servo fiel ate a morte.
+
+HAMLET
+
+Queres dizer _amigo_; de hoje em diante dar-te-hei este nome. Mas que
+fazes tu longe de Wittemberg, Horacio? Marcello.
+
+MARCELLO
+
+Meu principe!
+
+HAMLET
+
+Alegro-me de te ver, bons dias. (A Horacio.) Mas, francamente, que
+motivo te obrigou a voltar de Wittemberg?
+
+HORACIO
+
+Tudo dissipei.
+
+HAMLET
+
+Nunca consentiria que um teu inimigo assim fallasse a teu respeito; e
+nao me obrigaras a forcar a minha rasao a crer no que o meu coracao se
+nega a acreditar. Accusares-te d'esta maneira a ti mesmo... tu nao es
+dissipador. Que motivo tao forte te pode pois trazer a Elsenor, tu m'o
+contaras mais tarde, entre dois copos de vinho generoso, antes da tua
+partida.
+
+HORACIO
+
+Senhor, vim prestar a ultima homenagem a seu augusto pae.
+
+HAMLET
+
+Peco-te, meu camarada de estudos, que nao zombes; creio antes que vieste
+assistir ao casamento de minha mae.
+
+HORACIO
+
+Verdade e que nao houve quasi intervallo.
+
+HAMLET
+
+Por alvitre economico, Horacio. O banquete funerario ainda subministrou
+as iguarias e as viandas para o festim nupcial. Antes quizera encontrar
+no ceu o meu mais encarnicado inimigo, do que ter visto despontar um tal
+dia, Horacio. Meu pobre pae, parece-me que o estou vendo!
+
+HORACIO
+
+Onde, senhor?
+
+HAMLET
+
+Na minha imaginacao, Horacio.
+
+HORACIO
+
+Recordo-me de o ter visto, era um grande rei.
+
+HAMLET
+
+Era um homem que, bem considerado, nao tinha rival na terra.
+
+HORACIO
+
+Julgo tel-o visto a noite passada.
+
+HAMLET
+
+Viste, quem?
+
+HORACIO
+
+Alteza, vi o rei seu pae.
+
+HAMLET
+
+O rei meu pae?
+
+HORACIO
+
+Senhor, acalme esta agitacao e espanto, e preste attencao, emquanto eu,
+fundado no testemunho ocular d'estes senhores, vou relatar esse
+prodigio.
+
+HAMLET
+
+Falla, pelo amor de Deus, sou todo ouvidos.
+
+HORACIO
+
+Durante duas noites consecutivas, no meio das trevas e do silencio,
+emquanto estes senhores estavam de sentinella, eis o que lhes aconteceu.
+Uma figura parecida com seu pae, armada da cabeca aos pes, lhes
+appareceu caminhando lenta e magestosamente. Tres vezes, atemorisados e
+attonitos, o viram passar a distancia do bastao de commando que
+empunhava, emquanto elles, fulminados pelo terror, ficaram mudos, nem
+ousaram fallar. Confiaram-me, debaixo de segredo, tremulos ainda, o que
+tinham presenceado. Na noite seguinte entrei com elles de sentinella, e
+confirmando a verdade das suas palavras, a hora por elles indicada,
+debaixo da forma por elles descripta, voltou a apparicao. Reconheci seu
+pae; as minhas duas maos nao sao mais parecidas.
+
+HAMLET
+
+Mas em que sitio appareceu?
+
+MARCELLO
+
+Senhor, na explanada, onde estavamos de sentinella.
+
+HAMLET
+
+Fallaram-lhe.
+
+HORACIO
+
+Fallamos, mas nao respondeu. Comtudo uma vez pareceu-me que movia a
+cabeca, como quem quer fallar; mas n'esse momento cantou o gallo
+matinal; ao som do canto afastou-se o espectro apressadamente, e nos
+perdemol-o de vista.
+
+HAMLET
+
+Na verdade e incomprehensivel.
+
+HORACIO
+
+Senhor, juro-lhe pela minha vida que e verdade, e julgamos nosso dever
+informar Vossa Alteza.
+
+HAMLET
+
+Nao posso dissimular a minha inquietacao! Estao de guarda esta noite?
+
+TODOS
+
+Sim, Alteza.
+
+HAMLET
+
+Armado, disseram?
+
+TODOS
+
+Armado, meu senhor.
+
+HAMLET
+
+Da cabeca aos pes?
+
+TODOS
+
+Tal qual.
+
+HAMLET
+
+Viram-lhe as feicoes?
+
+TODOS
+
+Vimos, tinha a viseira levantada.
+
+HAMLET
+
+Tinha physionomia carregada?
+
+TODOS
+
+A expressao era antes triste que colerica.
+
+HAMLET
+
+Pallido ou corado?
+
+TODOS
+
+Muito pallido.
+
+HAMLET
+
+O seu olhar fixou-se em algum de vos?
+
+TODOS
+
+Constantemente.
+
+HAMLET
+
+Queria la ter estado.
+
+HORACIO
+
+O seu espanto teria sido igual ao nosso.
+
+HAMLET
+
+e mais que provavel. Demorou-se muito?
+
+HORACIO
+
+O tempo necessario para contar ate _um cento_, sem parar.
+
+MARCELLO e BERNARDO
+
+Muito mais, muito mais.
+
+HORACIO
+
+Nao a vez que o vi.
+
+HAMLET
+
+A barba era grisalha, nao e verdade?
+
+HORACIO
+
+Era, como em sua vida, de um negro prateado.
+
+HAMLET
+
+Velarei tambem esta noite, talvez que volte.
+
+HORACIO
+
+Sem duvida alguma.
+
+HAMLET
+
+Se se me apresentar debaixo da figura de meu pae, fallar-lhe-hei, embora
+o inferno me ordenasse o silencio, pelas suas horrendas fauces.
+Peco-vos, portanto, que se ate hoje tendes guardado um segredo tal a
+respeito da apparicao, de hoje em diante sejaes ainda mais cautelosos em
+conservar o sigillo; e aconteca o que acontecer esta noite, reflexao e
+silencio: serei grato a esta prova de affeicao. Assim, pois, adeus,
+encontrarme-hei comvosco na explanada entre as onze horas e a meia
+noite.
+
+TODOS
+
+Os nossos respeitos, principe.
+
+HAMLET
+
+Sempre amigos, adeus. (Horacio, Marcello e Bernardo saem.)
+(Continuando.) A sombra de meu pae, porque apparece armada? Havera algum
+perigo. Suspeito alguma traicao. Espero impacientemente a noite. Ate
+entao, socega coracao. Nao ha crimes tao occultos, que o homem nao possa
+descobrir. (Sae.)
+
+
+SCENA III
+
+Um quarto em casa de Polonio
+
+Entram LAERTE e OPHELIA
+
+LAERTE
+
+Ja embarcaram os meus creados e roupas. Adeus, minha irma; quando ventos
+propicios encherem as velas ao navio que me leva, espero que com a minha
+ausencia nao esfriara a tua amisade, e que me daras novas tuas.
+
+OPHELIA
+
+Duvidas porventura, irmao?
+
+LAERTE
+
+Quanto ao que respeita a Hamlet e a sua frivola amisade, considera-a
+como uma moda ephemera, um capricho dos sentidos, uma violeta da
+primavera, precoce mas passageira, suave mas fenecendo ao desabrochar, e
+cujo perfume dura um minuto apenas.
+
+OPHELIA
+
+So um minuto?
+
+LAERTE
+
+So, acredita-me, porque o teu desenvolvimento nao e so nos musculos e no
+corpo; a medida que o templo toma proporcoes mais vastas, tambem se
+expande o espirito e a alma. e possivel que te ame agora, que nenhuma
+macula, nenhuma deslealdade offusque a pureza dos seus sentimentos; mas
+acautela-te, porque na posicao que occupa e-lhe vedada a propria
+vontade, e escravo do seu nascimento. Nao pode, como os outros homens,
+escolher so por affeicao, porque a sua escolha estao ligados o bem-estar
+e a salvacao do estado; por isso deve subordinal-a ao voto e a
+approvacao da nacao de que e chefe. Se, pois, te fallar de amor,
+assisadamente usaras, nao acreditando senao o que a sua posicao lhe
+permitte offerecer, vistoque a sua vontade deve ser a vontade da nacao.
+Pensa bem, que mancha para a tua reputacao, se prestasses ouvidos por
+demais credulos, ao encanto das suas fallas, se envenenasses tua alma,
+se abrisses o cofre da castidade as suas audaciosas instancias.
+Acautela-te, Ophelia, acautela-te, querida irma, luta com a tua affeicao
+para vencer as settas e os perigos dos desejos. A virgem prudente ja e
+assas prodiga se patenteia a sua belleza aos raios lunares; a propria
+virtude nao escapa aos golpes da calumnia; o verme roe as filhas
+predilectas da primavera, antes das flores desabrocharem; e e na aurora
+da vida, regada pelo puro e limpido orvalho, que ha mais perigo para a
+flor da castidade. Se, pois, circumspecta, a melhor proteccao e o receio
+do perigo; a juventude e para si mesma um perigo, se nao trava luta com
+outros maiores.
+
+OPHELIA
+
+Em meu coracao encerrarei, como um preservativo, a tua salutar licao.
+Mas, querido irmao, nao sejas tu, como certos pastores sem virtude, que
+indicam as suas ovelhas o caminho escarpado e espinhoso que conduz ao
+ceu, emquanto elles, libertinos, fogosos e sem pudor, trilham o caminho
+das flores, da licenca, e sao a antithese das suas palavras.
+
+LAERTE
+
+De mim nao te arreceies: ja devia ter partido; eis meu pae.
+
+Entra POLONIO
+
+Uma dupla bencao e um beneficio duplo; abencoo a occasiao de me despedir
+segunda vez de ti.
+
+POLONIO
+
+Ainda aqui, Laerte? para bordo, para bordo. Nao te envergonhas? Teu
+navio so te espera para velejar. Recebe a minha bencao, e grava na tua
+memoria os seguintes preceitos. Guarda para ti o pensamento, e nao des
+execucao apressadamente aos teus projectos; medita-os maduramente. Se
+lhano sem te esqueceres de quem es. Quando tomares um amigo cuja
+affeicao tenhas experimentado, liga-o a ti por vinculos de aco; mas nao
+des confianca irreflectidamente. Faze por evitar questoes; mas se o nao
+poderes conseguir, conduze-te de maneira que fiques sempre superior ao
+teu adversario. Ouve a todos, mas se avaro de palavras; escuta o
+conselho que te derem, forma depois o teu juizo. No teu trajar se tao
+sumptuoso, quanto t'o permittam os teus meios, mas nunca affectado;
+rico, mas nao offuscante; o porte da a conhecer o homem, e n'esse ponto,
+as pessoas de qualidade em Franca revelam um gosto primoroso, e o mais
+fino tacto. Nao emprestes, nem pecas emprestado: quem empresta perde o
+dinheiro e o amigo, e o pedir emprestado e o primeiro passo para a
+ruina. Mas sobre tudo se verdadeiro para a tua consciencia, e assim como
+a noite se segue ao dia, seguir-se-ha tambem, que o teu coracao jamais
+abrigara falsidade. Adeus, que a minha bencao selle em teu coracao os
+meus conselhos.
+
+LAERTE
+
+Despedindo-me, humildemente vos beijo a mao, meu pae.
+
+POLONIO
+
+Nao tens tempo que perder, teus creados esperam-te.
+
+LAERTE
+
+Adeus, Ophelia, recorda-te das minhas palavras.
+
+OPHELIA
+
+Fechei-as no meu coracao; dou-te a chave, guarda-a.
+
+LAERTE
+
+Adeus. (Sae.)
+
+POLONIO
+
+Que te disse elle, Ophelia?
+
+OPHELIA
+
+Com licenca de meu pae, fallou-me a respeito de Hamlet.
+
+POLONIO
+
+Folgo que o fizesse. Disseram-me que ultimamente Hamlet tem tido comtigo
+frequentes entrevistas, e que tu nao te esquivas as suas frequentes
+visitas. Se assim e, e creio na informacao que me deram, devo dizer-te
+que nao encaras a tua posicao com a lucidez que convem a minha filha, e
+que a tua honra exige. Dize-me a verdade, o que ha?
+
+OPHELIA
+
+Protestos de amor.
+
+POLONIO
+
+De amor! como inexperiente fallas, conservas as illusoes todas. Das tu
+porventura credito aos seus protestos, como tu lhe chamas?
+
+OPHELIA
+
+Nem sei, senhor, o que devo pensar.
+
+POLONIO
+
+Pois bem, eu t'o digo. e necessario que sejas bem creanca para crer uma
+realidade os seus protestos, de cuja sinceridade deveras duvido. Nao te
+deprecies assim; seria uma loucura.
+
+OPHELIA
+
+O seu respeito foi inseparavel das suas phrases de amor.
+
+POLONIO
+
+E tu acreditas, pobre louca.
+
+OPHELIA
+
+Firmou as suas palavras com os juramentos mais sagrados.
+
+POLONIO
+
+Assim arma o cacador os lacos a avesinha innocente e incauta. Sei que,
+quando o sangue ferve, a nossa boca nunca se nega a protestos e
+juramentos. Minha filha, estes lampejos que dao mais luz que calor, e
+cujo brilho e ephemero, nunca os tomes por verdadeira chamma de amor. A
+datar de hoje, nao malbarates tanto a tua presenca virginal; difficulta
+mais as entrevistas, que nao baste pedir para as obter. Quanto ao sr.
+Hamlet e a confianca que n'elle podes ter, considera que e joven, e que
+pode tomar liberdades de que depois tenhas que te arrepender. N'uma
+palavra, Ophelia, descre dos seus juramentos, porque nao sao
+verdadeiros; interpretes de desejos profanos, revestem-se da linguagem
+da mais santa sinceridade. Uma vez por todas, e franqueza, filha,
+prohibo-te toda e qualquer conversa com o sr. Hamlet. Pensa bem.
+Ordeno-t'o.
+
+OPHELIA
+
+Obedecerei, meu pae. (Saem.)
+
+
+SCENA IV
+
+A explanada do castello de Elsenor
+
+Chegam HAMLET, HORACIO e MARCELLO
+
+HAMLET
+
+Que frio horrivel, gelo.
+
+HORACIO
+
+O ar esta deveras glacial.
+
+HAMLET
+
+Que horas sao?
+
+HORACIO
+
+Nao deve tardar a meia noite.
+
+MARCELLO
+
+Esta dando meia noite.
+
+HORACIO
+
+Ja! nao ouvi, em todo o caso approximamo-nos da hora a que costuma
+apparecer o phantasma. (Ouvem-se ao longe tangeres de instrumentos, e o
+troar de artilheria.) Que rumor e este?
+
+HAMLET
+
+O rei consagra esta noite ao prazer, esta bebendo, e a cada copo de
+vinho do Rheno, os timbales e clarins proclamam o brinde que levantou.
+
+HORACIO
+
+Isso e costume?
+
+HAMLET
+
+Sim e, mas apesar de eu ter nascido n'este paiz, e estar acostumado a
+estes usos, ha emquanto a mim mais gloria em infringil-os, do que em
+observal-os. Estas orgias abjectas trazem-nos, do oriente ao occidente,
+o desprezo das outras nacoes, que nos qualificam de ebrios, e juntam aos
+nossos nomes os epithetos mais grosseiros. Este defeito embaca as nossas
+mais brilhantes qualidades, e tira-lhes todo o valor. O mesmo acontece
+aos individuos. Se ao nascerem, receberam da natureza alguma macula
+original, de que nao sao culpados, poisque o nascimento e independente
+da nossa vontade; se os afflige algum vicio de temperamento contra o
+qual todos os esforcos da rasao sao impotentes, algum costume que
+desagrade nos seus modos destruindo-lhes o encanto; acontece a esses
+homens, tendo o estigma de um defeito unico, libre da natureza, sello da
+sua estrella, acontece, digo, que todas as suas virtudes, fossem ellas
+puras como a graca celeste, infinitas quanto comporta a humanidade,
+ficariam manchadas na opiniao, publica por esse defeito unico. Basta uma
+mollecula de liga para depreciar esse metal.
+
+Apparece a sombra
+
+HORACIO
+
+Senhor, eil-o.
+
+HAMLET
+
+Anjos do ceu, poderes misericordiosos, protegei-nos. Genio bemfazejo, ou
+demonio infernal, que exhalas os perfumes celestes, ou as emanacoes do
+averno; que sejam sinistras ou caridosas as tuas intencoes, appareces-me
+debaixo de uma forma tao grata que te quero fallar. Interrogo-te,
+Hamlet, senhor, meu pae, rei de Dinamarca, oh! responde-me, nao me
+deixes, na ignorancia, morrer de emocao; mas dize-me, porque teus bentos
+ossos encerrados no ataude romperam os sellos; porque te levantaste do
+tumulo em que te haviamos depositado; porque se ergueu a lapide
+sepulchral para te lancar a este mundo? Como, cadaver inanimado,
+vestindo a tua armadura de aco, vagueias tu a duvidosa claridade da lua,
+imprimindo a noite um caracter de horror, lancando-nos, fracos ludibrios
+da natureza, nas ancias do terror; e fazendo surgir em nossas almas
+pensamentos que excedem o nosso alcance? Responde. Porque? Com que fim?
+Que exiges?
+
+HORACIO
+
+Faz-vos signal de o seguir, como se quizesse fallar-vos a sos.
+
+MARCELLO
+
+Veja, principe, o gesto cheio de cortezia e dignidade, com que o convida
+a seguil-o a logar mais remoto; mas nao va.
+
+HORACIO
+
+Senhor, pelo amor de Deus.
+
+HAMLET
+
+Quer-me fallar, pois bem, seguil-o-hei.
+
+HORACIO
+
+Nao faca tal, senhor.
+
+HAMLET
+
+Porque? que tenho eu a receiar, importa-me tanto a vida, como se fosse
+um alfinete; quanto a minha alma, nada pode contra ella, porque e
+immortal, como elle e. Repete o signal, vou seguil-o.
+
+HORACIO
+
+E se elle vos attrahisse ao Oceano ou ao pincaro escarpado de algum
+rochedo saliente e sobranceiro ao mar; e se tomasse alguma forma
+horrivel, cuja vista vos varresse a rasao tornando-vos demente? Pensae
+bem, senhor, nao receiaes alguma vertigem ao contemplar de alto a
+immensidade debaixo de vossos pes?
+
+HAMLET
+
+Continua a fazer-me signal. Caminha, sigo-te.
+
+MARCELLO
+
+Nao ha de ir, senhor.
+
+HAMLET
+
+Ninguem me detenha.
+
+HORACIO
+
+Seja rasoavel, principe, nao va.
+
+HAMLET
+
+Ouco a voz do meu destino; brada alto, e cada um dos meus musculos
+adquiriu o vigor dos do leao de Nemea. (A sombra faz-lhe signal de a
+seguir.) Chama-me outra vez, deixem-me, senhores (escapa-se-lhes dos
+bracos.) Por Deus, que nao vivera, quem ousar oppor-se-me. Afastem-se,
+ja disse. (a sombra.) Caminha, sigo-te. (A sombra e Hamlet afastam-se.)
+
+HORACIO
+
+Apoderou-se d'elle o delirio.
+
+MARCELLO
+
+Sigamol-o; desobedecer-lhe e forcoso n'estas circumstancias.
+
+HORACIO
+
+Nao o abandonemos. Qual sera o resultado!
+
+MARCELLO
+
+Algum vicio ha na constituicao da Dinamarca.
+
+HORACIO
+
+O ceu provera o que for melhor.
+
+MARCELLO
+
+Sigamos o principe. (Saem todos.)
+
+
+SCENA V
+
+Uma parte mais afastada da explanada
+
+Chegam HAMLET e a SOMBRA
+
+HAMLET
+
+Onde pretendes conduzir-me; mais adiante nao irei.
+
+A SOMBRA
+
+Encara-me, Hamlet.
+
+HAMLET
+
+Que queres?
+
+A SOMBRA
+
+Approxima-se a hora em que me devo recolher as chammas sulphureas e
+ardentes.
+
+HAMLET
+
+Pobre alma!
+
+A SOMBRA
+
+Nao me lastimes, mas presta attencao ao segredo que te vou revelar.
+
+HAMLET
+
+Falla, e meu dever escutar-te.
+
+A SOMBRA
+
+Dever tambem e vingar-me depois de me teres ouvido.
+
+HAMLET
+
+Que ouco!
+
+A SOMBRA
+
+Sou a alma de teu pae, condemnada a penar durante um tempo certo, a
+jejuar n'um carcere de chammas, ate que as culpas que mancharam a minha
+vida estejam completamente expiadas e purificadas pelo fogo. Se nao me
+fosse defezo revelar os segredos do meu carcere, far-te-ia uma narrativa
+de que cada palavra encheria de terror a tua alma, gelaria o teu sangue,
+os olhos quaes estrellas brilhantes sairiam das suas orbitas, os anneis
+do teu cabello desfazer-se-iam em completa desordem, e cada cabello
+ficaria hirto como as cerdas do javali; mas estes mysterios eternos nao
+sao para ouvidos profanos de carne e de sangue. Escuta, escuta, oh
+escuta-me! se alguma vez amaste teu carinhoso pae...
+
+HAMLET
+
+Oh ceus!
+
+A SOMBRA
+
+Vinga a sua morte, causada por um assassinio, cobarde, infame e nefando.
+
+HAMLET
+
+Um assassinio?
+
+A SOMBRA
+
+Infame! todos os assassinios o sao, mas nunca houve nenhum mais infame,
+inaudito e horrendo do que este.
+
+HAMLET
+
+Apressa-te em desvelar-m'o, para que prompto, como a meditacao, ou como
+o pensamento de amor, possa saciar a minha vinganca.
+
+A SOMBRA
+
+Grato sou ao teu empenho, Hamlet; era preciso que fosses mais apathico
+do que a planta grossa e crassa que immovel e inerte apodrece nas
+margens do Lethes, se nao sentisses n'este momento commocao alguma.
+Agora, ouve-me. Espalhou-se que emquanto dormia no meu jardim, uma
+serpente me mordera; e assim que uma fallaz narrativa enganou a
+Dinamarca sobre a causa da minha morte. Sabe tu pois a verdadeira, nobre
+mancebo: a serpente cujo dardo matou teu pae, cinge hoje a coroa d'este
+reino.
+
+HAMLET
+
+Oh meus propheticos presentimentos, meu tio!
+
+A SOMBRA
+
+Sim, esse monstro, incestuoso, adultero pela magia das palavras, pelos
+dotes insidiosos. Oh loquela perversa, oh dotes nefarios, poisque tem
+tal poder de seduccao, e conseguiu inspirar essa vergonhosa paixao a
+minha mulher, apparentemente tao virtuosa. Oh! Hamlet, que degradacao!
+Descer de mim, cujo amor nobre e digno nao tinha desmentido um instante
+o juramento prestado junto ao altar, a um miseravel, entre cujas
+qualidades naturaes e as minhas havia um abysmo! Mas assim como a
+virtude resiste inabalavel as tentacoes do vicio, aindaque debaixo da
+forma da Divindade lhe apparecesse, assim tambem a impudicicia, embora
+associada a um anjo celeste de luz, cansa-se da santidade do leito
+conjugal, para ir habitar o mais desprezivel prostibulo. Mas ja sinto a
+frescura da aurora, forcoso e que eu termine. Emquanto dormia no meu
+jardim, era esse o meu costume todas as tardes; teu tio, aproveitando a
+minha inconsciencia, approximou-se de mim, munido de um frasco de
+meimendro, e lancou-me n'um ouvido o conteudo. e um veneno tao activo
+para o sangue humano, que com a subtileza do mercurio corre e se
+infiltra em todos os canaes, em todas as veias, coalhando e alterando o
+sangue pela sua accao energica: o mais puro e limpido nao lhe resiste, e
+como uma gotta de qualquer acido n'uma taca de leite. Tal foi o seu
+effeito, que uma lepra instantanea cobriu meu corpo de uma crosta impura
+e infecta. Eis como durante o meu somno, tudo me foi arrebatado de uma
+vez, e pela mao de um irmao, vida, coroa e consorte. A morte
+surprehendeu-me em estado flagrante de peccado; sem sacramentos, sem me
+reconciliar, nem com Deus, nem com a minha consciencia; tinha que
+comparecer perante o Juiz Supremo vergando sob o peso das minhas
+iniquidades. Horror, horror, cumulo de horror! Se em teu coracao vibra a
+fibra da sensibilidade, nao o toleres. Nao consintas que o leito do rei
+de Dinamarca se transforme em mansao da luxuria e do incesto. Mas seja
+qual for a tua vinganca, conserva-te moral e puro, e poupa tua mae.
+Entrega o seu castigo ao ceu, e aos espinhos do remorso que lhe
+dilaceram o coracao. Adeus, cumpre-me deixar-te; a luz do perilampo,
+cujo fogo sem calor comeca a esmorecer, annuncia a approximacao da
+aurora. Adeus, adeus, adeus. Recorda-te sempre de mim. (A sombra
+retira-se.)
+
+HAMLET
+
+Oh! santas legioes do ceu, oh! terra, que mais? Invocarei o inferno? Oh!
+opprobrio; contem-te, ah! contem-te, meu coracao, e vos, meus musculos,
+nao percaes o vigor, e redobrae de forca e energia para me suster.
+Recordar-me de ti? Sim, sombra infeliz, emquanto a memoria nao abandonar
+este meu cerebro desordenado. _Recorda-te de mim_; sempre! quero varrer
+da minha memoria todas as recordacoes frivolas, todas as maximas
+colhidas nos livros, todos os vestigios, todas as impressoes do passado,
+tudo quanto a juventude e a observacao coordenaram, e em sua vez dar so
+lugar, sem rivaes, juro-o pelo ceu, aos teus preceitos. Oh! mulher
+perversa, oh infame e damnado monstro! oh memoria, grava bem o seguinte,
+que nos sorrisos do homem se pode occultar um crime; assim e na
+Dinamarca (escreve n'uma carteira). Meu tio, espere-me. A minha senha
+sera de hoje em diante. _Adeus, adeus, adeus. Recorda-te de mim._
+Jurei-o.
+
+HORACIO ao longe
+
+Senhor, senhor?
+
+MARCELLO ao longe
+
+Senhor Hamlet?
+
+HORACIO
+
+Que o ceu o proteja.
+
+HAMLET
+
+Assim seja.
+
+MARCELLO ao longe
+
+Ola, ola, senhor!
+
+HAMLET
+
+Pousa meu falcao, pousa. (Imita o canto do falcao e o chamamento do
+falcoeiro.)
+
+Chegam HORACIO e MARCELLO
+
+MARCELLO
+
+O que se passou, senhor?
+
+HORACIO
+
+Que novas, senhor?
+
+HAMLET
+
+As mais extraordinarias.
+
+HORACIO
+
+Conte-nol-as, principe.
+
+HAMLET
+
+e um segredo.
+
+HORACIO
+
+E nao sou eu capaz de o guardar? O principe conhece-me.
+
+MARCELLO
+
+E eu?
+
+HAMLET
+
+Que me dirao quando o souberem: que coracao humano o teria pensado.
+Juram-me segredo?
+
+HORACIO e MARCELLO
+
+Juramos.
+
+HAMLET
+
+Nao ha em toda a Dinamarca um scelerado igual.
+
+HORACIO
+
+Era necessario que um espectro saisse do tumulo para nol'o dizer?
+
+HAMLET
+
+e verdade, teem rasao. Basta de palavras, um aperto de mao, e cada um
+volte onde o chamam os negocios e as suas inclinacoes, porque todos teem
+inclinacoes e negocios, sejam quaes forem: eu, pobre paria do mundo, vou
+orar.
+
+HORACIO
+
+Sao palavras incoherentes e sem sentido, alteza.
+
+HAMLET
+
+Peza-me que te offendesses, peza-me deveras.
+
+HORACIO
+
+Em que, senhor?
+
+HAMLET
+
+Por S. Patricio, que te offendi e gravemente. Quanto a apparicao de inda
+agora, e um phantasma honesto, digo-t'o eu. Quanto ao desejo de
+conhecerem, senhores, o que entre nos se passou, reprimam-n'o. E agora,
+meus bons amigos, em nome da nossa amisade, da nossa camaradagem de
+estudos e de armas, facam-me um favor.
+
+HORACIO
+
+Qual e? Nao hesitamos.
+
+HAMLET
+
+Nunca digam o que viram esta noite.
+
+AMBOS
+
+Conte com a nossa palavra, principe.
+
+HAMLET
+
+Quero um juramento.
+
+HORACIO
+
+Prometti o segredo.
+
+MARCELLO
+
+Ja juramos.
+
+HAMLET
+
+Mas jurem sobre a minha espada.
+
+A SOMBRA (debaixo da terra)
+
+Jurem.
+
+HAMLET
+
+Ah! ah! meu camarada, es tu que fallas; estas ahi, meu valente,
+approxima-te; ouvem a sua voz, prestem o juramento.
+
+HORACIO
+
+Diga-nos a formula, principe.
+
+HAMLET (afastando-se um pouco com elles)
+
+Jurem sobre a minha espada, que guardarao sigillo do que viram e
+ouviram.
+
+A SOMBRA (debaixo da terra)
+
+Jurem.
+
+HAMLET
+
+_Hic et ubique._ Vamos para mais longe. (Afastam-se um pouco.)
+Approximem-se, e estendendo a dextra sobre a minha espada, jurem por
+este gladio nunca revelar o que viram e ouviram.
+
+A SOMBRA (debaixo da terra)
+
+Jurem pela sua espada.
+
+HAMLET
+
+Bravo, velha toupeira, como caminhas depressa subterraneamente, que
+bello mineiro! Afastemo-nos mais uma vez, meus bons amigos.
+
+HORACIO
+
+Por vida minha, e prodigioso!
+
+HAMLET
+
+Acolhamol-o como se acolhe um estrangeiro. O ceu e a terra encerram mais
+mysterios, que os conhecidos pelos philosophos; mas venham. Notem o que
+notarem nos meus modos, se eu julgar necessario affectar maneiras
+extravagantes, jurem-me pela sua salvacao que nunca cruzarao os bracos,
+meneando a cabeca, nem lhes escaparao palavras ambiguas, como por
+exemplo: _Muito bem, muito bem_--_ja sabemos_--ou--_se quizessemos
+fallar_--ou--_ainda ha pessoas que se ousassem_--ou outras expressoes
+equivocas, dando a perceber que estao na confidencia; jurem que nada
+farao; e possa, quando mais precisarem, nao lhes faltar a graca divina.
+
+A SOMBRA (debaixo da terra)
+
+Jurem.
+
+HAMLET
+
+Acalma-te, alma penada. Assim, senhores, recommendo-me a vossa affeicao,
+e tudo quanto um homem tao debil como Hamlet possa fazer para lhes
+provar o seu affecto, fal-o-ha com a ajuda de Deus. Retiremo-nos juntos,
+e silencio; peco-lh'o eu. Ha no mundo alguma grande perturbacao.
+Maldicao. Porque serei eu o eleito para a terminar? Vamos, partamos
+juntos.
+
+
+Fim do acto primeiro
+
+
+
+
+ACTO SEGUNDO
+
+
+SCENA I
+
+Uma sala em casa de Polonio
+
+Entram POLONIO e RINALDO
+
+POLONIO
+
+Rinaldo, entrega a meu filho este dinheiro e estas letras.
+
+RINALDO
+
+Sim, meu senhor.
+
+POLONIO
+
+Mas antes de o procurar, obraras assisadamente tomando informacoes a seu
+respeito.
+
+RINALDO
+
+Era essa a minha intencao.
+
+POLONIO
+
+Bem, muito bem; toma antes todas as informacoes pelos dinamarquezes que
+estao em Paris, ve as suas relacoes, e com quem se dao, quaes os seus
+gastos; depois de te assegurares pelas tuas perguntas que conhecem meu
+filho, procura colher informacoes mais exactas, sem comtudo o dar a
+entender. Dissimula que o conheces perfeitamente, dizendo, por exemplo:
+Conheco o pae e a familia, mas d'elle nao tenho conhecimento algum.
+Entendes, Rinaldo?
+
+RINALDO
+
+Perfeitamente, senhor.
+
+POLONIO
+
+De todo nao me e desconhecido, podes acrescentar. Conheco-o pouco e
+verdade, comtudo aquelle de quem fallo e um dissipador com todos os seus
+defeitos; imputa-lhe entao todos os vicios que te parecer, excepto
+aquelles que podem deshonrar um homem, toma conta n'isso; so as loucuras
+e imprudencias proprias de um joven que se sente livre de todo o
+constrangimento paterno.
+
+RINALDO
+
+O jogo, talvez?
+
+POLONIO
+
+Bem, e as bebidas, a esgrima, as pragas, o genio bulicoso, a convivencia
+do prostibulo, e ate onde te auctoriso que chegues.
+
+RINALDO
+
+Actos sao, na verdade, que nao deshonram.
+
+POLONIO
+
+Sabes bem como te deves haver fazendo estas imputacoes. Nao aggraves os
+factos accusando-o de devassidao continua e habitual; nao pretendo tal;
+censura-o mas com discricao; exprime-te como se attribuisses as suas
+faltas aos defeitos inherentes a mocidade, ao abuso da liberdade, ao
+arrebatamento de um espirito fogoso, a effervescencia de um sangue
+ardente.
+
+RINALDO
+
+Mas, senhor?
+
+POLONIO
+
+Porque sera conveniente obrar assim.
+
+RINALDO
+
+Para lh'o perguntar estava eu.
+
+POLONIO
+
+e onde eu queria chegar, e na minha opiniao e um ardil sem igual. Depois
+de teres imputado a meu filho esses ligeiros defeitos, que se podem
+considerar quando muito como imperfeicoes n'uma bella obra; se o teu
+interlocutor, aquelle que queres sondar, notou no joven a que te referes
+algum dos vicios mencionados, esta certo que respondera immediatamente:
+Meu caro senhor, ou _meu amigo_--ou _meu cavalheiro_--segundo o costume
+do individuo, ou o uso do paiz...
+
+RINALDO
+
+Prosiga, senhor.
+
+POLONIO
+
+Entao... que estava eu dizendo? pela santa missa--que queria eu dizer? o
+que era?
+
+RINALDO
+
+Fallava da resposta...
+
+POLONIO
+
+Que te darao, e isso, e nao deixarao de responder: _Conheco esse
+mancebo, vi-o ainda hontem, ou outro qualquer dia, em tal epocha, com
+estes ou com aquelles, surprehendi-o jogando, ou n'uma orgia ou numa
+rixa_, ou ainda, _vi-o entrar n'uma casa suspeita_; ou outras cousas
+similhantes: agora ves como com a mentira se colhe a verdade. e assim
+que nos, as pessoas entendidas, empregamos a miudo o embuste e a
+falsidade para descobrir a verdade. Ahi esta o caminho que seguiras para
+saber o comportamento de meu filho. Percebes agora?
+
+RINALDO
+
+Sim, meu senhor.
+
+POLONIO
+
+O Senhor seja comtigo, boa viagem.
+
+RINALDO
+
+Meu amo!
+
+POLONIO
+
+Observa tu mesmo as suas inclinacoes.
+
+RINALDO
+
+Fal-o-hei, senhor.
+
+POLONIO
+
+Mas nao o distraias da sua vida.
+
+RINALDO
+
+Bem entendo.
+
+POLONIO
+
+Adeus. (Rinaldo sae.)
+
+Entra OPHELIA
+
+POLONIO
+
+Que te traz por aqui, Ophelia?
+
+OPHELIA
+
+Meu pae, meu pae, ainda tremo.
+
+POLONIO
+
+Porque? Falla por piedade.
+
+OPHELIA
+
+Querido pae, estava no meu quarto trabalhando em costura, quando de
+repente deparo com o sr. Hamlet, mas em que estado! as vestes em
+desordem, o cabello em desalinho, as meias caidas arrastavam pelo chao,
+pallido e branco como uma mortalha, tremiam-lhe as pernas, o rosto tinha
+a expressao do desespero, qual profugo do inferno mensageiro de novas
+horriveis.
+
+POLONIO
+
+Enlouqueceria por tua causa?
+
+OPHELIA
+
+Nao sei, meu pae, mas receio-o deveras.
+
+POLONIO
+
+Que te disse elle, Ophelia?
+
+OPHELIA
+
+Tomou-me os pulsos, apertando-os convulsivamente, depois afastando-se a
+distancia do seu braco, levando a mao a testa, fitou os olhos no meu
+rosto, como se me quizesse retratar. Assim se demorou por largo tempo,
+por fim saccudindo-me levemente o braco, levantando e baixando por tres
+vezes a cabeca, suspirou tao profundamente, que todo o seu corpo
+estremeceu, parecia o prenuncio da morte. Feito isto, deixou-me, partiu
+e desviando a cabeca, como um homem que para achar caminho nao precisa o
+auxilio da vista, transpoz a porta; mas entao o seu olhar estava fito em
+mim.
+
+POLONIO
+
+Segue-me, filha, vou procurar o rei. e o delirio do amor; a sua
+violencia mata-o, e impoe a sua vontade actos de desespero, que nenhuma
+outra paixao humana excitaria. Peza-me sinceramente. Dize-me,
+ter-lhe-ias tu dirigido ultimamente alguma palavra cruel.
+
+OPHELIA
+
+Nao, meu pae; mas obedecendo as suas ordens, recusei as suas cartas e
+evitei a sua presenca.
+
+POLONIO
+
+Eis o que perturbou a sua rasao. Doe-me de o nao ter conhecido melhor:
+receiei que as suas intencoes nao fossem serias, e que so pretendesse
+consummar a tua ruina. Arrependo-me do fundo de alma das minhas
+desconfiancas. Parece que o confiar cegamente na previdencia e o
+apanagio da minha idade, como o contrario e o defeito da mocidade. Vem,
+dirijamo-nos ao rei, convem que elle nada ignore; porque o sigillo
+d'este amor poderia acarretar mais desgracas do que a sua revelacao
+resentimentos. (Saem ambos.)
+
+
+SCENA II
+
+Uma sala no castello de Elsenor
+
+Entram o REI, a RAINHA, as suas comitivas, ROSENCRANTZ e GUILDENSTERN
+
+O REI
+
+Sejam bemvindos, caros Rosencrantz e Guildenstern. Independentemente do
+gosto de os ver, a necessidade do seu prestimo me obrigou a chamal-os a
+esta corte sem demora. Ouviram seguramente fallar da transformacao de
+Hamlet; digo transformacao, porque ja nao e o mesmo homem, nem moral nem
+physicamente. So a morte do pae pode ser a causa do transtorno da sua
+rasao, nao posso conceber outra. Educados com elle desde a infancia,
+sympathisando entre si pela idade e pelo caracter, peco-lhes que
+permanecam algum tempo na corte, procurem inspirar-lhe o gosto e prazer
+da sua convivencia, aproveitem todas as occasioes para descobrir se a
+sua affliccao nao tem alguma causa desconhecida, cuja revelacao nos
+permittisse dar-lhe remedio.
+
+A RAINHA
+
+Bastante tem fallado nos senhores, e estou convencida que ninguem no
+mundo lhes e mais affeicoado. A liberalidade do rei compensara
+largamente os seus servicos e os seus incommodos. Esperamos dos senhores
+esta prova de affeicao.
+
+ROSENCRANTZ
+
+Vossas magestades sao nossos soberanos, e os reis nao pedem, mandam.
+
+GUILDENSTERN
+
+Estamos promptos a obedecer; disponham de nos, senhores. Depondo aos pes
+dos reis os nossos servicos e a nossa dedicacao, pedimos-lhes so que
+ordenem.
+
+O REI
+
+Obrigado, senhores.
+
+A RAINHA
+
+Obrigada tambem eu; vao ter com meu filho: infelizmente mal o
+reconhecerao. (a sua comitiva) Alguns d'estes senhores conduzam estes
+cavalheiros junto de Hamlet.
+
+GUILDENSTERN
+
+Praza a Deus, que a nossa presenca lhe seja agradavel e os nossos
+cuidados um lenitivo.
+
+A RAINHA
+
+Deus queira. (Rosencrantz e Guildenstern saem seguidos de alguns
+cortezaos.)
+
+Entra POLONIO
+
+POLONIO
+
+Senhor, regressaram de Noruega os embaixadores, satisfeitos com o
+resultado da sua missao.
+
+O REI
+
+es sempre correio de boas novas.
+
+POLONIO
+
+Senhor! esteja vossa magestade certo que a minha alma poe a par a
+dedicacao ao meu rei e o respeito e amor ao meu Deus. A menos que a
+minha sagacidade habitual me enganasse, descobri a verdadeira causa da
+loucura do senhor Hamlet.
+
+O REI
+
+Estou ancioso por conhecel-a.
+
+POLONIO
+
+Primeiro os embaixadores, depois eu.
+
+O REI
+
+Recebe-os, e encarrego-te de os introduzir a nossa presenca. (Polonio
+sae.) (a rainha.) Annunciou-me, querida Gertrudes, que conhece a causa
+da doenca de seu filho.
+
+A RAINHA
+
+Receio bem que a morte de seu pae e o nosso precipitado consorcio sejam
+as causas unicas.
+
+O REI
+
+Sabel-o-hemos em breve.
+
+Entram POLONIO, VOLTIMANDO e CORNELIO
+
+O REI
+
+Bemvindos sejam, amigos. Falla tu, Voltimando; que novas trazes de nosso
+irmao de Noruega?
+
+VOLTIMANDO
+
+Envia-vos seus cumprimentos e sauda-vos cordealmente. Mal nos ouviu,
+ordenou ao sobrinho que pozesse fim aos seus preparativos guerreiros.
+Julgava-os dirigidos contra a Polonia; mas convencido por um detido
+exame que eram contra vossa magestade, e indignado por Fortimbraz se
+prevalecer do estado precario, a que a idade e a doenca o tinham
+reduzido, ordenou-lhe que comparecesse na sua presenca. Fortimbraz
+obedeceu a ordem intimada, e depois de severamente reprehendido pelo rei
+de Noruega, prestou nas maos de seu tio o juramento de nada emprehender
+contra vossas magestades. O idoso monarcha, para provar o seu jubilo,
+concedeu-lhe uma pensao annual de tres mil escudos, e licenca para
+combater os polacos com as tropas alistadas. Ao mesmo tempo pede-vos
+pelas presentes (entrega as cartas), que concedaes as suas tropas livre
+passagem pelo vosso territorio nas condicoes estipuladas n'este
+escripto.
+
+O REI
+
+Este resultado enche-nos de satisfacao; quanto ao pedido, lel-o-hemos, e
+depois de maduramente examinado, responderemos. Agradecemos-lhes os seus
+valiosos servicos. Descansem agora; juntos ceiaremos logo. (Voltimando e
+Cornelio saem.)
+
+POLONIO
+
+Felizmente esta terminado este negocio. Senhor e senhora; discutir o que
+constitue a auctoridade, e em que consiste a obediencia dos subditos,
+porque a noite e noite, o dia e dia, e o tempo e tempo, seria perder sem
+proveito a noite, o dia e o tempo; por isso, visto que a concisao e a
+alma do espirito, emquanto que a prolixidade e so o corpo ou o involucro
+exterior, serei breve: Vosso nobre filho esta louco, digo louco, porque
+haveria falta de rasao em querer definir o que constitue verdadeiramente
+loucura. Passemos adiante...
+
+A RAINHA
+
+Menos estylo, Polonio.
+
+POLONIO
+
+Senhora, nao faco estylo, juro-o. Seu filho esta louco; e triste, mas e
+verdade. e verdade que e uma lastima, mas e uma lastima que seja
+verdade; e uma estulta antithese, mas tal qual e acceite-a; nao emprego
+arte. Esta louco; resta-nos procurar a causa d'esse effeito, ou antes
+defeito, porque forcosamente a deve ter. Siga bem o meu raciocinio:
+Tenho uma filha, tanto a tenho, que me pertence. Minha filha, fiel ao
+dever e a obediencia que me deve, note bem, entregou-me este escripto.
+(Mostra um papel.) Reflicta e depois tire a conclusao. (Le.) _Ao idolo
+da minha alma, a celeste Ophelia, a belleza personificada..._ e uma
+desgracada e estulta expressao. _Conserva preciosamente estas linhas, no
+teu seio alabastrino..._
+
+A RAINHA
+
+e de Hamlet a Ophelia.
+
+POLONIO
+
+Espere um momento, senhora, cito textualmente. (Le)
+
+  Duvida que do ceu a abobada azulada
+  Tenha espheras de luz de um magico esplendor,
+  Duvida seja o sol o facho da alvorada,
+  Duvida da verdade em tua alma gravada,
+  Mas nao duvides nunca, oh! nunca, d'este amor.
+
+_Querida Ophelia, nao sou poeta, nao sei modular suspiros com arte, mas
+podes acreditar que te amo, mais que tudo n'este mundo. Adeus, a ti,
+para sempre minha vida, a ti emquanto esta machina mortal me
+pertencer._==Hamlet.==Eis-ahi o que, por obediencia, minha filha me
+entregou. Ja antes ella me tinha confiado as tentativas de Hamlet, a
+proporcao que renovava as suas instancias amorosas.
+
+O REI
+
+Como pode ella acolher este amor?
+
+POLONIO
+
+Em que conta me tem, senhor?
+
+O REI
+
+Na de um homem leal e honrado.
+
+POLONIO
+
+Farei por merecer sempre esse conceito a vossa magestade; mas que
+pensaria o rei de mim, se vendo despontar esse amor, e ja o tinha
+adivinhado antes da confissao de minha filha, que pensariam o rei e a
+rainha, se me calasse, e me tornasse mudo confidente do seu amor; se,
+testemunha da sua paixao, tivesse imposto silencio ao meu coracao, ou se
+a considerasse com indifferenca? ma idea por certo fariam de mim. Nao
+perdi um momento, disse a minha filha: _O senhor Hamlet e um principe
+collocado fora da tua esphera; isto nao pode ser._--Ordenei-lhe entao
+que evitasse a sua convivencia, e que nunca mais recebesse nem mensagens
+nem dadivas. Seguiu o meu conselho, e para abreviar a minha narracao, o
+principe, vendo-se assim repellido, caiu primeiro n'uma profunda
+tristeza, em seguida repugnaram-lhe os alimentos, mais tarde teve
+insomnias, depois abatimentos e fraqueza intellectual, finalmente, e
+sempre gradualmente, chegou a demencia e ao delirio. Deploramol-o todos.
+
+O REI
+
+E pensas ser essa a causa?
+
+A RAINHA
+
+e muito provavel.
+
+POLONIO
+
+Quizera me dissessem, se aconteceu alguma vez affirmar eu alguma cousa
+que nao fosse certa.
+
+O REI
+
+Nunca que eu saiba.
+
+POLONIO
+
+Se nao e verdade o que disse (mostrando a cabeca), que esta role a seus
+pes. Basta-me a mais simples circumstancia para descobrir a verdade,
+aindaque estivesse occulta nas entranhas da terra.
+
+O REI
+
+Por que modo nol-o poderas tu provar.
+
+POLONIO
+
+Vossa magestade nao ignora que o sr. Hamlet algumas vezes passeia quatro
+horas consecutivas n'esta galeria.
+
+A RAINHA
+
+e certo.
+
+POLONIO
+
+Quando ali estiver, enviar-lhe-hei minha filha, e nos, occultos por
+detras d'esta cortina, seremos testemunhas da entrevista. Se nao a ama,
+se nao foi o amor a causa da sua loucura, deixe eu de pertencer aos
+conselhos de vossa magestade, e faca de mim um quinteiro, um hortelao ou
+um abegao.
+
+O REI
+
+Tentemos a experiencia.
+
+HAMLET entra lendo
+
+A RAINHA
+
+A leitura e a unica distraccao d'este infeliz.
+
+POLONIO
+
+Retirem-se ambos por piedade. Vou fallar-lhe. Confiem em mim. (O rei e a
+rainha saem) Como se sente o sr. Hamlet?
+
+HAMLET
+
+Bem, Deus louvado.
+
+POLONIO
+
+Conhece-me, principe?
+
+HAMLET
+
+Se conheco, es um vendilhao de peixe.
+
+POLONIO
+
+Engana-se, senhor.
+
+HAMLET
+
+N'esse caso, queria que ao menos fosses tao honrado.
+
+POLONIO
+
+Honrado?
+
+HAMLET
+
+Sim; pelo caminho em que vae o mundo, custa achar um homem honrado entre
+dez mil.
+
+POLONIO
+
+e uma triste verdade.
+
+HAMLET
+
+Ora o sol gera vermes no animal putrefacto, e embora divindade, acaricia
+o cadaver. Tens uma filha, nao e verdade?
+
+POLONIO
+
+Sim, meu senhor.
+
+HAMLET
+
+Nao a deixes caminhar ao sol, a concepcao e um beneficio do ceu, mas
+como tua filha pode conceber, cuidado... meu caro.
+
+POLONIO
+
+Que quer dizer, principe? (a parte) minha filha e a sua constante
+preoccupacao, mas nao me reconheceu logo, tomou-me por um vendilhao de
+peixe. O seu cerebro esta gravemente atacado; verdade e, que na minha
+mocidade o amor algumas vezes me reduziu a um estado similhante a este.
+Dirijamos-lhe de novo a palavra. Que esta lendo, senhor?
+
+HAMLET
+
+Palavras e mais palavras, so palavras.
+
+POLONIO
+
+De que se trata, senhor?
+
+HAMLET
+
+Quem, o que?
+
+POLONIO
+
+Pergunto o que contem o livro que esta lendo.
+
+HAMLET
+
+Calumnias, nada mais. O satyrico auctor tem a impudencia de dizer que
+nos velhos a barba e grisalha, a pelle rugosa, e que seus olhos
+distillam ambar e gomma em fusao; que o espirito esta caduco, as pernas
+nao os susteem; tudo cousas que creio em minha consciencia, mas que se
+nao devem escrever. Quanto ao senhor, poderia ter a minha idade, se
+podesse andar para tras como os caranguejos.
+
+POLONIO (a parte)
+
+Aindaque louco pode coordenar as ideas. (Alto.) Quer vir tomar ar, meu
+senhor?
+
+HAMLET
+
+Que ar? o do tumulo?
+
+POLONIO (a parte)
+
+Que agudeza e que verdade na replica. as vezes as palavras dos loucos
+teem mais conceito que as dos saos. Vou deixal-o, e preparar a sua
+entrevista com minha filha. Senhor, tomo a liberdade de me retirar.
+
+HAMLET
+
+Nada podia tomar, que eu desse com mais gosto; excepto a vida, excepto a
+vida, excepto a vida.
+
+POLONIO
+
+Adeus, meu senhor.
+
+HAMLET (a parte)
+
+Que imbecil e fastidioso velho.
+
+Entram ROSENCRANTZ e GUILDENSTERN
+
+POLONIO
+
+Procuram o sr. Hamlet, eil-o.
+
+ROSENCRANTZ (a Hamlet)
+
+Deus seja comvosco, senhor. (Polonio sae)
+
+GUILDENSTERN
+
+Meu nobre senhor.
+
+ROSENCRANTZ
+
+Querido principe.
+
+HAMLET
+
+Meus bons e queridos amigos, como estao, tu Guildenstern e tu tambem
+Rosencrantz, meus caros, como passam.
+
+ROSENCRANTZ
+
+Nem bem, nem mal.
+
+GUILDENSTERN
+
+Nao nos peza demasiado a nossa felicidade, e nao tocamos o ponto
+culminante da fortuna.
+
+ROSENCRANTZ
+
+Nem temos tambem rasoes de queixa.
+
+HAMLET
+
+No meio esta a virtude, e quando chovem as gracas.
+
+GUILDENSTERN
+
+Vivemos familiarmente com ella.
+
+HAMLET
+
+Estao pois na intimidade da fortuna; nao me admira, e uma corteza. Que
+novas ha?
+
+ROSENCRANTZ
+
+Nenhumas, senhor, a nao ser que este mundo se tornou virtuoso.
+
+HAMLET
+
+Em tal caso o seu fim esta mui proximo, mas o que dizes e falso.
+Permittam-me uma pergunta que lhes diz respeito. Digam-me, que mal
+fizeram a fortuna para ella os enviar para este carcere?
+
+GUILDENSTERN
+
+Carcere, senhor?
+
+HAMLET
+
+A Dinamarca tambem e carcere.
+
+ROSENCRANTZ
+
+Entao e-o o mundo todo.
+
+HAMLET
+
+Sim, uma vasta prisao que em si encerra um grande numero de carceres,
+dos quaes o peior e de certo a Dinamarca.
+
+ROSENCRANTZ
+
+Nao somos da mesma opiniao, principe.
+
+HAMLET
+
+Para os senhores nao sera uma prisao a Dinamarca, porque o bem ou o mal
+nao existem senao quando assim o julgamos. Para mim e.
+
+ROSENCRANTZ
+
+A ambicao faz parecer a Dinamarca uma prisao a vossa alteza, nao cabe
+n'ella a sua alma.
+
+HAMLET
+
+Acharia vasto reino uma casca de noz, se nao fossem os meus terriveis
+sonhos.
+
+ROSENCRANTZ
+
+Sao justamente esses sonhos que constituem a ambicao, porque toda a
+substancia do ambicioso e a sombra de um sonho.
+
+HAMLET
+
+Assim os mendigos sao corpos, e os monarchas e os heroes ambiciosos nao
+sao senao a sua sombra. Querem que vamos a corte? porque sinceramente
+nao me sinto disposto a discutir.
+
+AMBOS
+
+Estamos as suas ordens, principe.
+
+HAMLET
+
+Nao o comprehendo eu assim, nao o quero confundir com o resto dos meus
+creados; porque, para lhes dizer a verdade, sou pessimamente servido.
+Mas, com franqueza, amigos, o que os trouxe a Elsenor.
+
+ROSENCRANTZ
+
+Unicamente visitar a vossa alteza, nenhum outro motivo.
+
+HAMLET
+
+Estou tao pobre, tao alheio ao reconhecimento! mas recebam os meus
+agradecimentos pelo preco que valem. Nao os mandaram chamar? Foi por
+motu proprio que vieram? e a affeicao que aqui os trouxe? Vamos, sejam
+francos, vamos, fallem.
+
+ROSENCRANTZ
+
+Que quer que digamos, senhor?
+
+HAMLET
+
+Tudo quanto lhes aprouver, mas respondam a minha pergunta. Mandaram-os
+chamar? Leio nos seus olhos uma confissao, que a sua candura nao sabe
+dissimular. Sei que o nosso bom rei e a nossa excellente rainha os
+mandaram chamar.
+
+ROSENCRANTZ
+
+Com que fim, senhor?
+
+HAMLET
+
+Os senhores e que o poderao dizer; mas imploro-lhes, pelos direitos da
+nossa amisade, pelas sympathias da nossa idade, pelos deveres que nos
+impoe a nossa verdadeira affeicao, emfim por todas as rasoes as mais
+convincentes que podesse allegar o mais habil orador, sejam francos e
+sinceros commigo; mandaram-os chamar? _Sim_ ou _nao_.
+
+ROSENCRANTZ (a Guildenstern)
+
+Que devemos responder?
+
+HAMLET (a parte)
+
+Nao os perderei de vista. (Alto.) Se deveras me teem affeicao,
+expliquem-se com franqueza.
+
+GUILDENSTERN
+
+Pois bem, senhor, mandaram-nos chamar.
+
+HAMLET
+
+E eu dir-lhes-hei porque; d'est'arte a minha confissao precedera as suas
+investigacoes, e o segredo promettido ao rei e a rainha, nao sera nem de
+leve violado. Ultimamente, nem sei por que, perdi toda a minha alegria,
+renunciei a toda a especie de exercicio; e sinto na alma uma tal
+tristeza, que esta maravilhosa machina, a terra, me parece um esteril
+promontorio, este esplendido docel, o ceu, esse magnifico firmamento
+suspenso sobre nossas cabecas, essa abobada sumptuosa, onde brilha o
+oiro de innumeras estrellas, tudo me parece um infecto monturo de
+vapores pestilentes. Que obra prima dos homens! que elevacao na sua
+intelligencia! quanto sao infinitas as suas faculdades! como a sua forma
+e imponente e admiravel, como os seus actos approximam os homens dos
+anjos, e a sua rasao os approxima de Deus! sao a maravilha do mundo, os
+reis da creacao animada, e comtudo o que vale a meus olhos essa quinta
+essencia do po? Aborreco os homens e as mulheres, embora os seus
+sorrisos incredulos, senhores, digam o contrario.
+
+ROSENCRANTZ
+
+Nao tinhamos em nosso pensamento tal intencao.
+
+HAMLET
+
+Entao porque se riram quando disse que aborrecia os homens?
+
+ROSENCRANTZ
+
+e que eu pensava que, se os homens lhe sao odiosos, triste acolhimento
+receberiam os actores que encontramos no caminho e que vem offerecer a
+vossa alteza os seus servicos.
+
+HAMLET
+
+Bemvindo sera o que representa os reis; tributarei a sua magestade as
+minhas homenagens; o cavalleiro andante manejara adaga e escudo, debalde
+nao suspirara o namorado, o comico declamara em paz a sua parte; o bobo
+provocara o riso aos mais hypocondriacos, emfim a namorada estropiara os
+versos para nao deixar de dizer o que cumpre sinta no coracao. Que
+actores sao?
+
+ROSENCRANTZ
+
+Sao os tragicos da cidade, que lhe agradavam tanto.
+
+HAMLET
+
+Porque se tornaram actores ambulantes? Com a permanencia na cidade,
+auferiam de certo maior honra e lucros.
+
+ROSENCRANTZ
+
+Innovacoes recentes foram a causa d'isso.
+
+HAMLET
+
+Ainda gosam da mesma reputacao que tinham quando eu habitava a cidade?
+As suas representacoes ainda sao muito concorridas?
+
+ROSENCRANTZ
+
+Pouco, senhor.
+
+HAMLET
+
+Porque sera? Terao elles desmerecido no seu modo de representar?
+
+ROSENCRANTZ
+
+Nao, meu senhor; o seu zelo nao arrefece: mas vossa alteza de certo
+sabera, que appareceu um enxame de creancas, apenas saidas da primeira
+infancia, que declamam o dialogo o mais simples, no tom o mais elevado,
+e por isso sao calorosamente applaudidas. Sao moda, e lancaram um tal
+desfavor sobre os actores ordinarios, como ellas lhe chamam, que muitos
+homens valentes no campo da batalha, mas que temem as pennas agucadas,
+nao ousam frequentar o verdadeiro theatro.
+
+HAMLET
+
+Como? pois sao creancas? Quem as protege? quem lhes paga? quererao
+unicamente seguir a sua profissao emquanto conservarem a sua voz
+aflautada? E se um dia pela forca das circumstancias se tornarem actores
+ordinarios, nao terao direito entao de se arrependerem, de terem
+acceitado os encomios das pennas que bem mau servico lhes prestaram,
+quando se voltarem contra elles as armas de que se serviram para mal dos
+outros.
+
+ROSENCRANTZ
+
+Nao luctaram pouco entre si, e a nacao inteira animou a contenda. Houve
+um momento em que a receita do emprezario dependia de brigarem os
+actores e auctores.
+
+HAMLET
+
+Sera crivel?
+
+ROSENCRANTZ
+
+Houve mais de uma cabeca quebrada.
+
+HAMLET
+
+E foram as creancas que venceram?
+
+ROSENCRANTZ
+
+Sim, meu senhor. Venceram o proprio Hercules com o seu globo.
+
+HAMLET
+
+Nada me admira, sendo meu tio rei de Dinamarca. Os que o evitavam em
+vida de meu pae, pagam agora o seu retrato em miniatura, por vinte,
+cincoenta e cem ducados. Por vida minha que ha alguma cousa sobrenatural
+em tudo quanto presenceamos, e que em verdade a philosophia devia
+esmerar-se por descobrir. (Ouve-se o som de uma musica de clarins ao
+longe.)
+
+GUILDENSTERN
+
+Chegam os actores.
+
+HAMLET
+
+Senhores, bemvindos sejam em Elsenor. As suas maos que eu as aperte. O
+que distingue um bom acolhimento sao os cuidados e as attencoes polidas;
+deixem-me recebel-os assim para nao parecer que a cortezia para com os
+actores, com os quaes e minha intencao ter a maior, ultrapassa a que
+lhes testemunho pessoalmente aos senhores. Bemvindos sejam, mas o tio
+que tenho por padrasto, e a mae que tenho por tia estao completamente
+enganados a meu respeito.
+
+GUILDENSTERN
+
+Em que se enganam elles?
+
+HAMLET
+
+So estou louco quando o vento sopra do nor-noroeste, em soprando do sul,
+distingo uma garca de um falcao.
+
+Entra POLONIO
+
+POLONIO
+
+Saudo os senhores.
+
+HAMLET
+
+Escuta, Guildenstern, (a Rosencrantz) e tu tambem: a bom entendedor meia
+palavra basta; esta creanca que veem ainda usa coeiros.
+
+ROSENCRANTZ
+
+Talvez que os torne a usar; a velhice e, segundo dizem, uma segunda
+infancia.
+
+HAMLET
+
+Aposto que me vem fallar nos actores; vao ver. Tem rasao, senhor, foi
+effectivamente na manha de segunda feira.
+
+POLONIO
+
+Trago uma nova para vossa alteza.
+
+HAMLET
+
+Tenho tambem uma para o senhor. Quando Roscio era actor em Roma...
+
+POLONIO
+
+Os actores acabam de chegar.
+
+HAMLET
+
+Nao e verdade.
+
+POLONIO
+
+Palavra de honra.
+
+HAMLET
+
+Cada actor vira montado n'um jumento.
+
+POLONIO
+
+Sao os melhores actores do mundo para a tragedia, comedia, drama
+historico e pastoril, pastoral comica e historica, pastoral
+tragico-comico-historica, com ou sem unidade do logar da accao. Para
+elles nao ha difficuldades, sao tristes com Seneca, folgasaos com
+Plauto. Nao teem rivaes quanto ao estylo e a expressao.
+
+HAMLET
+
+o Jephthe, juiz em Israel, que thesouro possuias!
+
+POLONIO
+
+Que thesouro possuia elle, senhor?
+
+HAMLET
+
+Mas...
+
+  Uma filha, uma so, mas essa encantadora
+  Que era da noite sua a celestial aurora.
+
+POLONIO (a parte)
+
+Ainda minha filha.
+
+HAMLET
+
+Nao tenho eu rasao, velho Jephthe?
+
+POLONIO
+
+Se me chama Jephthe, e porque tenho uma filha que estremeco.
+
+HAMLET
+
+Nao e consequencia.
+
+POLONIO
+
+Entao qual e a consequencia?
+
+HAMLET
+
+Eil-o.
+
+  Mas Deus sabe porque o conto e memoravel!
+
+Conhece o seguimento?
+
+  Um dia aconteceu... o que era mais provavel.
+
+Para o final recorde-se da primeira parte d'estas trovas, porque eis
+quem me obriga a terminar.
+
+Entram tres ou quatro ACTORES
+
+HAMLET (continuando)
+
+Bemvindos todos, bemvindos sejam. Estou encantado de te ver de boa
+saude, bemvindos sejam, amigos. Ah, meu amigo, que mudanca! ja com
+barba! Quereras tu fazer-me sombra em Dinamarca? Ah eis-vos tambem aqui,
+minha menina! Por nosso senhor, depois que vos vi, subistes apenas um
+degrau para o ceu. Deus queira que a vossa voz, moeda de liga mutavel,
+nao se deprecie de mais com o tempo. Senhores, para mim sao todos
+bemvindos; mas vamos direitos ao assumpto, como os falcoeiros francezes,
+que largam o falcao a primeira peca de caca que se apresenta, mostrem-me
+a sua pericia; vamos, um trecho bem pathetico.
+
+PRIMEIRO ACTOR
+
+Que trecho preferis, senhor?
+
+HAMLET
+
+Ouvi-te um dia declamar um trecho de uma peca nunca representada em
+scena, ou quando muito uma unica vez, porque, se bem me lembro, a peca
+nao agradou a todos; era _caviar_ para o geral do publico: mas, segundo
+a minha opiniao e das pessoas que n'este assumpto teem voz mais
+auctorisada do que a minha, era uma peca excellente, bem conduzida e
+escripta com tanta decencia como arte. Pelo que me lembro, diziam que os
+versos nao eram bastante picantes para compensar a insipidez da accao,
+seu estylo na verdade nada tinha de affectado, mas que quanto ao resto a
+peca, escripta com tanta simplicidade como methodo, era natural,
+agradavel, e sem pretensao. Havia sobretudo um trecho que me agradou,
+era, na falla de Eneas a Dido, o ponto em que lhe refere a morte de
+Priamo. Se ainda te recordas, comeca n'esta phrase, espera, deixa-me ver
+se me lembro.
+
+  Pyrrho, Pyrrho feroz como o tigre da Hyreania
+
+Nao e isso--comeca por Pyrrho.
+
+  Este ouricado Pyrrho havia uma armadura
+  Que, bem como a alma, tinha a cor da noite escura
+  Quando elle era a dormir no cavallo sinistro.
+  Mensageiro do mal, de Belzebut ministro,
+  No corpo traz agora, em rubros caracteres,
+  Mais sinistro brazao; da fronte aos pes o cora
+  O sangue d'anciaos, d'infantes, de mulheres,
+  E por mil bocas, mata a sede que o devora
+  No sangue recosido aos raios d'essa chamma
+  Que Troia, em fogo ardendo, em torno a si derrama.
+  Tisnado pelo fogo e pela raiva ardente
+  Apos Priamo corre...
+
+Continua tu agora.
+
+POLONIO
+
+Boa declamacao na verdade, com as medidas e intonacoes proprias.
+
+PRIMEIRO ACTOR
+
+                       O velho, ja cansado,
+  Mal vibra um frouxo golpe; aquella espada, outr'ora
+  Como o raio veloz, la onde cae descansa,
+  Indocil a vontade, e a mao rebelde agora,
+  Oh lucta desigual! lucta sem esperanca,
+  Pyrrho de raiva acceso, investe em frente e ao lado!
+  E, so do gladio ao sopro eil-o no chao prostrado
+  O guerreiro senil! Entao, Troia abatida
+  Parece haver sentido, os golpes derradeiros:
+  Ao ver prostrado o rei exhaure-se-lhe a vida,
+  Desabam sobre a base em chammas os outeiros,
+  E o som cavo e profundo a Pyrrho fere o ouvido.
+  Eis de repente o gladio, a grande altura erguido,
+  Ja prestes a immolar a fronte alva, nevada,
+  Do venerando rei, detem-se la na altura.
+  E Pyrrho assim parece um tyranno em pintura,
+  Suspenso entre a vontade e a obra comecada!
+  Mas como, muita vez, pouco antes da procella
+  Se faz como que ouvir um silencio que gela,
+  Para a nuvem no ceu, o vento nao retumba,
+  E a terra a nossos pes e muda como a tumba;
+  Subitamente apos se ve no fundo baco
+  Um raio que illumina e rasga o immenso espaco,
+  Assim de Pyrrho a furia, instantes mal contida,
+  Irrompe a completar a obra interrompida.
+  Dos Cyclopes jamais cairam retumbantes
+  Com remorso menor os malhos flammejantes
+  Para forjar de Marte a gravida armadura,
+  Que sobre o nobre velho, ensanguentada, impura,
+  De Pyrrho a espada ardente!... e finda a horrenda lucta!
+  Atras, fortuna, atras, atras, vil prostituta!
+  Vos, deuses immortaes, em synodo sagrado,
+  Roubae-lhe o audaz poder, quebrae todos os raios
+  as rodas do seu carro, e la do ceu lancae-os
+  Tao baixo que o demonio os veja sempre ao lado.
+
+POLONIO
+
+Parece-me demasiado longo.
+
+HAMLET
+
+Para o encurtar manda-se a um barbeiro ao mesmo tempo
+que a tua barba. (Ao actor.) Continua, peco-to eu; se nao lhe
+apresentam um bailado grutesco, ou uma scena immoral adormece
+logo. Continua, pois, chegamos a Hecuba.
+
+PRIMEIRO ACTOR
+
+  Mas quem visse, oh, quem visse a rainha embucada!
+
+HAMLET
+
+A rainha embucada.
+
+POLONIO
+
+Optimo, _embucada_ e bom.
+
+PRIMEIRO ACTOR
+
+  Correndo, nus os pes; com lagrimas que chora
+  As chammas, apagando; a fronte coroada
+  Por um farrapo vil, a fronte onde ainda agora
+  Brilhava um diadema; apenas mal vestida
+  Por coberta alcancada a pressa na fugida;
+  Quem visse tanto horror, acaso concebera
+  Que a fortuna so tem entranhas de uma fera;
+  Mas se os deuses do Olympo houvessem escutado,
+  Quando ella vira Pyrrho entregue ao estranho goso
+  De cortar membro a membro, o corpo ao morto esposo,
+  De seu peito fremente, o grito amargurado
+  A nao ser que da terra ao ceu nao suba a magua
+  Sentiriam como ella os olhos rasos d'agua!
+
+POLONIO
+
+Vejam, empallidece, o pranto inunda-lhe os olhos. Basta, peco-to.
+
+HAMLET
+
+Esta bem, o resto m'o recitaras n'outra occasiao; (a Polonio) queira
+prover que estes actores sejam bem tratados, percebeu? que nada lhes
+falte, porque sao a chronica resumida e viva da epocha. Mais lhe
+valeria, Polonio, um mau epitaphio depois da sua morte, do que o seu
+vituperio em vida.
+
+POLONIO
+
+Tratal-os-hei segundo os seus merecimentos.
+
+HAMLET
+
+Melhor, meu caro, melhor; se se tratasse cada um segundo os seus
+merecimentos, de poucos se faria caso. Trate-os como o deve a jerarchia
+e a sua propria dignidade. Quantos menos titulos tiverem a sua
+benevolencia, mais se deve esmerar no seu tratamento. Agora pode-se
+retirar com elles.
+
+POLONIO
+
+Venham, senhores.
+
+HAMLET
+
+Sigam-o, meus amigos, amanha teremos a representacao, (Polonio sae com
+os actores, menos um a quem Hamlet faz signal que fique.)
+
+HAMLET (continuando)
+
+Dize-me, meu caro amigo, poderias representar a morte de Gonzaga?
+
+PRIMEIRO ACTOR
+
+Com mil vontades, senhor.
+
+HAMLET
+
+Entao amanha. Dize-me mais, poderias tu aprender de cor, sendo preciso,
+doze ou dezeseis linhas que eu desejava intercalar na peca? podes, nao e
+verdade?
+
+PRIMEIRO ACTOR
+
+Posso perfeitamente, meu senhor.
+
+HAMLET
+
+Fica pois ajustado, segue aquelle senhor, e so te peco que nao zombes
+d'elle. (O actor sae.)
+
+HAMLET (a Rosencrantz e Guildenstern)
+
+Meus bons amigos, ate a noite, estimei vel-os em Elsenor.
+
+ROSENCRANTZ
+
+Meu senhor. (Sae com Guildenstern.)
+
+HAMLET
+
+Finalmente estou so. Que miseravel eu sou! Pois nao sera monstruoso que
+este actor, n'uma ficcao, na expressao de uma dor simulada, podesse
+elevar a sua alma, identificando-se com a sua parte, exaltando-se a
+ponto de empallidecer, de lhe borbulhar o pranto nos olhos, de se lhe
+pintar o desespero nas feicoes, entrecortada esta a sua voz, e o seu
+todo faz uma verdade, de que nao e senao uma situacao fingida! E tudo,
+por quem? por Hecuba; que e Hecuba para elle, ou elle para Hecuba, para
+que a sua memoria lhe arranque lagrimas tao sentidas? Que faria elle no
+meu logar, se tivesse tantos motivos de dor, quantos eu tenho. Inundava
+de pranto a scena, aterrava os espectadores pela sua expressao terrivel,
+fulminava o culpado, atemorisava o innocente; attonitas ficavam as almas
+simples, e a commocao aos sentidos da vista e do ouvido seria geral. E
+eu, alma tibia, intelligencia confusa, fico n'uma estupida inaccao,
+indifferente a minha propria causa, e nada acho que dizer, nada, mesmo
+nada a favor de um rei que perdeu a coroa e a vida pelo mais inaudito
+attentado! Ah como sou cobarde! Infame me deveriam chamar,
+esbofetear-me, arrancar-me as barbas, lancar-m'as ao rosto com o
+desprezo; insultar-me deveriam todos, dizer-me que pela gorja menti, e
+obrigar-me a soffrer calado todos os vilipendios possiveis. Quem quer
+fazel-o. Por vida minha que era justo; e forcoso que eu seja inoffensivo
+como uma pomba sem fel, para levantar uma offensa, para nao ter feito
+pasto dos abutres as entranhas d'esse miseravel, sanguinario e impudico
+scelerado. Monstro de perfidia, juntas ao assassinio o adulterio! Como
+sou estupido! e bello na verdade ver-me, a mim, o filho de um rei e pae
+assassinado, a quem ceus e terra instigam a vinganca, gastar a minha
+indignacao em palavras e vas imprecacoes, como a mais vil e desprezivel
+prostituta. Que vergonha!! Procuremos Uma idea... (depois de uma pausa
+prolongada) Eil-a, achei. Ouvi dizer que criminosos, assistindo a
+representacoes dramaticas, de tal modo se perturbaram vendo a sua culpa
+em scena, que espontanea e immediatamente fizeram confissao do seu
+crime, porque o assassino embora mudo trahe-se e falla. Quero que os
+actores representem, na presenca de meu tio, a morte de meu pae,
+observarei as suas feicoes, sondarei as suas impressoes; se se
+perturbar, sei o que me cumpre fazer. O espirito que me appareceu talvez
+seja um demonio, porque pode revestir-se da forma de um objecto amado,
+tem poder sobre as almas melancholicas, e quem sabe se na minha fraqueza
+e dor acha os meios para me perder, condemnando-me para sempre. Quero
+ter a certeza completa; o drama em questao sera o laco armado a
+consciencia do rei. (Sae.)
+
+
+Fim do acto segundo
+
+
+
+
+ACTO TERCEIRO
+
+
+SCENA I
+
+Uma sala no castello de Elsenor
+
+Entram o REI, a RAINHA, POLONIO, OPHELIA, ROSENCRANTZ e GUILDENSTERN
+
+O REI
+
+Entao ainda nao poderam, nas suas conversas com elle, descobrir a causa
+da desordem da sua intelligencia; d'aquella perigosa e turbulenta
+demencia que se apoderou do seu espirito e lhe rouba o descanso?
+
+ROSENCRANTZ
+
+Confessa sentir esvair-se-lhe a rasao; mas nao conseguimos que elle nos
+revelasse a causa.
+
+GUILDENSTERN
+
+Parece pouco disposto a deixar sondar os seus sentimentos. Na sua
+loucura nao o abandona um resto de sagacidade; conserva-se na defensiva
+todas as vezes que tentamos encaminhal-o a uma confissao tocante ao seu
+estado.
+
+A RAINHA
+
+Recebeu-os bem ao menos?
+
+ROSENCRANTZ
+
+Com toda a affabilidade de um homem bem educado.
+
+GUILDENSTERN
+
+Mas evidentemente constrangido.
+
+ROSENCRANTZ
+
+Perguntando pouco, mas respondendo as nossas perguntas com a maior
+naturalidade.
+
+A RAINHA
+
+E experimentaram algum divertimento para o distrahir?
+
+ROSENCRANTZ
+
+O acaso fez-nos encontrar no caminho alguns actores; fallamos-lhe
+n'elles, esta nova pareceu agradar-lhe. Estao aqui no palacio, e creio
+ja terem recebido ordem para representarem esta noite na sua presenca.
+
+POLONIO
+
+e verdade, e pede a vossas magestades que assistam a representacao.
+
+O REI
+
+Com o maior prazer; estimo vel-o assim disposto. Queiram estimulal-o,
+senhores, e dirigir a actividade do seu espirito para estes
+divertimentos.
+
+ROSENCRANTZ
+
+Assim o faremos. (Sae com Guildenstern.)
+
+O REI
+
+Deixa-nos tambem, querida Gertrudes. Mandamos chamar secretamente a
+Hamlet, para como por acaso o por na presenca de Ophelia. Seu pae e eu,
+legitimos espias, collocar-nos-hemos de maneira que, sem sermos vistos,
+assistamos a entrevista e possamos julgar pelas suas palavras, se e um
+amor infeliz que assim o faz padecer.
+
+A RAINHA
+
+Obedeco retirando-me. Quanto a ti, Ophelia, desejo ardentemente que os
+teus encantos sejam a feliz causa da demencia de Hamlet; porque terei
+entao esperanca que as tuas virtudes o restituirao, a contento de ambos,
+ao primitivo estado.
+
+OPHELIA
+
+Quanto o desejo, senhora.
+
+POLONIO
+
+Ophelia, passeia aqui n'esta sala; (ao rei) vamo-nos collocar, senhor;
+(a Ophelia) le n'este livro; esta leitura simulada servira de pretexto a
+tua solidao. Enganamo-nos tantas vezes, e quao frequentemente acontece,
+com uma capa de santidade e attitude reservada conseguirmos fazer um
+santo do proprio demonio!
+
+O REI
+
+Oh e bem verdade; que pungente dor esta observacao inflige a minha
+consciencia! O rosto da prostituta nao e mais asqueroso debaixo da
+mascara do seu arrebique, do que o e o meu crime debaixo do falso verniz
+do meu discurso. Oh peso terrivel!
+
+POLONIO
+
+Hamlet approxima-se, retiremo-nos, senhor. (O rei e Polonio occultam-se
+atras da cortina.)
+
+Entra HAMLET
+
+_Ser ou nao ser_, eis o problema. Uma alma valorosa, deve ella supportar
+os golpes pungentes da fortuna adversa, ou armar-se contra um diluvio de
+dores, ou por-lhes fim, combatendo-as? _Morrer, dormir, mais nada_, e
+dizer que por esse somno pomos termo aos soffrimentos do coracao e as
+mil dores legadas pela natureza a nossa carne mortal; e sera esse o
+resultado que mais devamos ambicionar? _Morrer, dormir, dormir, sonhar
+talvez_; terrivel perplexidade. Sabemos nos porventura que sonhos
+teremos, com o somno da morte, depois de expulsarmos de nos uma
+existencia agitada? E nao deverei eu reflectir? e este pensamento que
+torna tao longa a vida do infeliz! Quem ousaria supportar os flagellos e
+ultrages do mundo, as injurias do oppressor, as affrontas do orgulhoso,
+as ancias de um amor desprezado, as lentezas da lei, a insolencia dos
+imperantes, e o desprezo que o ignorante inflige ao merito paciente,
+quando basta a ponta de um punhal para alcancar o descanso eterno? Quem
+se resignaria a supportar gemendo o peso de uma vida importuna, se nao
+fosse o receio de alguma cousa alem da morte, esse ignoto paiz, do qual
+jamais viajante regressou? Eis o que entibia e perturba a nossa vontade;
+eis o que nos faz antes supportar as nossas dores presentes do que
+procurar outros males que nao conhecemos. Assim, somos cobardes todos,
+mas pela consciencia; assim a brilhante cor da resolucao se transforma
+pela reflexao em pallida e livida penumbra, e basta esta consideracao
+para desviar o curso das emprezas mais importantes, e fazer-lhes perder
+ate o nome de accao. Mas silencio, vejo a linda Ophelia. Joven beldade,
+lembra-te dos meus peccados nas tuas oracoes.
+
+OPHELIA
+
+Como tem vossa alteza passado estes dias ultimos?
+
+HAMLET
+
+Bem, agradeco-te do coracao.
+
+OPHELIA
+
+Senhor, tenho dadivas e lembrancas suas que ha muito lhe desejava
+restituir. Permitta-me que lh'as devolva.
+
+HAMLET
+
+Eu! de certo que nao, nunca te dei nada.
+
+OPHELIA
+
+O principe sabe perfeitamente que me fez essas dadivas, e as doces
+palavras que as acompanharam ainda lhes realcaram o valor; agora que
+perderam todo o seu perfume, tome-as, principe, porque para uma alma
+nobre, as mais ricas dadivas perdem o seu valor, no momento em que
+aquelle que nol-as fez so nos mostra indifferenca. Receba-as, pois,
+senhor.
+
+HAMLET
+
+Ah, ah, es virtuosa.
+
+OPHELIA
+
+Meu senhor.
+
+HAMLET
+
+es bella.
+
+OPHELIA
+
+Que diz vossa alteza?
+
+HAMLET
+
+Digo que se es virtuosa e bella, deves evitar toda a communicacao entre
+a tua virtude e a tua belleza.
+
+OPHELIA
+
+Que melhor commercio ha para a belleza que o da virtude?
+
+HAMLET
+
+A influencia da belleza sera mais prompta em metamorphosear a virtude em
+vil corteza, do que a forca da virtude em transformar a belleza a sua
+imagem. Antigamente seria paradoxo, hoje e um facto provado. Amei-te
+n'outro tempo, e verdade.
+
+OPHELIA
+
+Vossa alteza bem m'o fez acreditar.
+
+HAMLET
+
+Fizeste mal em acreditar. Porque embora a virtude se inocule na nossa
+primitiva natureza, sempre nos ficam restos d'ella. Nunca te amei.
+
+OPHELIA
+
+Maior foi o meu engano.
+
+HAMLET
+
+Professa, Ophelia, encerra-te n'um claustro. Para que queres continuar
+uma raca de peccadores; quanto a mim julgo-me ainda assas honesto; e
+comtudo podia formular contra mim taes accusacoes, que melhor teria
+valido, que minha mae me nao tivesse dado a luz. Sou orgulhoso,
+vingativo e ambicioso; gero no meu cerebro tantas accoes mas, que o meu
+pensamento nao basta para as distinguir, nem a minha imaginacao para
+lhes dar uma forma, e falta-me o tempo para as executar. Que vantagem
+havera pois que seres como eu se rojem como reptis entre o ceu e a
+terra? Todos somos infames, nao te fies em nenhum homem; vae, recolhe-te
+a um claustro. Onde esta teu pae?
+
+OPHELIA
+
+Em casa, meu senhor.
+
+HAMLET
+
+Que lhe fechem as portas para impedir que represente de louco fora de
+casa. Adeus.
+
+OPHELIA
+
+Deus misericordioso, tende piedade de Hamlet.
+
+HAMLET
+
+Se alguma vez te casares, dar-te-hei como dote esta triste verdade. Se
+tu fria como o gelo; se fores pura como a neve a calumnia nao te
+poupara. Entra para um claustro, professa, adeus. Mas se absolutamente
+precisas um marido, entao escolhe um louco, porque os homens assisados
+sabem em que monstros vos as mulheres os tornaes. Professa, recolhe-te a
+um convento, mas avia-te. Adeus.
+
+OPHELIA
+
+Poderes celestes, restitui-lhe a rasao!
+
+HAMLET
+
+Tambem ouvi fallar da vossa loquacidade. Deus deu-vos um porte e vos o
+transformaes por vossa culpa. Saltitaes, requebrae-vos; gestos e
+affabilidade sao artificio, zombaes das creaturas de Deus, e fazeis
+passar por ignorancia o que e simples e pura affectacao. Nem quero
+pensar em vos, mulheres; foi o que me enlouqueceu. Digo que nao teremos
+mais casamentos, todos que estao casados viverao, excepto um, os outros
+ficarao como estao. Professa, entra para um convento, vae. Adeus.
+(Hamlet sae.)
+
+OPHELIA (so)
+
+Oh que nobre intelligencia esta ali desthronada. A perspicacia do homem
+de corte, a espada do guerreiro, a palavra do sabio, o futuro d'este
+reino, o espelho do bom tom, o typo dos modos nobres, o modelo em que
+todos fictavam os olhos, tudo destruido e destruido sem esperanca; e eu,
+a mais afflicta e infeliz das mulheres, eu que saboreei a inebriante
+ambrosia dos seus juramentos de amor, estou condemnada a ver essa
+potente e elevada rasao, similhante ao bronze fendido, nao dar senao
+sons falhos e dissonantes; e tanta belleza e juventude crestadas pelo
+sopro da demencia! Oh infeliz, oh desgracada, que vi o que vi, e vejo o
+que vejo!!!
+
+Saem de tras da cortina o REI e POLONIO
+
+O REI
+
+O amor! nao e a ella que elle dedica a sua affeicao; alem d'isso o seu
+fallar, aindaque um pouco falto de logica, nao tem cunho de loucura. Ha
+na sua alma alguma dor secreta. Receio algum perigo que nos seja fatal.
+Para prevenir esse resultado, eis o plano que formei e no qual assentei.
+Quero que Hamlet parta sem demora para Inglaterra, para reclamar o
+tributo a que esse paiz se nega e a que e obrigado. Talvez que o mar, a
+mudanca de clima, a vista de objectos novos, lhe restituam a rasao,
+expulsando do seu coracao aquella obstinada preoccupacao. Que lhe
+parece?
+
+POLONIO
+
+Parece-me acertado. Comtudo persisto na minha idea, que um amor
+desprezado e a causa unica da sua dor. (A Ophelia) Nao precisas
+referir-nos o que te disse o sr. Hamlet. Tudo ouvimos. (Ao rei) Senhor,
+faca o que lhe parecer conveniente, mas se me quer dar ouvidos, diga a
+rainha, que, depois da representacao, o chame a sos e inste para
+conhecer d'elle a causa da sua magua; porem cumpre que lhe falle
+severamente: com o vosso assentimento ouvirei escondido toda a
+conversacao. Se a rainha nao poder penetrar aquelle espirito rebelde a
+toda a confidencia, ordene-lhe entao a partida, e desterre-o, senhor,
+para o logar que a prudencia lhe dictar.
+
+O REI
+
+Concordo plenamente comtigo; nos grandes e que a demencia deve ser mais
+vigiada. (Saem todos.)
+
+
+SCENA II
+
+Uma sala no castello de Elsenor
+
+Entram HAMLET e differentes actores
+
+HAMLET (a um dos actores)
+
+Nao esquecas de dizer aquelle trecho, tal qual o declamei na tua
+presenca; mais que tudo fogo e energia; mas se o recitares como a maior
+parte dos actores, mais me valeria ouvir a minha prosa na boca de um
+pregoeiro. Nao movas descompassadamente os bracos, acciona
+moderadamente; no meio mesmo da torrente, da tempestade, do tufao, da
+paixao, procura ser comedido. Nada impressiona mais desfavoravelmente,
+do que ver homens robustos reduzirem a po uma paixao e escorchar os
+ouvidos dos assistentes, que, pela maior parte, nao merecem senao uma
+declamacao absurdamente arrebatada e uma accao desordenada. Acoutados
+mereciam esses actores, cujo accionado mais parece renhida batalha, e
+que mais crueis se fingem que um Herodes de comedia. Peco-te que evites
+esses defeitos.
+
+PRIMEIRO ACTOR
+
+Pela minha parte, prometto-lh'o, senhor.
+
+HAMLET
+
+Nao vas tambem cair no excesso contrario, sirva-te de guia a tua
+intelligencia. Accommoda a accao as palavras, as palavras a accao, tendo
+sempre em vista a naturalidade; so e proprio da scena intelligente, que
+foi e e o espelho em que se deve reflectir a natureza, mostrar a virtude
+tal qual e, a vaidade sem veu, e cada tempo e cada idade com a sua
+physionomia propria e com o cunho de verdade. Se se excede, ou se fica
+aquem do fim proposto, podera excitar-se a hilaridade do homem
+ignorante, mas afflige-se o sensato, cujo juizo vale mais que o
+suffragio de uma sala inteira. Oh! vi representar e ouvi elogiar
+actores, que, Deus me perdoe, nada tinham de christao na voz, nada de
+christao, pagao ou mesmo humano no porte, e que se estorciam e bramavam
+de tal modo, que sempre os julguei obra de algum aprendiz da natureza,
+que, querendo fabricar homens, errou a vocacao, e nao tinha produzido
+senao uma desgracada imitacao da humanidade.
+
+PRIMEIRO ACTOR
+
+Espero em Deus, que vossa alteza nao nos podera notar taes defeitos;
+entre nos, senhor, estao banidas de todo as exageracoes.
+
+HAMLET
+
+Mas que o estejam na verdade; que os bobos nao digam mais do que ao que
+sao obrigados pela sua parte; alguns ha que introduzem alguma facecia
+para excitar o riso dos espectadores ignaros no ponto em que mais
+attencao se reclama da parte do publico. e um desacerto, e o bobo que
+recorre a esses expedientes, mostra uma pretensao desgracada. Vao-se
+agora preparar. (Os actores saem.)
+
+Entram POLONIO, ROSENCRANTZ e GUILDENSTERN
+
+HAMLET (a Polonio)
+
+Entao o rei esta decidido a nossa peca?
+
+POLONIO
+
+Com certeza, e a rainha tambem. Nao tardam.
+
+HAMLET
+
+Diga entao aos actores que se aviem. (Polonio sae.)
+
+HAMLET (continuando, a Rosencrantz e Guildenstern.)
+
+Querem fazer-me o favor de tambem ir apressar os preparativos.
+
+AMBOS
+
+Sim, meu senhor. (Saem.)
+
+Entra HORACIO
+
+HAMLET
+
+Ah, es tu, Horacio?
+
+HORACIO
+
+Estou sempre as suas ordens, meu senhor.
+
+HAMLET
+
+Meu caro Horacio, es a flor dos homens, cujo trato tenho cultivado.
+
+HORACIO
+
+Meu querido senhor.
+
+HAMLET
+
+Nao julgues que te lisonjeio; que posso eu esperar de ti, cujas unicas
+rendas sao a jovialidade e a honestidade. Quem lisonjeia um pobre? Nao,
+que a lisonja roja-se aos pes da opulencia estupida, e o servilismo
+curva o joelho, a espera do comprador. Escuta, depois que a minha alma
+pode livremente escolher e soube distinguir os homens, marcou-te com o
+sello da predileccao, porque reconheceu em ti um homem que nao se abate
+pelos revezes; um homem que acceita com a mesma indifferenca os favores
+e os rigores da fortuna; felizes os mortaes em quem o juizo e as paixoes
+teem igual imperio, e nao sao um joguete nas maos da fortuna. Mostrem-me
+um homem que nao seja escravo das paixoes, e tera conquistado, como tu,
+o meu coracao, e abrir-lhe-hei o santuario da affeicao mais intima.
+Basta sobre o assumpto. Deve-se hoje representar na presenca do rei um
+drama, no qual ha uma scena, que e a historia da morte de meu pae, cujos
+pormenores ja em tempo te contei. Quando se approximar a scena, observa
+meu tio, com toda a vigilancia que auctorisam as minhas suspeitas; se o
+segredo do seu crime se nao revelar por alguma palavra, entao era a
+apparicao obra do demonio, e as minhas imaginacoes sao mais negras que
+as lavas e cinzas de um vulcao. Tu observa-o attentamente, eu nao o
+perderei de vista; depois, juntando os nossos juizos, concluiremos
+conforme ao que virmos.
+
+HORACIO
+
+Muito bem, senhor, tao firme estarei no meu posto de observacao, que
+juro por Deus, que me nao escapara um movimento, uma impressao da sua
+alma.
+
+HAMLET
+
+Eil-os que chegam para a representacao; agora, cumpre-me ser espectador
+indifferente. (Ouve-se a marcha real e clarins.)
+
+Entram o REI, a RAINHA, POLONIO, OPHELIA, ROSENCRANTZ, GUILDENSTERN e a
+CORTE
+
+O REI
+
+Como passa nosso sobrinho Hamlet?
+
+HAMLET
+
+Melhor nao pode ser; em verdade passei a viver como os camaleoes,
+nutro-me so de ar, e alimento-me de promessas, as iguarias mais finas
+nao me satisfariam melhor.
+
+O REI
+
+A tua resposta e-me inintelligivel; nao e de certo a mim que ella e
+dirigida.
+
+HAMLET
+
+Pois nem a mim. (A Polonio.) Nao me disse que ja tinha representado uma
+vez, quando cursava a universidade?
+
+POLONIO
+
+e verdade, senhor, e era reputado um habil actor.
+
+HAMLET
+
+Que parte representou?
+
+POLONIO
+
+A de Julio Cesar; assassinaram-me no capitolio; Bruto apunhalava-me.
+
+HAMLET
+
+Que brutalidade apunhalar, e n'aquelle logar, um tao excellente bezerro.
+Os actores ja estao promptos?
+
+ROSENCRANTZ
+
+Sim, meu senhor, esperam so as ordens.
+
+A RAINHA
+
+Vem, meu Hamlet, sentar-te a meu lado.
+
+HAMLET
+
+Nao, minha mae; (mostrando Ophelia) este metal tem mais forca de
+attraccao.
+
+POLONIO
+
+Que me diz agora, senhor?
+
+HAMLET
+
+Ser-me-ha permittido estar a vossos pes, senhora? (Senta-se no chao aos
+pes de Ophelia.)
+
+OPHELIA
+
+Nao, meu senhor.
+
+HAMLET
+
+Queria dizer, recostar a cabeca sobre vossos joelhos.
+
+OPHELIA
+
+Sim, meu senhor.
+
+HAMLET
+
+Pensaveis talvez que tivesse outra idea?
+
+OPHELIA
+
+Nada pensava.
+
+HAMLET
+
+e um pensamento este digno de um coracao de donzella.
+
+OPHELIA
+
+O que, senhor?
+
+HAMLET
+
+Nada.
+
+OPHELIA
+
+Vejo-o hoje alegre, senhor.
+
+HAMLET
+
+Quem, eu?
+
+OPHELIA
+
+Sim, vossa alteza.
+
+HAMLET
+
+Sou o seu bobo e nada mais. Cousa alguma ha melhor para o homem do que a
+alegria. Repare, veja como minha mae esta hoje muito alegre, e ainda nao
+ha duas horas que meu pae morreu.
+
+OPHELIA
+
+Vossa alteza engana-se por certo; ha mais de duas vezes dois mezes.
+
+HAMLET
+
+Tanto tempo!! n'esse caso use o demonio o lucto, eu quero vestir-me de
+arminhos. Oh ceus, morto ha dois mezes, e ainda nao esquecido, nao e
+entao de estranhar que a recordacao de um grande homem dure mais de seis
+mezes; mas, pela Virgem Santa, deve entao ter edificado igrejas, alias
+arriscava-se a que o esquecessem, como aquelle a quem lavraram este
+epitaphio:
+
+_Aqui jaz esquecido um cavallo de pau._
+
+Soam os clarins, comeca a pantomima
+
+(Um rei e uma rainha entram em scena, o seu aspecto e de namorados,
+abracam-se. A rainha ajoelha aos pes do rei, mostrando pelos seus gestos
+que lhe protesta o mais vivo amor. O rei levanta-a, e inclina a cabeca
+sobre o seu hombro; depois deita-se n'um banco coberto de flores. A
+rainha vendo-o adormecido, sae. Apparece um personagem que lhe tira a
+coroa e a leva aos labios, lanca veneno n'um ouvido do rei, e sae em
+seguida. Volta a rainha, acha o rei morto, e da mil signaes de
+desespero. O envenenador seguido por duas ou tres pessoas, chega e
+parece lamentar-se com a rainha. O cadaver e levado da scena. O
+envenenador requesta a rainha, da-lhe presentes. Ella mostra a principio
+repugnancia, mas acaba por acceitar o amor offerecido. Saem.)
+
+OPHELIA
+
+Que significa esta scena, senhor?
+
+HAMLET
+
+Nada que seja bom, e um laco armado ao crime.
+
+OPHELIA
+
+Esta pantomima indica sem duvida o entrecho da peca?
+
+Entra o PROLOGO
+
+HAMLET
+
+Vamos sabel-o, os comediantes nao podem guardar um segredo, teem por
+costume fallar sempre.
+
+OPHELIA
+
+Explicara elle o que significa a pantomima?
+
+HAMLET
+
+Sem duvida, nao so essa, mas todas as que lhe quizer apresentar,
+qualquer que seja a sua especie, e tera a explicacao prompta.
+
+OPHELIA
+
+O principe e mau, deixe-me seguir a peca.
+
+O PROLOGO
+
+  Pedimos, para nos, toda a vossa indulgencia;
+  Para a nossa tragedia, attenta paciencia.
+
+HAMLET
+
+Parece antes divisa de annel do que prologo.
+
+OPHELIA
+
+Tao curto, senhor.
+
+HAMLET
+
+Como o amor de uma mulher.
+
+Entram um REI e uma RAINHA
+
+O REI DA PEcA
+
+  Trinta vezes de Phebo o carro luminoso
+  De Tellus e Neptuno, o largo giro ha feito,
+  E trinta vezes doze a lua, astro saudoso,
+  De refrangida luz, a terra ha dado o preito,
+  Desde que as nossas maos, com mutuo amor se deram,
+  E as bencaos d'Hymeneu o sacro no teceram.
+
+A RAINHA DA PEcA
+
+  Possamos lua e sol, ver outras tantas vezes,
+  Antes que d'este amor se rompa o doce laco;
+  Mas seguem-se a ventura as maguas, os revezes,
+  E vejo-vos caido, ha pouco, em tal cansaco,
+  Tao triste, meu senhor, tao triste e tao mudado,
+  Que nao posso esconder mais tempo o meu cuidado.
+  Mas que nao se perturbe o vosso animo forte
+  Porque inquieta eu sou, e ousei pensar na morte.
+  De affecto e de anciedade igual medida temos,
+  Ou nullos um e o outro, ou um e o outro extremos.
+  Se e grande o meu amor, demais senhor o vedes,
+  Que a par anda o receio, em minha fronte o ledes.
+  Sempre que o amor e grande, as apprehensoes mais breves
+  Transformam-se de prompto em maximos temores;
+  Quando e grande o receio, os affectos mais leves
+  Ascendem de repente aos mais grandes amores.
+
+O REI DA PEcA
+
+  Bem cedo e forca, amor, que d'este mundo eu parta,
+  Bem ves, d'esta alma a luz ja quasi que se aparta.
+  Tu viveras sem mim, sob este ceu formoso,
+  Querida, idolatrada e sempre honesta e casta.
+  Depois, talvez depois, quem sabe? um novo esposo...
+  Um homem justo e bom...
+
+A RAINHA DA PEcA
+
+                           Oh! basta, senhor, basta!
+  Seria um novo amor perfidia negra e infame.
+  Amaldicoado seja o dia em que outro eu ame!
+  Embora justo e bom, segundo companheiro
+  Nao n'o acceita ninguem, sem ter morto o primeiro.
+
+HAMLET
+
+Isto e absintho, e que absintho!
+
+A RAINHA DA PEcA
+
+  Poisque motivo arrasta a viuva ao casamento?
+  Acaso um novo amor? um nobre sentimento?
+  Um sordido interesse: e eu cravara no peito
+  De meu morto senhor a ponta de uma espada,
+  Cada vez que, olvidando a antiga fe jurada,
+  Compartisse outro ser commigo o mesmo leito.
+
+O REI DA PEcA
+
+  Creio bem, que pensaes o que dizeis, se creio?!
+  Mas quanta, oh! quanta vez, se quebra a accao no meio,
+  Nasce a resolucao escrava da memoria,
+  Producto da violencia, e curta a sua historia.
+  A fructa emquanto verde em qualquer ramo atura
+  Mas, sem abalo algum, tomba apenas madura.
+  Fatalmente olvidando o que a nos nos devemos
+  Nao pagamos jamais, a divida esquecemos.
+  O que durante a dor parece a eternidade,
+  Mal extincta a paixao, cessa de ser vontade.
+  O jubilo e o martyrio, ainda os mais completos,
+  Destruindo-se a si, destroem seus decretos.
+  Onde o prazer mais ri, mais chora a dor pungente;
+  Entristece a alegria, alegra-se a tristeza,
+  a causa mais subtil, ao mais leve accidente,
+  E este um dom fatal da varia natureza.
+  Passamos pelo mundo, e nada aqui tem dura
+  Que ate o proprio amor muda com a ventura;
+  Porque e problema ainda occulto aos pensadores
+  Se da o amor fortuna, ou se a fortuna amores.
+  Um principe decae? somem-se os que os adulam;
+  Um mendigo se eleva? os amigos pullulam.
+  Ate aqui o amor seguiu sempre a fortuna;
+  Quem nao precisa encontra em toda a parte amigos,
+  E quem precisa e pede, e lepra que importuna,
+  Todos transforma e muda em feros inimigos,
+  Mas para concluir, escuta o corollario:
+  A vontade e o destino, andam tanto ao contrario
+  Que o mais leve projecto e sempre letra morta.
+  Assim cres, nao teras jamais outro marido;
+  Pois abra-me o sepulchro a sua eterna porta
+  E tudo ira sumir-se em um perpetuo olvido.
+
+A RAINHA DA PEcA
+
+  Negue-me a terra o pao, e a luz o firmamento!
+  O meu goso maior transforme-se em tormento!
+  Minha esperanca e fe tornem-se em negro inferno!
+  Seja a fome em prisao o meu futuro eterno!
+  Nao tenha eu, viva ou morta, o mais curto repouso,
+  Se, viuva uma vez, tomar um outro esposo!
+
+HAMLET
+
+E se lhe acontecer violar o juramento?
+
+O REI DA PEcA
+
+  Solemne juramento!... Amor, deixa-me agora;
+  Exhausta sinto a fronte, e bom grado entregara
+  Os restos d'este dia a paz consoladora
+  Dos bracos de Morpheu. Adeus! Oh! sempre cara. (Adormece.)
+
+A RAINHA DA PEcA
+
+  Que um somno brando e doce embale a tua mente
+  E a desgraca jamais entre nos dois se assente!... (Sae a rainha.)
+
+HAMLET
+
+Senhora, como acha esta peca?
+
+A RAINHA
+
+A rainha parece-me que faz demasiados protestos.
+
+HAMLET
+
+Mas dada a palavra, nao pode faltar.
+
+O REI
+
+Conhece a peca? nao contem nada reprehensivel?
+
+HAMLET
+
+Absolutamente nada; tudo quanto contem e so gracejo, ate se envenena por
+gracejo. e a peca mais inoffensiva que pode haver.
+
+O REI
+
+Que titulo tem?
+
+HAMLET
+
+O _Laco_, ja se sabe, por metaphora. O assumpto da peca e um assassinio
+commettido em Vienna. O rei chama-se Gonzaga, sua mulher Baptista. Vae
+ver, um crime horrivel. Mas que importa a vossa magestade e a mim, que
+temos a consciencia pura e que nada temos a receiar! O peior e para
+aquelles a quem punge algum espinho, a nos nada nos pesa na consciencia.
+
+Entra LUCIANO
+
+HAMLET (continuando)
+
+e este um chamado Luciano, sobrinho do rei.
+
+OPHELIA
+
+Vossa alteza faz o servico do coro.
+
+HAMLET
+
+Podia ate servir de ponto n'uma conversa sua com o seu amante; o caso
+era eu ver manobrar os dois titeres.
+
+OPHELIA
+
+Sois na verdade mordaz, principe; sois bem mordaz.
+
+HAMLET
+
+A sua pena seria que eu deixasse de o ser.
+
+OPHELIA
+
+De bem para melhor, de mal para peior.
+
+HAMLET
+
+e a sorte que a espera na escolha de um marido! Comeca, assassino. Poe
+de parte esses horriveis tregeitos, avia-te, comeca.
+
+        Eis o corvo que avanca,
+  Chamando em seu grasnar a lugubre vinganca.
+
+LUCIANO
+
+  O pensamento negro, o braco bem disposto,
+  A droga preparada, a hora favoravel,
+  Cumplice a occasiao, a ver nem um so rosto.
+  Mistura infecta e immunda, extracto abominavel
+  De peconhenta sarca a meia noite achada,
+  Tres vezes polluida e tres envenenada
+  D'Hecate a maldicao, possa a tua virtude
+  Fechar uma existencia, e abrir um ataude.
+
+(Deita veneno n'um ouvido do rei adormecido.)
+
+HAMLET
+
+Envenena-o no jardim, para se apoderar da coroa. O nome do rei e
+Gonzaga; e uma historia authentica escripta no mais elegante italiano.
+Verao como logo o assassino obtem o amor da mulher de Gonzaga.
+
+OPHELIA
+
+O rei levantou-se.
+
+HAMLET
+
+Que!! um pequeno clarao apenas, ja o assusta?
+
+A RAINHA
+
+Que tem, senhor?
+
+POLONIO
+
+Cesse a peca.
+
+O REI
+
+Tragam luzes. Saiamos.
+
+POLONIO
+
+Luzes, venham luzes, luzes. (Todos saem, excepto Hamlet e Horacio.)
+
+HAMLET
+
+  Sim! que fuja e que chore o cervo mal ferido,
+  E o que ao golpe escapou, gose um prazer profundo.
+  Quando um chora, outro ri. Oh! sempre assim ha sido,
+        E assim e feito o mundo.
+
+Se alguma vez a fortuna me maltratar, nao bastaria uma scena de effeito
+como esta, acrescentando-lhe um chapeu ornado de pennas, e duas rosas de
+Provenca nos lacos dos sapatos, para que me admittissem n'uma companhia
+dramatica.
+
+HORACIO
+
+Talvez o admittissem, mas com meia paga.
+
+HAMLET
+
+Ou inteira.
+
+  Porque sabes, Damon, bem sabes tu que outr'ora
+  Mandava n'este reino, que ves hoje aviltado,
+  Qual Jupiter no Olympo, um grande rei... agora
+        Governa aqui... um chavo.
+
+HORACIO
+
+Foi pena nao rimar.
+
+HAMLET
+
+Meu querido Horacio, aposto mil libras esterlinas, em como a sombra
+fallou so a verdade. Reparaste?
+
+HORACIO
+
+Em tudo reparei, senhor.
+
+HAMLET
+
+Quando se tratava do envenenamento?
+
+HORACIO
+
+Tudo observei.
+
+HAMLET
+
+Ah! ah! ah! quero musica, tanjam as charamelas.
+
+  Porque, se da comedia o rei nao gosta nada,
+  Sei eu dar a rasao... nao gosta, esta dada.
+
+Venha a musica, quero muita musica. (Entram Rosencrantz e Guildenstern.)
+
+GUILDENSTERN
+
+Senhor, permitta-me que lhe de uma palavra.
+
+HAMLET
+
+Mil ate, se n'isso fizer gosto.
+
+GUILDENSTERN
+
+Senhor... o rei...
+
+HAMLET
+
+Que e?... que me vem dizer d'elle?
+
+GUILDENSTERN
+
+Retirou-se aos seus aposentos, estranhamente indisposto.
+
+HAMLET
+
+Pelo vinho?
+
+GUILDENSTERN
+
+Nao, senhor, mas pela colera.
+
+HAMLET
+
+Mais assisado seria terem chamado um medico. Eu nao faria senao
+exacerbar a sua colera com a minha presenca.
+
+GUILDENSTERN
+
+Queira, senhor, ter mais nexo nos seus discursos, e nao se afastar assim
+tao bruscamente da questao.
+
+HAMLET
+
+Escutal-o-hei tranquillamente. Falle.
+
+GUILDENSTERN
+
+A sua rainha e mae me envia a vossa alteza.
+
+HAMLET
+
+Bemvindo seja.
+
+GUILDENSTERN
+
+Senhor, essa polidez e mal cabida n'esta occasiao. Se me promette
+responder rasoavelmente, executarei entao as ordens de sua mae, quando
+nao, retiro-me pedindo desculpa a vossa alteza.
+
+HAMLET
+
+Nao posso.
+
+GUILDENSTERN
+
+O que, meu senhor?
+
+HAMLET
+
+Responder rasoavelmente; a minha intelligencia enfermou, no emtanto
+dar-lhe-hei uma resposta, ou antes como ordena a minha mae, a melhor que
+poder. Diga-me agora, que pretende de mim a rainha?
+
+ROSENCRANTZ
+
+Encarregou-nos de lhe dizer, principe, que o seu comportamento lhe
+causou espanto e dor.
+
+HAMLET
+
+Ah! sou pois um filho tao extraordinario que causo espanto e dor a minha
+mae! Nada mais lhe disse? Fallem.
+
+ROSENCRANTZ
+
+Deseja fallar-lhe, alteza, no seu quarto, antes de o principe se deitar.
+
+HAMLET
+
+Obedecer-lhe-hemos, aindaque fosse dez vezes nossa mae. Tem mais alguma
+cousa a dizer?
+
+ROSENCRANTZ
+
+Houve tempo em que o principe era meu amigo.
+
+HAMLET
+
+Ainda hoje o sou, juro-o por estes dez dedos.
+
+ROSENCRANTZ
+
+Senhor, qual e a causa da sua dor profunda? e impor-se um
+constrangimento inutil, guardar esse segredo para comnosco, que somos
+tao seus amigos.
+
+HAMLET
+
+Inquieta-me o meu futuro!
+
+ROSENCRANTZ
+
+Como pode isso ser, pois o rei ja o escolheu para successor ao throno de
+Dinamarca?
+
+HAMLET
+
+e verdade; mas guardado esta o bocado... o proverbio e antigo.
+
+Entram differentes actores cada um com uma charamela
+
+HAMLET
+
+Ah! chegam as charamelas, da-me uma. (Tira a charamela a um dos
+actores.) Quer que o acompanhe? entao deixe de me perseguir como o
+cacador persegue a caca.
+
+GUILDENSTERN
+
+Se o meu zelo, senhor, me faz obstinado, e porque a affeicao me torna
+importuno.
+
+HAMLET
+
+Nao o posso comprehender, faz-me favor de tocar n'esta charamela.
+
+GUILDENSTERN
+
+Senhor, eu nao sei!
+
+HAMLET
+
+Peco-lhe.
+
+GUILDENSTERN
+
+Creia-me, senhor, nao posso.
+
+HAMLET
+
+Supplico-lhe.
+
+GUILDENSTERN
+
+Se nunca soube tocar tal instrumento!
+
+HAMLET
+
+Pois mais difficil e mentir. Com os quatro dedos e o pollegar tapam-se e
+destapam-se por sua vez os orificios; sopre, e vera que encantadora
+harmonia produz. Vamos.
+
+GUILDENSTERN
+
+Mas, senhor, eu nao posso nem sequer tirar um som d'este instrumento;
+falta-me o talento.
+
+HAMLET
+
+Que especie de imbecil me julga entao? Sou a seus olhos um instrumento
+de que pretende tirar sons, e que parece conhecer tao bem. Pretende
+sondar ate ao fundo da minha alma, para descobrir o meu segredo; queria
+entao fazer vibrar todas as cordas do meu sentimento. D'este pequeno
+instrumento (Mostrando-lhe a charamela) tiram-se sons e notas as mais
+melodiosas; e comtudo nas suas maos nao pode fallar. Pela Virgem santa,
+sou entao mais facil de tocar do que uma flauta? O que lhe asseguro e
+que se me julga um instrumento nas suas maos, nunca conseguira fazel-o
+fallar. Esta muito enganado commigo.
+
+Entra POLONIO
+
+HAMLET (continuando)
+
+Guarde-o Deus.
+
+POLONIO
+
+Senhor, a rainha deseja fallar-lhe immediatamente.
+
+HAMLET (approximando-se de uma janella)
+
+Ve acola aquella nuvem que tem quasi a forma de um camello?
+
+POLONIO
+
+Nao ha duvida, dir-se-ia effectivamente um camello.
+
+HAMLET
+
+Parece-se mais com uma doninha.
+
+POLONIO
+
+e verdade! tem o feitio da doninha.
+
+HAMLET
+
+Ou de uma baleia?
+
+POLONIO
+
+Realmente, com o que se parece e com uma baleia.
+
+HAMLET
+
+Agora vou ter com minha mae, hao de acabar por enlouquecer-me deveras.
+Vou ja.
+
+POLONIO
+
+Vou communical-o a rainha. (Polonio sae.)
+
+HAMLET
+
+Ja! e facil dizel-o. Deixem-me sos, meus amigos. (Saem todos excepto
+Hamlet.)
+
+HAMLET (so)
+
+e esta a hora da noite propria dos mysterios da magia, a hora em que os
+tumulos se abrem, em que o inferno exhala sobre a terra o seu sopro
+contagioso; agora sinto-me capaz de beber sangue ainda fumegante, e
+commetter actos que o dia consternado nao poderia presencear sem terror!
+Prudencia! Vamos ao quarto de minha mae. Oh! meu coracao, nao dispas o
+teu vigor; firmeza agora, mas que o coracao de Nero nunca entre em meu
+peito. Sejamos inflexiveis, mas nao filho desnaturado; seja a minha
+lingua um punhal, mas minha mao esteja desarmada; e n'esta occasiao
+sejam a minha boca e o meu coracao obrigados pela rasao a dissimular.
+Por mais violentas que sejam as minhas palavras, dae-me forca, meu Deus,
+para que sejam sempre comedidas, assim como os meus actos. (Sae.)
+
+
+SCENA III
+
+Um quarto no castello de Elsenor
+
+Entram o REI, ROSENCRANTZ e GUILDENSTERN
+
+O REI
+
+Ha n'elle alguma cousa que me desagrada, e creio que haveria perigo para
+nos em nao vigiar a sua loucura; facam pois todos os preparativos de
+viagem. Vou dar as ordens, e quero que parta sem demora para Inglaterra
+acompanhado pelos senhores. O interesse da nossa coroa me veda o
+expor-me aos continuos perigos com que a sua demencia me ameaca.
+
+GUILDENSTERN
+
+Vamo-nos preparar. e um receio santo e salutar o que tem por objecto
+assegurar a salvacao de innumeras existencias, que depende da vida de
+vossa magestade.
+
+ROSENCRANTZ
+
+e um dever que toca a cada um na sua esphera individual, o applicar
+todas as suas forcas e toda a energia para defender a propria vida
+contra qualquer ataque; quanto mais obrigado a fazel-o e aquelle de cuja
+vida dependem tantas existencias! Quando um rei morre, nao morre so, e
+um turbilhao que attrahe tudo quanto encontra no caminho, ou lhe fica
+proximo: roda colossal fixada no cume de uma elevada montanha, cujos
+gigantescos raios estao carregados de innumeros accessorios, e cuja
+queda os impelle forcosamente a um desastre commum. Quando o rei padece,
+padecem todos.
+
+O REI
+
+Preparem-se, peco-lh'o, para uma partida immediata, porque estamos
+resolvidos a por um termo as causas de inquietacao que demasiado
+livremente se dao n'este paiz.
+
+AMBOS
+
+Nao nos faremos esperar. (Saem.)
+
+Entra POLONIO
+
+POLONIO
+
+Senhor, Hamlet entrou agora para o quarto de sua mae; occultar-me-hei
+cuidadosamente para ouvir a sua conversa. Asseguro a vossa magestade que
+a rainha o vae reprehender severamente. e conveniente, como el-rei muito
+bem disse, que outros ouvidos que nao sejam os de mae, naturalmente
+propensos a indulgencia, oucam o que se disserem mutuamente. Adeus, meu
+senhor; virei aos seus quartos antes que vossa magestade se recolha, e o
+rei sera sabedor de tudo quanto se passou.
+
+O REI
+
+Obrigado, Polonio. (Polonio sae.)
+
+O REI (so)
+
+O meu crime ja nao tem perdao no ceu, esta marcado pelo estigma da
+maldicao divina, como o foi o primeiro fratricida. Apesar de todos os
+meus desejos, nao posso orar; pareco um homem que duas occupacoes
+reclamam, e que, nao sabendo por qual optar, nao escolhe nenhuma.
+Poisque, quando sobre esta mao maldita se formasse uma crosta de sangue
+mais espessa que a propria mao, nao teria o ceu bastante misericordia
+para que a onda da sua graca a purificasse e a tornasse branca como a
+neve? Para que serve a bondade divina, senao para remir as nossas
+culpas? De que vale a oracao, se nao tem a dupla virtude de prevenir a
+nossa queda, ou obter o perdao depois d'ella? Dirijamos as nossas
+supplicas ao ceu, ja que nao podemos evitar o crime consummado. Mas,
+infeliz, como hei de orar? Perdoae-me, Senhor, o meu crime nefando. Nao
+posso, poisque possuo os objectos que me induziram ao assassinio, coroa,
+throno e consorte. Poder-se-ha obter o perdao, quando se conservam os
+fructos do crime? N'este mundo corrompido, a iniquidade pode a preco de
+oiro desviar o curso da justica, e com o producto do crime comprar a
+impunidade; mas o ceu e justo, todo o subterfugio e inutil; ali os
+nossos actos sao justamente avaliados e os nossos crimes conhecidos. Que
+devo fazer? Nada me resta. Tentemos o arrependimento. Grande e a sua
+efficacia; mas que pode n'aquelle a quem mesmo o arrepender-se e vedado?
+Oh! deploravel condicao, oh! consciencia negra como a morte, oh! minha
+alma, nao tens perdao, e quanto mais te esforcares por obtel-o, mais
+aggravas a tua situacao. Anjos do ceu, vinde em meu auxilio, tentae um
+esforco supremo. Dobrae-vos, joelhos rebeldes. E tu, meu coracao, que as
+tuas fibras de aco voltem ao estado primitivo das do recem-nascido.
+Ainda me resta esta ultima esperanca. (Retira-se a um lado da scena,
+ajoelha e ora.)
+
+Entra HAMLET
+
+HAMLET (vendo o rei)
+
+A occasiao e propicia, esta orando. Coragem, Hamlet. Sim, mas
+salvar-se-ia a sua alma, e nao e essa a minha vinganca desejada.
+Reflictamos; um scelerado assassina meu pae, e eu, seu filho unico, abro
+as portas do ceu a esse infame! Seria uma recompensa e nao um castigo.
+Assassinou meu pae, entregue as preoccupacoes da carne, quando seus
+peccados mais vivazes estavam, como as flores na primavera; e quem sabe,
+a nao ser o ceu, que contas daria ao Creador? as penas eternas, de
+certo, nao o pouparam. Seria uma vinganca immolar este scelerado, quando
+a sua alma deve estar pura, quando esta preparado para a sua ultima
+viagem? Nao! Entra na tua bainha, minha espada, e espera para ferir,
+golpe mais terrivel e justo. Quando estiver ebrio ou adormecido, ou
+encolerisado, ou immerso nos prazeres de um leito incestuoso, ou
+absorvido pelo jogo, ou blasphemando, ou praticando algum acto contrario
+a salvacao da sua alma, entao fere, que as penas do inferno serao poucas
+para um tal crime. (Olhando para o rei.) Prolonga ainda os teus dias
+enfermos: adiar nao e desistir. (Sae.)
+
+O REI
+
+Sobem as minhas palavras, o pensamento nao, e as palavras sem o
+pensamento nao chegam ao ceu. (Sae.)
+
+
+SCENA IV
+
+Um quarto no castello
+
+Entram a RAINHA e POLONIO
+
+POLONIO
+
+O sr. Hamlet nao tarda. Reprehenda-o asperamente; diga-lhe que os seus
+atrevimentos excedem os limites da paciencia, e que vossa magestade ja
+teve que se interpor entre elle e a colera do rei. Nada mais digo,
+senhora, peco so que falle com firmeza.
+
+A RAINHA
+
+Fallar-lhe-hei com firmeza, esteja descansado. Afaste-se, ouco os seus
+passos. (Polonio esconde-se.)
+
+Entra HAMLET
+
+HAMLET
+
+Que me quer, minha mae?
+
+A RAINHA
+
+Hamlet, offendeste gravemente teu pae.
+
+HAMLET
+
+Minha mae offendeu gravemente meu pae!
+
+A RAINHA
+
+Como insensato fallas.
+
+HAMLET
+
+A rainha falla como culpada!
+
+A RAINHA
+
+Que queres tu dizer, Hamlet?
+
+HAMLET
+
+O que e, senhora?
+
+A RAINHA
+
+Esqueces quem eu sou?
+
+HAMLET
+
+Pela cruz do Redemptor, que nao. Rainha e, foi esposa do irmao de seu
+marido, e prouvera a Deus que nao o fosse, mas e minha mae!
+
+A RAINHA
+
+Mandar-te-hei alguem que melhor do que eu te saiba fallar.
+
+HAMLET
+
+Vamos, sente-se, minha mae. Nao se movera, nao saira d'aqui emquanto eu
+nao tiver posto diante dos seus olhos um espelho em que possa ver ate as
+profundidades da sua alma.
+
+A RAINHA
+
+Que pretendes de mim? queres tu porventura assassinar-me? Acudam a
+rainha, acudam!
+
+POLONIO (por detras do reposteiro)
+
+O que e! ola, soccorro!
+
+HAMLET (desembainhando a espada)
+
+Que e isso? Um rato? (Dando-lhe uma estocada.) Aposto um ducado em como
+o matei!
+
+POLONIO (atras do reposteiro)
+
+Mataram-me, eu morro. (Cae para fora do reposteiro e morre.)
+
+A RAINHA
+
+Que fizeste, infeliz?
+
+HAMLET
+
+Ignoro-o; seria o rei? (Levanta o reposteiro e puxa pelo cadaver de
+Polonio.)
+
+A RAINHA
+
+Que acto de crueldade e de sangue!
+
+HAMLET
+
+De sangue; quasi tao reprehensivel, minha mae, como assassinar um rei e
+desposar o irmao!
+
+A RAINHA
+
+Assassinar um rei?
+
+HAMLET
+
+Sim, um rei, foi o que eu disse. (A Polonio.) Quanto a ti, pobre diabo,
+louco, temerario e indiscreto, as nossas contas estao ajustadas,
+aprendeste a tua custa o perigo que corre quem se intromette nos
+negocios dos outros. (a rainha.) Cesse de estorcer-se. Silencio,
+sente-se, quero torturar o seu coracao, e fal-o-hei, se ainda possue
+alguma sensibilidade, e o habito do crime nao a bronzeou a ponto de ser
+insensivel a toda a especie de emocao.
+
+A RAINHA
+
+Que fiz eu, Hamlet, para que me falles n'esse tom ameacador?
+
+HAMLET
+
+Uma accao que mancha o rubor e a graca do pudor; que transforma a
+virtude em hypocrisia; que arranca a fronte innocente do amor a sua
+coroa de rosas, e a substitue por uma chaga asquerosa; que torna os
+juramentos do hymeneu tao falsos como os do jogador! Oh! uma accao que
+rouba ao corpo dos contratos a santidade, que e a sua alma, e faz da
+religiao uma rapsodia de palavras. Indigna-se o ceu, contrista-se o
+globo solido e compacto, le-se-lhe nas faces a consternacao como se
+fosse o ultimo dia do mundo.
+
+A RAINHA
+
+Qual e pois a accao que denunciam este ameacador preludio e esta
+expressao fulminante?
+
+HAMLET (mostrando dois retratos em pe que ornam as paredes)
+
+Veja bem esses dois retratos, sao as imagens de dois irmaos. Veja que
+graca impressa n'estas feicoes: o cabello annellado de Apollo; a fronte
+do proprio Jupiter; o olhar de Marte, onde se le a commando e a ameaca;
+o porte de Mercurio, o mensageiro celeste, quando apenas pousa o alado
+pe sobre o cimo das nuvens; uma tao feliz reuniao das formas perfeitas,
+que cada um dos deuses parecia ter contribuido com o seu quinhao, como
+se quizessem mostrar ao mundo o modelo do verdadeiro homem! Esse era o
+seu primeiro esposo. Volva agora os olhares para este lado. Eis o que e
+o seu segundo esposo! que, similhante a espiga mangrada, pelo seu
+contacto causa a morte a sua irma a espiga sa. E sabera ver? Como pode
+entao abandonar as ferteis e salubres collinas, para se immergir n'este
+immundo paul!! Se ainda tem olhos, senhora, nao pode imputar ao amor o
+seu comportamento; na sua idade ja se acalmou a effervescencia do
+sangue, e a paixao obedece a rasao. E qual seria a creatura racional,
+que ousasse trocar o seu primeiro marido por este segundo? e sem duvida
+dotada de sensibilidade, alias nao seria um ser animado; mas na senhora
+estao paralysados todos os sentimentos, porque nao ha demencia que nao
+deixe ao que verga sob o seu peso uma porcao bastante de discernimento,
+para saber escolher entre objectos tao dissimilhantes. Que demonio a
+perturbou a ponto de lhe vendar os olhos? A vista sem o tacto, o tacto
+sem o auxilio da vista, o ouvido sem o uso das maos e dos olhos, o
+olfato so por si, uma porcao mesmo alterada de um verdadeiro sentido,
+nao podiam ter-se enganado tao estultamente. Oh! vergonha! onde esta o
+teu rubor? Inferno rebelde, que assim podes atear a revolta nos sentidos
+de uma mulher, ha muito esposa e mae. Que admira que, para a ardente
+juventude, a virtude seja como a cera, que se derrete a chamma que
+alimenta; que nao seja vergonha ceder quando nos arrasta a paixao,
+poisque o proprio crystal se funde e a rasao prostitue aos desejos os
+seus vergonhosos servicos.
+
+A RAINHA
+
+Oh! Hamlet, cessa por piedade, obrigas o meu olhar a volver-se todo para
+a minha alma, e n'ella descubro maculas tao negras e tao profundamente
+impressas, que nada ja as pode lavar.
+
+HAMLET
+
+Viver no suor impuro de um leito infecto, sobre o esterco da corrupcao,
+revolver-se no lodacal de um asqueroso amor.
+
+A RAINHA
+
+Cala-te, Hamlet, as tuas palavras sao outras tantas punhaladas. Piedade!
+querido filho!
+
+HAMLET
+
+Um assassino, um scelerado, um miseravel, que nao vale a centesima parte
+do seu primeiro marido, um rei de comedia, um ladrao, que empalmou o
+poder, e que achando a coroa debaixo de mao, a roubou e a metteu no
+bolso!
+
+A RAINHA
+
+Hamlet!
+
+HAMLET
+
+Um palhaco!
+
+Entra a SOMBRA
+
+HAMLET
+
+Protegei-me e abrigae-me sob vossas azas, anjos do ceu. (a sombra) Que
+pretendes de mim, sombra querida?
+
+A RAINHA
+
+Infeliz! enlouqueceu.
+
+HAMLET (a sombra)
+
+Vens tu reprehender a tibieza de teu filho, que, deixando passar o
+tempo, arrefecer a sua indignacao, nao se apressou em cumprir os teus
+terriveis preceitos? Falla!
+
+A SOMBRA
+
+Recorda-te que o unico fim d'esta minha apparicao e atear em ti o fogo
+da resolucao. Mas ve, tua mae esta succumbida, interpoe-te entre ella e
+os seus remorsos; e nas mais debeis organisacoes que mais estragos causa
+a imaginacao. Falla-lhe tu, Hamlet.
+
+HAMLET
+
+Como se sente, minha mae?
+
+A RAINHA
+
+Eu e que te devia fazer essa pergunta! Por que esta teu olhar fito no
+espaco? por que conversas com seres immateriaes? Teu olhar indefinido
+revela a lucta da tua alma; como um soldado acordado em sobresalto; teus
+cabellos, como se a vida os animasse, levantam-se e ouricam-se sobre a
+tua fronte. Oh! meu querido filho, apaga a chamma da tua colera, com as
+tranquillas e limpidas aguas da paciencia! Mas para onde olhas tu?
+
+HAMLET
+
+e elle! Elle! Como esta pallido! O seu aspecto, e o motivo que aqui o
+traz, commoveriam as proprias pedras. (a sombra) Descrava de mim os teus
+olhos, receio que me feneca a resolucao, vendo teu triste e commovente
+olhar; que se transforme o caracter dos meus actos talvez em lagrimas em
+vez de sangue.
+
+A RAINHA
+
+Mas, filho, a quem fallas assim?
+
+HAMLET
+
+Nao ve nada, minha mae?
+
+A RAINHA
+
+Nada, senao tudo quanto existe n'esta camara.
+
+HAMLET
+
+E nada ouviu?
+
+A RAINHA
+
+Cousa alguma, a nao ser as tuas palavras.
+
+HAMLET
+
+Mas olhe, minha mae, nao ve como elle se afasta, triste e pensativo? e
+meu pae, vestido como trajava em sua vida. Eil-o, transpoe agora mesmo a
+porta. Saiu. (A sombra sae.)
+
+A RAINHA
+
+e a exaltacao da tua imaginacao e ao delirio que de ti se apoderou, que
+sao devidas estas creacoes phantasticas.
+
+HAMLET
+
+O delirio! Senhora, apalpe o meu pulso, e conhecera que nao esta menos
+tranquillo que o seu. Nao fallei influenciado pelo delirio.
+Interrogue-me; em vez de divagar, repetir-lhe-hei textualmente as minhas
+palavras; nao estou louco; engana-se, minha mae. Por Deus, nao se
+embale, no pensamento falso, que e o meu delirio e nao a sua culpa que
+me faz fallar! Seria cicatrizar exteriormente a chaga, que a consciencia
+nunca deixaria de augmentar interiormente. Confesse-se ao ceu,
+arrependa-se do passado, premuna-se para o futuro, e nao de pasto ao
+verme do remorso, que acabara por totalmente corroer o seu coracao e
+obliterar a sua consciencia. Perdoe a minha virtude, porque n'este mundo
+sordido e venal a virtude deve implorar o perdao do vicio e pedir o
+favor de poder fazer o bem.
+
+A RAINHA
+
+Oh! Hamlet! Dilaceras-me o coracao.
+
+HAMLET
+
+Expulse a parte corrompida, e com a outra metade viva tranquilla e pura.
+Boa noite; evite meu tio, e se nao poder ser virtuosa, ao menos
+pareca-o. O habito, esse monstro, que destroe e neutralisa em nos toda a
+sensibilidade, esse demonio do habito, e anjo n'isto, porque consente a
+virtude e as boas accoes as suas vestes proprias. Nao veja hoje o seu
+esposo, tornar-lhe-ha mais facil a abstencao futura; o habito tudo pode,
+muda a natureza individual, doma o demonio, e expulsa-o com o seu
+maravilhoso poder. Boas noites mais uma vez! e quando sentir a
+necessidade da bencao divina, entao pedir-lhe-hei a sua. (Mostrando
+Polonio.) Quanto a este homem, arrependo-me do que fiz; mas obedeci ao
+ceu; assim o quiz tornando-me instrumento das suas vingancas, punindo-o
+por mim, a mim por elle. Sepultem-no, eu responderei pela morte que lhe
+dei! Adeus, pois. Cumpre-me ser cruel por humanidade; o primeiro mal
+esta feito, o maior ainda ha de vir. Uma palavra ainda.
+
+A RAINHA
+
+Que devo fazer?
+
+HAMLET
+
+Nada do que eu lhe disse! Receba as caricias do avinhado monarcha,
+preste as suas faces aos seus osculos, ouca-lhes as palavras de amor;
+entao n'um diluvio de ardentes osculos, entre as mais lubricas caricias,
+confesse-lhe, revele-lhe tudo, diga-lhe que nunca estive louco, que o
+fingi, faca-lhe essa confidencia. Qual seria a rainha, bella, sensata e
+honesta, que hesitasse em confiar aquelle animal immundo e repellente,
+asqueroso reptil, tao importantes segredos? Quem guardaria silencio?
+Ninguem. Depois, olvidando o bom senso e a discricao, abra a gaiola e
+deixe voar as avesinhas, e seguindo o exemplo do bugio da legenda, por
+simples experiencia, introduza-se na gaiola e rompa o pescoco caindo!
+
+A RAINHA
+
+Acredita, Hamlet, que se as palavras se compozessem de folgo e o folgo
+de vida, eu nao teria vida para articular as que tu me disseste.
+
+HAMLET
+
+Devo partir para Inglaterra; sabe-o sem duvida, minha mae?
+
+A RAINHA
+
+Infeliz! Tinha-me esquecido; pois isso esta definitivamente determinado?
+
+HAMLET
+
+Ha cartas selladas, e os meus dois companheiros de estudos, nos quaes me
+fio tanto como na innocencia dos envenenados dardos das viboras, sao os
+portadores da ordem! Sao elles que me hao de aplanar o caminho, e se
+encarregarao de me conduzir ao laco armado pela mais negra traicao.
+Deixemos caminhar os acontecimentos. Causa deveras prazer ver rebentar
+nas maos do proprio artifice a bomba que para outrem preparava. Nada ha,
+senhora, que nos de mais gosto do que combater a traicao,
+contraminando-a pela sagacidade. A morte de Polonio apressara a minha
+partida. Levemos o seu cadaver para a camara vizinha. Boas noites, minha
+mae. Este conselheiro esta agora verdadeiramente a sangue frio, discreto
+e grave; em vida era dotado de estupida garrulice. Agora basta, acabemos
+por uma vez. Boas noites. Adeus, minha mae. (A rainha sae por um lado,
+Hamlet pelo outro, arrastando o cadaver de Polonio.)
+
+
+Fim do acto terceiro
+
+
+
+
+ACTO QUARTO
+
+
+SCENA I
+
+Um quarto no castello de Elsenor
+
+Entram o REI, a RAINHA, ROSENCRANTZ e GUILDENSTERN
+
+O REI
+
+Esses suspiros, esse difficil arfar do peito, tudo deve ter uma causa.
+Queremos conhecel-a e pelos senhores. Onde esta nosso filho?
+
+A RAINHA (a Rosencrantz e Guildenstern)
+
+Deixem-nos sos um momento. (Os dois saem.) (Ao rei) Ah! senhor, que
+noite esta!
+
+O REI
+
+Que ha de novo, Gertrudes; em que estado achaste Hamlet?
+
+A RAINHA
+
+Tao revolta esta a sua rasao, como o mar e o vento, quando entre si
+luctam, disputando a sua forca. N'um dos seus arrebatamentos do delirio,
+ouvindo mexer atras de uma cortina, exclamou: _Um rato, um rato_, e
+desembainhando a espada, cravou-a no peito d'aquelle excellente anciao.
+
+O REI
+
+Oh! triste acontecimento! Igual sorte teria tido se ali me achasse;
+livre, corremos o maior risco, mesmo tu; todos, emfim. Que rasoes
+daremos para explicar este acto sanguinario? Taxar-nos-hao de
+imprevidentes, a responsabilidade toda caira sobre nos; dirao que
+deviamos ter isolado esse insensato, mas era tao grande a nossa
+affeicao, que nao comprehendemos o que a prudencia nos aconselhava.
+Obramos como um homem atacado de um mal vergonhoso, que para guardar
+segredo deixa enraizar-se esse mal e destruir toda a seiva vital. Onde
+esta Hamlet?
+
+A RAINHA
+
+Pondo em logar seguro o cadaver d'aquelle a quem deu a morte. No meio
+mesmo da sua demencia, conserva-se pura e intacta a sua intelligencia,
+como um metal precioso encravado em rocha bruta. Rebenta-lhe o pranto ao
+lembrar-se da accao que commetteu.
+
+O REI
+
+Saiamos, Gertrudes. Quando o sol tocar o cume das montanhas, ja Hamlet
+devera ter embarcado; logo em seguida partira para Inglaterra. Quanto a
+esta odiosa accao precisamos achar na nossa auctoridade e no nosso
+engenho alguma desculpa que a releve aos olhos do mundo. Ola,
+Guildenstern? (Entram outra vez Guildenstern e Rosencrantz.)
+
+O REI (continuando)
+
+Meus amigos, procurem pessoas que os ajudem e auxiliem. Hamlet, na sua
+demencia, matou Polonio, cujo cadaver levou para fora da camara de sua
+mae. Tratem de descobrir onde o occultou, encarrego-os d'esta missao.
+Nada digam que possa irritar Hamlet, e levem o corpo do infeliz Polonio
+para a capella; peco-lhes so que se aviem. (Saem Rosencrantz e
+Guildenstern.)
+
+O REI (continuando)
+
+Vamos, Gertrudes, convoquemos os nossos mais doutos amigos, demos-lhe a
+conhecer o nosso designio e a desgraca acontecida. Precavendo-nos d'este
+modo, talvez a calumnia, que arremessa o seu dardo envenenado de uma
+extremidade do mundo a outra, e cujos tiros sao tao certeiros, como os
+do mais perfeito canhao, poupe o nosso nome, perdendo-se na immensidade
+do espaco. Saiamos d'aqui. Na minha alma nao sinto senao perturbacao e
+terror! (Saem.)
+
+
+SCENA II
+
+Outro quarto no castello
+
+Entra HAMLET
+
+HAMLET
+
+Duvido que o encontrem.
+
+VOZES DE FoRA
+
+Hamlet? senhor Hamlet?
+
+HAMLET
+
+De vagar. Que rumor e este? Quem ousa chamar Hamlet? Ah! eil-os que
+chegam. (Entram Rosencrantz e Guildenstern.)
+
+ROSENCRANTZ
+
+Senhor? que fez vossa alteza do cadaver?
+
+HAMLET
+
+Entreguei-o ao po de que saiu.
+
+ROSENCRANTZ
+
+Mas em que logar para o podermos levantar e depositar na capella?
+
+HAMLET
+
+Nao pensem em tal.
+
+ROSENCRANTZ
+
+Que devemos, pois, pensar?
+
+HAMLET
+
+Que pouco me importo com a sua cabeca, mas muito com a minha.
+Interrogado de mais a mais por uma esponja! Que resposta lhe pode dar o
+filho de um rei?
+
+ROSENCRANTZ
+
+e a mim que chama esponja?
+
+HAMLET
+
+A quem havia de ser? sim a ti, que bebes os favores, as recompensas e o
+poder real. Mas, no fim de contas, taes officiaes prestam ao monarcha
+relevantes servicos, sao para elle como o fructo que o bugio conserva na
+boca para depois o engulir; quando necessitar do que tem arrecadado,
+espreme-os como uma esponja, e ficarao completamente enxutos.
+
+ROSENCRANTZ
+
+Nao comprehendo, senhor!
+
+HAMLET
+
+Estimo muito. As palavras do traficante so tem por domicilio os ouvidos
+do tonto.
+
+ROSENCRANTZ
+
+Diga-nos onde esta o cadaver, e siga-nos a presenca do rei.
+
+HAMLET
+
+Onde esta o rei existe um corpo, mas o rei nao esta n'esse corpo. O rei
+e uma creatura.
+
+ROSENCRANTZ
+
+Uma creatura, senhor?
+
+HAMLET
+
+Uma creatura que nada vale! Conduzam-me a sua presenca. Vamos jogar as
+escondidas. (Saem todos.)
+
+
+SCENA III
+
+Uma sala no castello
+
+Entra o REI com a sua comitiva
+
+O REI
+
+Mandei chamar Hamlet e procurar o cadaver. Que perigo deixar livre um
+tal homem; mas nao podemos fazer pesar sobre elle todo o rigor das leis.
+A multidao insensata estima-o, decidindo-se mais pela vista do que pela
+rasao; n'estas circumstancias o que devemos pensar e o castigo dos
+culpados, nunca o crime so por si. Para prevenir qualquer
+descontentamento e forcoso que este precipitado exilio pareca
+consequencia de madura reflexao. Para males desesperados remedios
+energicos, ou nenhuns. (Entra Rosencrantz.) Entao que aconteceu?
+
+ROSENCRANTZ
+
+Nada podemos saber da sua boca relativamente ao cadaver.
+
+O REI
+
+Onde esta Hamlet?
+
+ROSENCRANTZ
+
+No quarto vizinho, esperando debaixo de segura guarda as ordens de vossa
+magestade.
+
+O REI
+
+Que venha a nossa presenca.
+
+ROSENCRANTZ
+
+Ola, Guildenstern. Conduze Hamlet a este aposento. (Entram Hamlet e
+Guildenstern.)
+
+O REI
+
+Hamlet, onde esta Polonio?
+
+HAMLET
+
+N'um banquete.
+
+O REI
+
+N'um banquete?! onde?
+
+HAMLET
+
+Onde nao come, mas e devorado. Uma multidao de vermes politicos disputa
+o seu cadaver. O verme e o monarcha dos comedores. Engordamos todas as
+creaturas para nos engordarmos, e engordamo-nos para pasto dos vermes.
+Um rei gordo e um mendigo magro sao duas iguarias differentes, comtudo
+hao de ser servidas a mesma mesa. Esta e a verdade.
+
+O REI
+
+Infelizmente assim e!
+
+HAMLET
+
+e possivel que se pesque, com um verme creado em cadaver real, um peixe,
+e que se coma depois o peixe que enguliu o verme.
+
+O REI
+
+Que significam as tuas palavras?
+
+HAMLET
+
+Nada; apenas as transformacoes pelas quaes pode passar um rei para
+penetrar nos intestinos do pobre.
+
+O REI
+
+Onde esta Polonio?
+
+HAMLET
+
+No ceu. Mande ali o seu mensageiro procural-o, e se nao o achar,
+procure-o entao o rei no sitio opposto. Em todo o caso se nao o acharem
+ate d'aqui a um mez, o olfato o denunciara junto a escada da galeria.
+
+O REI (a sua comitiva)
+
+Procurem-o ja.
+
+HAMLET
+
+Esperal-os-ha com certeza. (Sae a comitiva do rei.)
+
+O REI
+
+Hamlet, no interesse da tua saude, que nos e tao cara, quanto dolorosa a
+accao que commetteste, e forcoso que partas com a maior brevidade; vae,
+pois, preparar-te. O navio esta prompto e o vento sopra propicio; os
+teus companheiros esperam-te, e tudo esta disposto para a tua viagem a
+Inglaterra.
+
+HAMLET
+
+A Inglaterra?
+
+O REI
+
+Sim, Hamlet.
+
+HAMLET
+
+Esta bem.
+
+O REI
+
+O mesmo dirias conhecendo todos os meus projectos.
+
+HAMLET
+
+Descubro um anjo que os ve. Mas partamos para Inglaterra. Adeus, minha
+querida mae.
+
+A RAINHA
+
+E teu pae que te estremece?
+
+HAMLET
+
+Nao, minha mae; pae e mae sao marido e mulher, marido e mulher sao uma e
+mesma carne. Assim, pois, adeus, minha mae. Vamos para Inglaterra.
+(Sae.)
+
+O REI (a Rosencrantz e Guildenstern)
+
+Sigam-o passo a passo, facam-o embarcar promptamente, nao ha tempo que
+perder. Quero que ja esta tarde esteja afastado d'estes sitios. Vao!
+Tudo quanto respeita a este negocio foi ja expedido e sellado com as
+nossas armas. Aviem-se, peco-lh'o. (Saem.) (Continuando) Rei de
+Inglaterra, sabes ate onde chega o meu poder; as feridas infligidas pelo
+ferro dinamarquez ainda sangram, e teu respeito nos presta livre
+homenagem. Se, pois, prezas a minha benevolencia, nao receberas
+friamente as ordens soberanas contidas nas minhas cartas e que exigem a
+morte de Hamlet. Obedece-me, rei de Inglaterra, porque Hamlet e febre
+que requeima o meu sangue, e tu e que me deves curar d'ella. Nao terei
+um dia de prazer e descanso emquanto nao souber a completa execucao das
+minhas ordens, aconteca o que acontecer. (Sae.)
+
+
+SCENA IV
+
+Uma planicie na Dinamarca
+
+Chega FORTIMBRAZ a frente das suas tropas
+
+FORTIMBRAZ (a um dos seus officiaes)
+
+Capitao, saude da minha parte o rei de Dinamarca e diga-lhe, que, em
+conformidade com a sua promessa, Fortimbraz lhe pede livre passagem pelo
+seu territorio; sabe o ponto em que nos devemos encontrar. Se sua
+magestade desejar fallar-me, irei prestar-lhe as minhas homenagens.
+Diga-lh'o da minha parte.
+
+O OFFICIAL
+
+As suas ordens serao cumpridas, meu senhor!
+
+FORTIMBRAZ (as suas tropas)
+
+Avancemos em attitude pacifica. (Fortimbraz e as suas tropas afastam-se.
+O official fica.)
+
+Chegam HAMLET, ROSENCRANTZ, GUILDENSTERN e mais pessoas
+
+HAMLET (ao official)
+
+Que tropas sao essas, meu amigo?
+
+O OFFICIAL
+
+e o exercito norueguez, senhor!
+
+HAMLET
+
+Qual e o seu destino?
+
+O OFFICIAL
+
+Um ponto do territorio da Polonia.
+
+HAMLET
+
+Quem o commanda?
+
+O OFFICIAL
+
+Fortimbraz, sobrinho do rei de Noruega.
+
+HAMLET
+
+e contra a Polonia toda, ou so contra um ponto determinado da fronteira
+que marcham?
+
+O OFFICIAL
+
+Se quer que lhe diga a verdade, marchamos contra uma parte da Polonia,
+cuja conquista sera para nos gloria, sem proveito algum. Estou certo que
+a sua renda nao vale cinco ducados, e se se vendesse ninguem daria mais.
+
+HAMLET
+
+Se assim e, os polacos nao devem offerecer resistencia?
+
+O OFFICIAL
+
+Pelo contrario, ate ja o guarneceram.
+
+HAMLET
+
+Duas mil almas e vinte mil ducados chegarao apenas para tao futil
+empreza; e um d'estes abcessos que resultam de uma demasiada e
+prolongada prosperidade que rebenta internamente, sem que nada indique
+exteriormente a sua accao mortal. Obrigado, amigo.
+
+O OFFICIAL
+
+Deus seja comvosco, senhor. (Afasta-se.)
+
+ROSENCRANTZ
+
+O principe quer que continuemos o nosso caminho?
+
+HAMLET
+
+Pode ir indo, em breve o alcancarei. (Saem Rosencrantz e Guildenstern.)
+(Continuando.) Como sempre tudo me accusa e me excita a tardia vinganca.
+O que e o homem, se o seu primeiro bem, o maior negocio da sua vida,
+consiste em comer e dormir! e um animo brutal, nada mais. Seguramente,
+que aquelle que nos dotou com essa vasta comprehensao, capaz de abracar
+o passado e o futuro, nao nos deu essa intelligencia, esse admiravel
+raciocinio, para que ficassemos ociosos e sem emprego. Quer seja estulto
+esquecimento, quer cobarde escrupulo, medito demasiado na accao que
+tenho que commetter, pensamento composto de uma quarta parte de siso e
+tres quartas partes de cobardia. Como me espanto a mim mesmo quando
+repito: _Eis o que devo fazer_, ja que me sobram os motivos, tenha eu ao
+menos vontade, forca e energia para o executar. Incitam-me os mais
+irrecusaveis exemplos; testemunho este numeroso exercito, capitaneado
+pelo seu joven principe, cujo genio intrepido, soprado por uma ambicao
+divina, affronta, rindo, as eventualidades de um porvir invisivel,
+expondo uma vida mortal e incerta, a tudo quanto podem ousar a fortuna,
+a morte e os perigos, e tudo por nada, por uma bagatella. A verdadeira
+grandeza consiste, nao so em commover-se com grandes e poderosas rasoes,
+mas tambem em achar n'uma bagatella rasoes de conflicto, cuja verdadeira
+causa e o pundonor. Que posicao pois a minha, eu que tenho um pae
+assassinado, uma mae deshonrada; eu que tenho tantos motivos de colera e
+que tudo deixo adormecer, emquanto que para minha vergonha vejo vinte
+mil homens, por uma louca esperanca de gloria exporem-se a morte,
+caminharem para o tumulo, como caminhariam para o leito; irem combater
+para conquistar um quinhao de terra insufficiente para caberem n'elle, e
+cujo terreno seria uma sepultura acanhada para os mortos. Ah! quanto se
+revelam sanguinarios os meus pensamentos, ou entao nada. (Afasta-se.)
+
+
+SCENA V
+
+Uma sala no castello de Elsenor
+
+Entram HORACIO e a RAINHA
+
+A RAINHA
+
+Nao lhe quero fallar.
+
+HORACIO
+
+Pede-o encarecidamente. Verdade e que ella perdeu a rasao; o seu estado
+e digno de compaixao.
+
+A RAINHA
+
+O que pretende ella?
+
+HORACIO
+
+Falla sempre no pae, pretende terem-lhe dito que n'este mundo se
+commettem bem mas accoes, suspira, bate no peito, exaspera-se sem
+motivo. Profere palavras equivocas e sem sentido. Nada diz, comtudo quem
+ao ouvil-a nao teria vontade de a comprehender. Aquelles que a ouvem
+procuram adivinhar o sentido, e preenchendo as lacunas, tentam completar
+o sentido das suas fallas. Vendo os movimentos que faz, acompanhando as
+palavras, todos lhe suppoem um pensamento, um sentido, e provavelmente
+tem-no, mas de certo bem sinistro.
+
+A RAINHA
+
+e conveniente fallar-lhe, porque poderia impressionar malevola e
+perigosamente os espiritos. Que venha. (Horacio sae.) (Continuando) Ah!
+minha alma enferma! Sera uma condicao do crime, que a menor bagatella
+pareca sempre a precursora de alguma grande calamidade? Tal e a
+desconfianca em uma consciencia culpada, que se trahe a si mesma com o
+receio de se trahir.
+
+HORACIO entra com OPHELIA
+
+OPHELIA
+
+Onde esta a bella rainha de Dinamarca?
+
+A RAINHA
+
+Ophelia?
+
+OPHELIA
+
+  Como hei de eu conhecer o bem amado
+        Por entre a multidao?
+  Pelo chapeu de conchas enfeitado
+        E pelo seu bordao.
+
+A RAINHA
+
+Infeliz Ophelia! Que significam esses versos?
+
+OPHELIA
+
+Pergunta-mo? Escute entao...
+
+  Levaram-no bem morto ao cemiterio!
+        O que tu foste e es!...
+  Sob a fronte senil myrto funereo,
+        E fria pedra aos pes!
+
+Ai de mim! (Chora.)
+
+A RAINHA
+
+Ophelia, querida Ophelia?
+
+OPHELIA
+
+Ouca mais, peco-lh'o...
+
+  Branca de neve a frigida mortalha...
+
+Entra o REI
+
+A RAINHA
+
+Veja, senhor!
+
+OPHELIA
+
+        e como um prado em flor
+  Baixou a campa a fronte e nao a orvalha
+        Com lagrimas o amor!!
+
+O REI
+
+Como esta bella, Ophelia?
+
+OPHELIA
+
+Bem, louvado Deus, dizem que a coruja fora outr'ora filha de um padeiro.
+Meu Deus, nos sabemos o que somos, mas nunca o que poderemos vir a ser.
+Que Deus abencoe a sua mesa.
+
+O REI
+
+Recorda-se do pae?
+
+OPHELIA
+
+Nao fallemos mais n'isso, mas se me perguntam o que significa,
+dir-lhes-hei o que e. Respondam.
+
+  Sao Valentim! dizes-me a minha sina?
+        A pe ja todos sao.
+  Queres que eu seja a tua Valentina?
+        Sou virgem, sim ou nao?
+  Ergueu-se elle e vestiu-se; mansamente
+        Do quarto a porta abriu;
+  E virgem ella entrou... mas tao somente
+        Mulher quando saiu.
+
+O REI
+
+Encantadora Ophelia!
+
+OPHELIA
+
+Em verdade vou terminar sem juramento.
+
+  Por Jesus! pela santa caridade!
+        Quem vale a infeliz?!
+  Ai! sao todos assim na mocidade,
+        A sorte e quem n'o quiz!
+  Antes da minha queda prometteste
+        Conduzir-me ao altar:
+  Por Deus o houvera feito... nao quizeste.
+        Quem te mandou entrar?
+
+O REI
+
+Ha quanto tempo e que este infeliz estado se apoderou d'ella?
+
+OPHELIA
+
+Tudo vae bem! e preciso ter paciencia; nao posso reter o pranto,
+pensando que esta debaixo da terra fria e humida. Meu irmao ha de
+sabel-o, obrigada pelo conselho. Chegue a minha carruagem. Boa noite,
+minhas senhoras, boa noite, bellas senhoras, Adeus, boas noites! (Sae
+correndo.)
+
+O REI (a Horacio)
+
+Siga-a, nao a perca de vista, vigie-a cautelosamente, peco-lh'o eu!
+(Horacio sae.) (Continuando) Oh! e aquelle o veneno de uma dor profunda,
+causada pela morte do pae. Ah! Gertrudes, Gertrudes, quando as dores nos
+assaltam, nunca e isoladamente, e como se viessem em tropel. Primeiro a
+morte do pae, depois a partida de Hamlet, que tao violentamente decretou
+o proprio exilio; o povo alvorocado e descontente, commenta malevola e
+insidiosamente a morte de Polonio, e nos obramos pouco assisadamente
+ordenando o prompto enterro; a infeliz Ophelia, inconsciente do seu
+estado, esta privada da rasao, sem a qual somos simples estatuas,
+creaturas brutas. Para cumulo de desgraca esta vale todas as outras, seu
+irmao voltou secretamente de Franca, embrenha-se no labyrintho de
+noticias, e mantem-se occulto. Nao deixara por certo de haver bocas
+malevolas, que por occasiao da morte de seu pae, envenenem seus ouvidos
+com insinuacoes perfidas, e a calumnia, na carencia de outro assumpto,
+nao nos poupara com os seus dardos envenenados e mortiferos. Ah! querida
+Gertrudes; tudo isto, similhante a um instrumento de morte, vibra-me
+mais golpes que os necessarios para por termo a minha vida. (Ouve-se um
+grande rumor fora da sala.)
+
+A RAINHA
+
+Que rumor e esse?
+
+O REI
+
+Ola, venha alguem. (Entra um official do palacio.)
+
+O REI (continuando)
+
+Onde estao os meus suissos? Que defendam as portas. Dize-me ja o que ha.
+
+O OFFICIAL
+
+Fuja, senhor; o oceano, rompendo os diques, nao invade com mais
+violencia a campina, do que o joven Laerte, a frente da rebelliao,
+derruba a resistencia dos vossos officiaes. O povo chama-lhe soberano, e
+como se fosse no comeco do mundo, sem tradicoes, nem passado, nem usos,
+sobre que tudo se firma, ou as tivesse esquecido, exclama: Elejamos um
+rei! Laerte sera o nosso rei? Todos se descobrem e agitam os gorros,
+todas as maos applaudem, todas as vozes repetem: Laerte sera rei. Viva o
+rei Laerte!
+
+A RAINHA
+
+Com que prazer esta matilha segue uma pista falsa! Enganam-se!
+Dinamarquezes ingratos!
+
+O REI
+
+Entraram a forca. (Redobra o rumor. Entra Laerte seguido por muito povo
+dinamarquez.)
+
+LAERTE
+
+Onde esta esse rei? Senhores, retirem-se para fora.
+
+O POVO
+
+Nada! Queremos todos entrar.
+
+LAERTE
+
+Facam o que lhes peco.
+
+O POVO
+
+e justo! e justo! (Saem.)
+
+LAERTE
+
+Obrigado, senhores; guardem as portas. (Ao rei.) Infame! entrega-me meu
+pae.
+
+O REI
+
+Socegue, meu caro Laerte.
+
+LAERTE
+
+Se uma so gota do meu sangue nao fervesse, essa gota proclamar-me-ia
+bastardo, attestaria a deshonra de meu pae, e imprimiria na casta fronte
+de minha adorada mae um estigma indelevel de infamia.
+
+O REI
+
+O que deu azo, Laerte, a uma rebelliao, que assumiu proporcoes tao
+colossaes? Esta tranquilla, Gertrudes, por nos nada receies; gracas ao
+caracter sagrado que protege os reis, a traicao nao lanca senao um olhar
+timido e incerto para o resultado que anhelam os seus desejos, e os
+effeitos estao longe de corresponder a sua esperanca. Dize-me, Laerte, o
+motivo d'esta irritacao violenta. Nada receies, Gertrudes. Falla,
+Laerte.
+
+LAERTE
+
+Onde esta meu pae?
+
+O REI
+
+Morreu.
+
+A RAINHA
+
+Mas o rei esta innocente.
+
+O REI
+
+Deixa-me interrogal-o a minha vontade.
+
+LAERTE
+
+Como morreu elle? Nao admitto duvidas, dispenso juramentos; leve o
+demonio a fe jurada, sepultem-se no abysmo a consciencia e a fidelidade.
+Affrontarei a condemnacao, declaro-o formalmente; renuncio a tudo n'este
+e no outro mundo, aconteca o que acontecer, comtanto que vingue de um
+modo bem patente a morte de meu pae.
+
+O REI
+
+E quem t'o impede?
+
+LAERTE
+
+A minha vontade so e nao a do universo inteiro; quanto aos meios de que
+disponho, empregal-os-hei de modo que com recursos limitados tire
+d'elles o maior proveito.
+
+O REI
+
+Comprehendo, querido Laerte, que queiras saber a verdade toda a respeito
+da morte de teu estremecido pae. Mas estas tu resolvido a confundir
+amigos e inimigos, aquelles que perderam e aquelles que ganharam com a
+sua morte?
+
+LAERTE
+
+Unicamente os inimigos quero punir.
+
+O REI
+
+E queres conhecel-os?
+
+LAERTE
+
+Quanto aos seus amigos, abro-lhes os bracos com alvoroco; e similhante
+ao pelicano que rasga o seio, para com o sangue alimentar os filhos,
+estou prompto a por elles dar o meu sangue todo.
+
+O REI
+
+Ainda bem; fallas agora como bom filho e homem honrado. Sou innocente na
+morte de teu pae, e deploro-a amargamente; demonstral-o-hei a tua rasao
+com provas tao claras como a luz do dia.
+
+O POVO (de fora)
+
+Deixem-a entrar.
+
+LAERTE
+
+O que e? Que rumor e esse? (Entra Ophelia estranhamente enfeitada com
+flores na cabeca e palhas entrancadas nos cabellos.) (Continuando.) Meu
+pobre cerebro! Sequem-se as minhas lagrimas, que, sete vezes corrosivas,
+queimam meus olhos e afastam d'elles o sentido da vista! Por Deus! A tua
+demencia sera paga com usura, ate que o nosso peso faca baixar uma das
+conchas da balanca. Rosa de primavera, filha querida, carinhosa irma,
+boa Ophelia! Oh! ceus! pois sera possivel que a rasao de uma jovem
+mulher seja tao fragil como a vida do anciao! A natureza tem no seu amor
+um perfume subtil e raro, cujas emanacoes se infiltram no objecto amado.
+
+OPHELIA
+
+  Levaram-no em mesquinha padiola
+      E foram-no enterrar!
+  Mas chove-lhe na tumba, ai! grata esmola
+      De lagrimas um mar.
+
+LAERTE
+
+Possuisses tu toda a tua rasao, animasses-me tu a vinganca, nao
+conseguias crear em mim uma emocao.
+
+OPHELIA
+
+Forcoso e que eu cante e tu tambem:
+
+  Abaixo! Abaixo!
+  Lancae-o abaixo!
+
+Devias ouvir cantar as fiadeiras; e a cancao do intendente desleal, que
+raptou a filha de seu amo.
+
+LAERTE
+
+Estes nadas tudo me dizem.
+
+OPHELIA (a Laerte, dando-lhe uma flor)
+
+Toma, e rosmaninho a flor da lembranca. Lembra-te de mim, peco-t'o, meu
+querido; estes sao amores perfeitos, e para que sempre viva no teu
+coracao de irmao.
+
+LAERTE
+
+Ha sentido no seu delirio. Acaba de distinguir acertadamente a lembranca
+e o pensamento.
+
+OPHELIA (ao rei)
+
+Aqui tendes, senhor, estas symbolicas flores. (a rainha) Para vos,
+senhora, e arruda e tambem para mim; para vos sera a herva da ventura,
+para mim a da dor. Eis um malmequer. Queria dar-vos violetas, mas
+feneceram todas quando meu pae morreu; dizem que teve o fim do justo.
+
+  Porque era o bom Robim minha alegria
+
+LAERTE
+
+A melancolia, a affliccao, a colera, o proprio inferno, tudo e divino
+proferido por ella.
+
+OPHELIA
+
+        E nunca mais vira?!
+  Morreu! morreu! morreu! ai! que agonia!
+        Nao mais! nao voltara!
+  Era a barba tao branca como a neve:
+        Partiu! foi para os ceus.
+  Perdida, inutil dor! Breve, ate breve,
+        Tem do d'elle, meu Deus!...
+
+Assim como de todas as almas christas, assim o peco a Deus, e elle seja
+comvosco. (Sae.)
+
+LAERTE
+
+Veem? Meu Deus!...
+
+O REI
+
+Deixa-me, Laerte, fallar-te no teu infortunio; e um direito que me
+pertence e que me nao podes negar sem injustica. Reune em particular os
+teus amigos mais assisados; elles nos oucam, e depois julguem entre nos
+dois. Se culpado me acharem, directa ou indirectamente, entrego-te, em
+expiacao da minha culpa, reino, coroa e vida, e tudo quanto possa dizer
+meu; no caso contrario, peco-te so paciencia, e de accordo obraremos
+para te alcancar uma completa satisfacao.
+
+LAERTE
+
+Consinto. As circumstancias da sua morte, o seu funeral obscuro, em que
+nem tropheus, nem espada, nem brazao figuraram, a ausencia de toda a
+ceremonia funebre no saimento do seu corpo, sao como um aviso do ceu,
+que me clama pela voz celeste: Indaga como foi.
+
+O REI
+
+Faca-se pois um inquerito, e o cutelo do algoz puna o culpado. Agora
+peco-te, Laerte, que me sigas. (Saem ambos.)
+
+
+SCENA VI
+
+Um quarto no castello de Elsenor
+
+Entram HORACIO e um CREADO
+
+HORACIO
+
+Quem e que me pretende fallar?
+
+O CREADO
+
+Marinheiros... e dizem que teem cartas que lhe sao dirigidas.
+
+HORACIO
+
+Que entrem pois; (o creado sae) (so) nao percebo de que canto do mundo
+se lembraram de me escrever. So se for Hamlet.
+
+Entram os MARINHEIROS
+
+PRIMEIRO MARINHEIRO
+
+Guarde-o Deus, senhor!
+
+HORACIO
+
+Igualmente a ti!
+
+PRIMEIRO MARINHEIRO
+
+Fal-o-ha, se for da sua vontade. (Entrega uma carta) Aqui tem esta
+carta, e do embaixador que foi mandado a Inglaterra; o senhor, segundo
+me asseguraram, chama-se Horacio, nao e verdade? (Da-lhe outra carta.)
+
+HORACIO (abrindo a carta, lendo)
+
+«_Horacio, quando receberes esta carta, proporciona a estes homens o
+fallarem ao rei; teem cartas para lhe entregar. Mal tinhamos dois dias
+de viagem, um corsario armado ate aos dentes deu-nos caca; vendo nos que
+elle era mais veleiro, fizemos das fraquezas forcas, e encetamos
+combate. Na abordagem, saltei-lhe na tolda, mas n'aquelle momento
+afastaram-se os dois navios, e eu achei-me so e prisioneiro.
+Comportaram-se commigo como corsarios humanos, mas sabiam o que faziam,
+porque contam pedir avultado resgate. Faze chegar as maos do rei a carta
+que lhe envio, depois vem ter commigo, com a celeridade que porias em
+evitar a morte. Tenho que confiar aos_ _teus ouvidos palavras que te
+emudecerao de espanto, e comtudo ainda sao fracas para a gravidade do
+assumpto que devem exprimir. Estes marinheiros te conduzirao ao sitio
+onde me acho. Rosencrantz e Guildenstern navegam para a Inglaterra.
+Tenho muito que te contar a esse respeito. Adeus. Aquelle que sabes ser
+teu do coracao==Hamlet._» Venham, vou facilitar-lhes a entrega das
+cartas, depois conduzam-me o mais prompto que poderem junto d'aquelle
+que lh'as entregou. (Saem todos.)
+
+
+SCENA VII
+
+Outro quarto no castello
+
+Entram o REI e LAERTE
+
+O REI
+
+Devo estar illibado aos teus olhos, e deves ver em mim um amigo sincero,
+agora que ja deves ter percebido que o assassino de teu pae tambem
+queria a minha morte.
+
+LAERTE
+
+Parece-me evidente! Mas diga-me porque, depois de actos tao graves e
+criminosos por sua natureza, nao perseguiu o auctor, como era obrigado a
+fazel-o, por sua dignidade, pela sua salvacao, pela sua prudencia, por
+tudo emfim?
+
+O REI
+
+Ah! por duas rasoes, que provavelmente acharas sem valia, mas que a meus
+olhos teem toda a gravidade. A rainha sua mae idolatra-o, e a existencia
+d'ella esse filho; eu por minha parte nao sei se deva considerar isto
+como virtude ou como desgraca; mas ella esta tao intimamente ligada a
+minha alma, qual satellite ao seu planeta, que so por ella e para ella
+vivo. O outro motivo que me impede de formular contra elle uma accusacao
+publica, e a immensa affeicao que o povo lhe consagra; affeicao que
+desculpa todas as suas faltas, e similhante a essas fontes que
+transformam em pedra a madeira, converteria as suas cadeias em aureola
+de gloria. N'estas circumstancias, pois, as minhas frechas demasiado
+tenues para romperem tao forte vento, em vez de tocarem no alvo,
+voltando-se, feririam so o que as despediu.
+
+LAERTE
+
+Assim perdi meu nobre pae, e vejo minha estremecida irma na mais
+desordenada demencia! Mas se e permittido elogiar o que ja passou, ella
+excedia em perfeicoes as creaturas da sua idade, e nao me hei de eu
+vingar?
+
+O REI
+
+Essa magua nao te perturbe o somno; nao me julgues de um caracter tao
+pusillanime e estulto, que um perigo, que tanto me impressionou, seja
+por mim tratado de bagatella. Brevemente saberas ainda mais. Eu
+estremecia o teu pae; nos somos deveras amigos, agora deves acreditar
+que...
+
+Entra um MENSAGEIRO
+
+O REI
+
+Que queres? que ha de novo?
+
+O MENSAGEIRO
+
+Senhor, cartas de Hamlet; esta para vossa magestade, est'outra para a
+rainha.
+
+O REI
+
+De Hamlet!! quem as trouxe?
+
+O MENSAGEIRO
+
+Disseram-me que uns marinheiros, eu nao os vi. Estas cartas foram-me
+entregues por Claudio, que as recebeu do portador.
+
+O REI (pegando na carta)
+
+Ouviras, Laerte, o seu conteudo. (Ao mensageiro) Retira-te (o mensageiro
+sae) (abre a carta e le): «_Alto e poderoso monarcha, depozeram-me em
+territorio vosso, nu; amanha solicitarei o comparecer na vossa presenca,
+e entao se me for permittido referir-vos-hei o que deu causa ao meu
+estranho e inesperado regresso.==Hamlet_». Que significa isto? voltariam
+todos, sera engano, sera tudo falso?
+
+LAERTE
+
+Conhece a sua letra?
+
+O REI
+
+e a letra de Hamlet. _Nu_, e n'um post-scriptum acrescenta _so_. Poderas
+tu dizer-me o que tudo isto significa?
+
+LAERTE
+
+Nada sei responder; mas que venha. Sinto renascer a chamma no meu
+coracao abatido, pensando que lhe poderei dizer cara a cara: Foste tu o
+assassino de meu pae.
+
+O REI
+
+Se assim e, Laerte, nao pode nem poderia ser de outra maneira; queres tu
+seguir um meu conselho?
+
+LAERTE
+
+Sim, comtanto que nao me aconselhe a paz.
+
+O REI
+
+Pois que facas pazes com o teu coracao e que eu quero: se e verdade que
+regressou, o que indica que Hamlet recua diante da viagem e renuncia a
+ella, suggerir-lhe-hei uma aventura, cujo plano esta maduro no meu
+espirito, e em que nao podera deixar de succumbir, e sem que a sua morte
+possa ser attribuida a pessoa alguma intencionalmente; tanto que sua
+propria mae limitar-se-ha a lastimar o occorrido, vendo so uma
+fatalidade.
+
+LAERTE
+
+Seguirei gostosamente os seus conselhos, e ainda de melhor vontade, se
+poder combinar de modo que eu seja o agente principal.
+
+O REI
+
+Vejo que os nossos desejos se combinam completamente. Frequentemente,
+desde as tuas viagens, teem-me gabado por excederes a todos no exercicio
+de uma arte. Todas as tuas qualidades reunidas excitaram em Hamlet menos
+ciumes do que esta so; e comtudo talvez a menos importante.
+
+LAERTE
+
+E qual e essa qualidade?
+
+O REI
+
+Um laco de fitas no chapeu da juventude, mas um enfeite necessario;
+porque nao lhe fica menos bem um ornamento um pouco frivolo mesmo, do
+que convem a idade madura as vestes encorpadas e serias que lhe impoem a
+saude e a gravidade. Ha dois mezes esteve aqui um cavalleiro normando;
+tenho visto francezes e combatido com elles, e sao deveras habeis, mas a
+habilidade d'esse homem parecia ter o poder da magia. Parecia arroscado
+a sella, e guiava o cavallo tao prodigiosamente, que pareciam um so e o
+mesmo animal intelligente. Excedeu tudo quanto se pode imaginar na arte
+de cavallaria e volteio, tao perfeita era a execucao.
+
+LAERTE
+
+Um cavalleiro normando, disse?
+
+O REI
+
+Um normando.
+
+LAERTE
+
+Entao era Lamond; nao pode ser outro.
+
+O REI
+
+Elle mesmo.
+
+LAERTE
+
+Bem o conheco, e a phenix, a perola da sua patria.
+
+O REI
+
+Fallou de ti vantajosamente, fez os maiores elogios da tua pericia no
+manejo das armas, sobretudo da espada, declarando ser impossivel achar
+outro igual, e jurando que os jogadores de espada francezes perderam
+agilidade, posicao e golpe de vista depois que comtigo se mediram. Estes
+elogios que elle te dispensava, de tal modo exasperaram o ciume de
+Hamlet, que anhelava so pelo teu regresso para comtigo combater, e
+transformaram o ciume em furia. Tirando pois partido d'estas
+circumstancias...
+
+LAERTE
+
+Que partido poderemos nos tirar?
+
+O REI
+
+Laerte, amavas tu realmente teu pae, ou nao era a tua dor senao um
+simulacro, toda exterior e nada interior?
+
+LAERTE
+
+Porque esta pergunta?
+
+O REI
+
+Longe de mim o pensar que nao amavas teu pae; mas a affeicao e um
+sentimento que se gera em nos, e a experiencia de todos os dias nos faz
+ver que o tempo destempera a sua vivacidade e o seu ardor. Mesmo na
+chamma do amor ha as vezes uma mancha que a amortece, e cousa alguma se
+conserva permanentemente bella, porque o bom, pelo crescimento degenera
+em plethora, e parece abafado pela demasiada nutricao. O que pretendemos
+fazer, devemos fazel-o na occasiao propria, porque a vontade tambem
+muda; tantas sao as suas mudancas, quantas as linguas, maos e outros
+accessorios que se cruzam no seu caminho, e entao a execucao nao e mais
+que um dever, cujo cumprimento, similhante aos demasiado frequentes
+suspiros, nos magoa, alliviando-nos. Mas entremos francamente na
+questao. Hamlet regressa. Que estas tu disposto a fazer, para te
+mostrares digno filho de teu pae, nao com palavras, mas com obras?
+
+LAERTE
+
+Assassinal-o-ia mesmo no templo do Senhor.
+
+O REI
+
+Effectivamente o assassino nao recua perante o santuario, quando
+pretende saciar a vinganca. Mas, querido Laerte, queres seguir o meu
+conselho? Encerra-te nos teus aposentos. Hamlet, regressando, sabera da
+tua estada n'estes logares; farei com que exaltem na sua presenca os
+teus talentos, e que encarecam os elogios mais que os francezes o
+fizeram; por este meio seguir-se-hao um desafio e apostas sobre a
+pericia dos contendores. Elle que esta desprevenido e e generoso e de
+nada desconfia, nao examinara os floretes; de modo que, com alguma
+habilidade da tua parte, poderas escolher um florete sem botao, e por
+meio de uma bem dirigida estocada fazer-lhe pagar a morte de teu pae.
+
+LAERTE
+
+Como o rei disse, Laerte o fara; mesmo envenenarei a ponta do meu
+florete. Comprei a um empirico uma droga mortal. Por pouco que a ponta
+de um punhal esteja n'ella banhada, por leve que seja o ferimento, nao
+ha balsamo precioso, embora composto dos mais energicos contravenenos,
+que possa salvar da morte inevitavel e rapida o ferido. Assim,
+prepararei a ponta do meu florete, para que mesmo leve arranhadura lhe
+seja fatal.
+
+O REI
+
+Tornaremos ao assumpto, e combinaremos o momento e maneira mais facil e
+favoravel para a sua execucao. Se tivesse que falhar este nosso plano,
+mais valeria nada tentar. Mas e necessario que esta primeira combinacao
+se firme n'uma segunda, que a substitua, no caso da arma se quebrar no
+primeiro encontro. Um momento... Vejamos. Faremos apostas importantes
+sobre a respectiva pericia de ambos. Quando, no calor do combate,
+estiverem afogueados e sedentos, para conseguir o intento nao poupes o
+teu adversario, ataca-o com vigor. Hamlet, sem duvida, pedira uma
+bebida; ser-lhe-ha entao apresentada uma, de antemao preparada, e uma so
+gota bastara, se a tua espada te trahir, para conseguirmos o fim
+desejado. Mas silencio! Que rumor e este? (Entra a rainha.) Que ha de
+novo, querida Gertrudes?
+
+A RAINHA
+
+Accumulam-se as desgracas, e repetem-se com assustadora rapidez. Laerte,
+tua irma suicidou-se, afogando-se.
+
+LAERTE
+
+Onde?
+
+A RAINHA
+
+Na margem da vizinha ribeira cresce um salgueiro, cuja prateada folhagem
+se reflecte nas aguas crystallinas. Tua irma approximou-se d'aquelle
+sitio, sempre tecendo grinaldas de rainunculos, ortigas, malmequeres, e
+d'essas flores a que os nossos pastores dao um nome bem grosseiro, mas
+que as nossas castas donzellas denominam poeticamente _dedo da morte_.
+Quando procurava ornar com as suas innocentes grinaldas as argenteas
+frondes do salgueiro, oh! desgraca! descuidosa foi envolvida na
+corrente, cercada dos ornatos que lhe serviam como de coroa virginal.
+Algum tempo suspensa pelas vestes sobre a corrente, assimilhava-se a
+sereia, cantando incoherentes trechos, inconsciente do proprio risco,
+como se estivesse no seu nativo elemento. Mas tudo tem um fim, e em
+breve, sossobrando pelo peso das encharcadas vestes, cessou de cantar, e
+tornou-se cadaver levado pela corrente.
+
+LAERTE
+
+Oh! desgracada! afogada!!
+
+A RAINHA
+
+Sim, Laerte!
+
+LAERTE
+
+Sequem-se as minhas lagrimas; ja tiveste agua em demasia, infeliz
+Ophelia! Mas porque? Mais forca tem a natureza do que a vontade; todos
+lhe devemos obediencia. Para que uma falsa vergonha? Rolem, pois pelas
+faces lagrimas santas, e arrebatem na sua corrente a minha ultima
+fraqueza. Adeus, senhor! As minhas palavras de fogo tornar-se-iam
+embravecido vulcao, se as lagrimas do coracao o nao apagassem. (Sae.)
+
+O REI
+
+Sigamol-o, Gertrudes. Quanto me custou a serenar a sua colera! Receio
+bem que estas novas desgracas lhe despertem em toda a sua plenitude a
+sanha da vinganca. Sigamol-o, pois.
+
+
+Fim do acto quarto
+
+
+
+
+ACTO QUINTO
+
+
+SCENA I
+
+Um cemiterio
+
+Entram DOIS COVEIROS com enxadas
+
+PRIMEIRO COVEIRO
+
+Dever-se-ha enterrar em chao sagrado aquelle que voluntariamente
+procurou a sua salvacao no suicidio?
+
+SEGUNDO COVEIRO
+
+Eu ca digo que sim; avia-te em cavar a cova, o magistrado viu e decidiu
+que aqui fosse sepultada.
+
+PRIMEIRO COVEIRO
+
+Isso nao pode ser, a menos que nao se afogasse involuntariamente.
+
+SEGUNDO COVEIRO
+
+Ja esta reconhecido e decidido.
+
+PRIMEIRO COVEIRO
+
+As probabilidades todas sao que pereceu _se offendendo_. Ninguem e capaz
+persuadir do contrario. Ve tu como eu o provo. Se me afogar
+voluntariamente existe um acto; ora, um acto subvide-se em tres ramos: a
+accao, o cumprimento e a execucao; ergo, afogou-se voluntariamente.
+
+SEGUNDO COVEIRO
+
+Assim sera, mas escuta-me ao menos.
+
+PRIMEIRO COVEIRO
+
+Ouve-me ainda; a agua esta aqui, o homem esta acola; muito bem, o homem
+vae encontrar a agua e se afoga; forcosamente morre por seu motu
+proprio; nota isto bem. Mas se, pelo contrario, e a agua que vem
+encontrar o homem, e elle se afoga, entao ja nao e elle que procura a
+morte; ergo, aquelle que nao e culpado na sua morte, nao poz termo
+voluntariamente a vida.
+
+SEGUNDO COVEIRO
+
+Mas sera lei?
+
+PRIMEIRO COVEIRO
+
+e a lei que preside ao inquerito do magistrado.
+
+SEGUNDO COVEIRO
+
+Queres que te diga o que penso? Se a defunta nao fosse senhora de
+qualidade, de certo nao a enterravam em chao sagrado.
+
+PRIMEIRO COVEIRO
+
+e bem verdade o que dizes; e triste que as pessoas de qualidade tenham,
+a mais dos outros christaos seus iguaes, o direito de se afogarem e de
+se enforcarem. Vamos sempre cavando! Nao ha nobreza mais antiga que a
+dos jardineiros, lavradores e coveiros; seguem a profissao de Adao!
+
+SEGUNDO COVEIRO
+
+Pois Adao era nobre?
+
+PRIMEIRO COVEIRO
+
+O primeiro que usou armas!
+
+SEGUNDO COVEIRO
+
+Deixa-te d'isso, nao consta que as tivesse!
+
+PRIMEIRO COVEIRO
+
+Sempre es um pagao! como comprehendes tu entao a escriptura sagrada? A
+escriptura diz que Adao trabalhava o solo; como poderia elle trabalhar
+sem pa ou enxada? Essas eram as suas armas. Vou fazer-te outra pergunta,
+se nao me responderes com acerto, nao es mais que um....
+
+SEGUNDO COVEIRO
+
+Asno! continua.
+
+PRIMEIRO COVEIRO
+
+Quem e que construiu mais solidamente que o pedreiro, carpinteiro e
+constructor de navios?
+
+SEGUNDO COVEIRO
+
+O constructor do cadafalso, porque sobrevive a innumeros hospedes.
+
+PRIMEIRO COVEIRO
+
+Boa resposta, palavra de honra. Cadafalso e bem achado; mas para quem se
+fez o cadafalso? para os que fazem o mal; ora, tu fizeste mal em dizer
+que o cadafalso e mais solido que a igreja, logo merecias o cadafalso.
+Vamos, procura e responde.
+
+SEGUNDO COVEIRO
+
+Agora eu! Quem e que construiu mais solidamente do que o pedreiro,
+carpinteiro e constructor de navios?
+
+PRIMEIRO COVEIRO
+
+Dize tu primeiro, eu ca ja sei.
+
+SEGUNDO COVEIRO
+
+Tambem eu.
+
+PRIMEIRO COVEIRO
+
+Vejamos.
+
+SEGUNDO COVEIRO
+
+Nada, nao atino.
+
+HAMLET e HORACIO apparecem ao fundo
+
+PRIMEIRO COVEIRO
+
+Basta de tratos ao teu cerebro; escusas de pensar mais, ficas sempre na
+mesma. Quando alguma vez te fizerem essa pergunta, responde: «e o
+coveiro; as moradas que construe duram ate ao dia de juizo». Agora vae a
+casa de Vaughan e traze-me um copo de licor.(O segundo coveiro sae,
+cantando.)
+
+  Quando eu era mancebo e quando amava
+        Tudo era para mim rapido goso,
+  Somente noite e dia andava ancioso
+        Por o tempo matar que me matava.
+
+HAMLET
+
+Pois este homem nao tera consciencia do que esta fazendo, cantando
+assim, quando cava uma sepultura?
+
+HORACIO
+
+O habito tudo pode.
+
+HAMLET
+
+E verdade, a mao pouco afeita ao trabalho tem o tacto mais delicado!
+
+PRIMEIRO COVEIRO (cantando)
+
+  Mas a idade chegou, passo furtivo
+  Nas gastadoras garras me ha tomado,
+  E assim, mau grado meu, me ha condemnado
+  A viver entre a morte, morto-vivo. (Desenterra uma caveira.)
+
+HAMLET (apontando para uma caveira)
+
+Houve tempo em que esta cabeca tinha uma lingua e cantava; agora este
+rustico fal-a rolar pelo solo, como se fosse a mandibula de Caim, o
+primeiro homicida. O craneo que este imbecil trata com tao pouco
+respeito, era talvez de algum profundo politico, que se julgava ate
+capaz de impor a sua opiniao ao proprio Deus, nao e verdade?
+
+HORACIO
+
+Tudo pode ser, senhor.
+
+HAMLET
+
+Ou talvez de algum cortezao cujo prestimo unico fosse repetir: «Deus
+seja comvosco, como esta, meu senhor?» e talvez o craneo do sr. fulano,
+que gabava o cavallo do sr. cicrano, com a idea que este lh'o desse, nao
+e verdade, Horacio?
+
+HORACIO
+
+Sim, meu senhor!
+
+HAMLET
+
+Deve assim ser! Agora pertence aos vermes; nao tem nem pelle, nem
+sangue, nem carne, e este coveiro fende-o com a sua enxada. Eis uma
+estranha revolucao, assim a comprehendessemos bem. Joga-se a bola com
+esses ossos, como se nada tivessem custado a formar. Sinto estalar os
+meus so pensando-o.
+
+PRIMEIRO COVEIRO (cantando)
+
+  Uma enxada e uma pa logo em seguida,
+  Um lencol que amortalha o corpo todo,
+  Um buraco depois feito no lodo,
+  Eis ao que se reduz a humana vida. (Desenterra outra caveira.)
+
+HAMLET
+
+Eis um outro craneo; quem sabe se nao seria de um jurisconsulto. Agora
+acabaram as trapacas, as distinccoes subtis, as causas, as auctoridades
+legaes e as finuras. Em vida, de certo nao consentia sem um processo que
+este imbecil lhe percutisse o craneo com a enxada. Porque nao lhe
+intenta agora uma accao por vias de facto e sevicias? Quem sabe, talvez
+fosse um nedio comprador de bens immoveis, com os seus direitos, rendas,
+privilegios, hypothecas e contratos. Eil-o agora elle mesmo hypothecado,
+tem o privilegio commum a todos os mortaes, de ver a sua cabeca coberta
+de po e terra. Pois que! todas as acquisicoes tao bem garantidas, nao
+terao outro complemento senao assegurar-lhe um espaco apenas igual a
+superficie de dois contratos de venda? Todos os seus titulos mal
+caberiam n'este cofre, e comtudo e hoje a sua unica propriedade. Ah!
+
+HORACIO
+
+Unica, senhor!
+
+HAMLET
+
+Horacio, o pergaminho faz-se de pelles de carneiro, nao e verdade?
+
+HORACIO
+
+Tambem de bezerro.
+
+HAMLET
+
+Sao pois os carneiros e bezerros que fazem fe em taes titulos. Vou
+interrogar este rustico. A quem pertence essa cova?
+
+PRIMEIRO COVEIRO
+
+A mim!
+
+(Cantando)
+
+  Um buraco depois feito no lodo,
+  Eis ao que se reduz a humana vida.
+
+HAMLET
+
+Effectivamente, creio ser tua, pois que estas dentro d'ella.
+
+PRIMEIRO COVEIRO
+
+O senhor esta fora, logo nao e sua; mas apesar d'ella nao me ser
+destinada, e comtudo minha.
+
+HAMLET
+
+Mentes, e para um morto, e nao para um vivo.
+
+PRIMEIRO COVEIRO
+
+Eis um desmentido prompto e que nao admitte replica.
+
+HAMLET
+
+Para que homem cavas essa cova?
+
+PRIMEIRO COVEIRO
+
+Senhor, nao e para um homem!
+
+HAMLET
+
+Para que mulher entao?
+
+PRIMEIRO COVEIRO
+
+Nem tao pouco para uma mulher!
+
+HAMLET
+
+Quem sera pois depositado n'esta cova?
+
+PRIMEIRO COVEIRO
+
+Uma pessoa que foi mulher, hoje e defunta; Deus se compadeca da sua
+alma.
+
+HAMLET
+
+Que agudeza no seu positivismo! e preciso fallar-lhe com toda a clareza,
+para nao ser por elle enredado. Por Deus, Horacio, que noto ha tres
+annos que o mundo se torna retrogrado, e o rustico se approxima tanto do
+cortezao, que quasi se confundem. Ha quanto tempo es coveiro?
+
+O COVEIRO
+
+Dei-me a este officio desde o dia em que o defunto rei Hamlet venceu a
+Fortimbraz.
+
+HAMLET
+
+Quanto tempo havera?
+
+O COVEIRO
+
+Nao o sabe? Pois nao ha imbecil que lh'o nao diga. Foi no mesmo dia em
+que nasceu o joven Hamlet, aquelle que enlouqueceu, e foi mandado para
+Inglaterra.
+
+HAMLET
+
+e isso; e porque o mandaram para Inglaterra?
+
+O COVEIRO
+
+Ora, porque? porque estava louco; talvez la recupere a rasao, e se nao a
+recuperar, tambem nao se perde muito.
+
+HAMLET
+
+E porque?
+
+O COVEIRO
+
+Nao sera visto aqui, e la todos sao tao loucos como elle.
+
+HAMLET
+
+Como enlouqueceu elle?
+
+O COVEIRO
+
+De um modo bem estranho, segundo dizem.
+
+HAMLET
+
+Mas de que modo?
+
+O COVEIRO
+
+e claro, perdendo a rasao.
+
+HAMLET
+
+E qual foi o motivo?
+
+O COVEIRO
+
+Um motivo dinamarquez, um motivo d'este paiz em que sou coveiro desde a
+infancia, ha trinta annos.
+
+HAMLET
+
+Dize-me, quanto tempo pode um homem estar enterrado, antes de apodrecer?
+
+O COVEIRO
+
+Se nao esta ja podre antes de morrer (porque temos n'esta epocha muito
+corpo gangrenado, que mal supporta a inhumacao), pode conservar-se de
+oito a nove annos; um surrador conserva-se nove annos.
+
+HAMLET
+
+Porque mais tempo que os outros?
+
+O COVEIRO
+
+O exercicio da sua profissao cortiu-lhe de tal modo a pelle, que fica
+impermeavel por muito tempo, e de certo sabe que a agua e o mais activo
+destruidor dos cadaveres. Ve esta caveira? Ficou vinte e tres annos
+debaixo da terra.
+
+HAMLET
+
+De quem era?
+
+O COVEIRO
+
+De um typo original; ora, quem lhe parece que seria?
+
+HAMLET
+
+Como posso eu sabel-o?
+
+O COVEIRO
+
+Leve-o o diabo. Lembro-me ainda do dia em que me vasou sobre a cabeca um
+frasco de vinho do Rheno. Esta caveira, senhor, era de Yorick, o bobo do
+rei.
+
+HAMLET
+
+Este craneo?
+
+O COVEIRO
+
+Sim, este mesmo.
+
+HAMLET (pegando na caveira)
+
+Da-m'o, deixa-me vel-o. Pobre Yorick! Conheci-o, Horacio, era uma mina
+inexgotavel de ditos engracados; tinha uma imaginacao viva e fecunda!
+quantas vezes me levou aos hombros! agora ao pensal-o annuvia-se-me o
+coracao. Aqui estavam os seus labios, em que tantos osculos depuz. Onde
+estao agora os teus sarcasmos, as tuas replicas, as tuas cancoes, esses
+rasgos de alegria, que promoviam a hilaridade de todos os convivas? Que!
+pois ninguem ja pode rir com as tuas facecias? Descarnadas estao as
+faces. Vae, entra como agora estas, na alcova de alguma beldade da moda;
+dize-lhe entao que arrebique e enfeites nada lhe valem, porque um dia
+sera igual a ti. Fal-a rir, dizendo-lh'o. Dize-me tu, Horacio...
+
+HORACIO
+
+O que, meu senhor?
+
+HAMLET
+
+Julgas tu que Alexandre, depois de enterrado, se parecesse com Yorick?
+
+HORACIO
+
+De certo!
+
+HAMLET
+
+E que tivesse tao mau cheiro? Fora! (Deita fora o craneo.)
+
+HORACIO
+
+Sem duvida alguma, senhor.
+
+HAMLET
+
+A que destinos grosseiros e possivel baixarmos, Horacio? Quem sabe se,
+proseguindo nas suas successivas transformacoes, as cinzas de Alexandre
+nao estao hoje empregadas em tapar um barril?
+
+HORACIO
+
+Seria entrar n'um exame demasiado minucioso.
+
+HAMLET
+
+Nao concordo. Podemos seguir seriamente esse exame, e com probabilidades
+de obter um resultado. Por exemplo, Alexandre esta morto, Alexandre esta
+sepultado, Alexandre tornou-se po; o po e terra, da terra tira-se
+argilla, e quem impede que esta argilla, ultima metamorphose de
+Alexandre, seja empregada como batoque n'um barril de cerveja? O
+imperial Cesar, morto, tornou-se po, e serve talvez para vedar uma fenda
+e interceptar a passagem do ar; e essa argilla, que espalhava o terror
+sobre o universo, vae calafetar um muro para impedir que o vento passe.
+Mas, silencio: afastemo-nos, chega o rei: (Entram processionalmente
+padres, levando a mao o caixao de Ophelia; segue-se Laerte e o cortejo
+funebre, mais atras o rei, a rainha e a corte) e tambem a rainha! toda a
+corte! A quem prestarao os ultimos deveres? De quem sera este funeral
+incompleto? Tudo denuncia um suicidio. Deve porem ser pessoa de
+categoria! Occultemo-nos e observemos, Horacio. (Afastam-se um pouco
+Hamlet e Horacio.)
+
+LAERTE
+
+Que ceremonias falta cumprir?
+
+HAMLET
+
+Olha, e Laerte, um nobre mancebo.
+
+LAERTE
+
+Ha mais alguma cousa que fazer?
+
+PRIMEIRO PADRE
+
+Fizemos ja para o seu funeral tudo quanto nos era licito fazer; a sua
+morte tinha um caracter suspeito, e se ordens superiores nao tivessem
+imposto silencio aos canones da Igreja, teria sido sepultada em chao
+profano, onde teria ficado ate que a acordasse o clarim do juizo final.
+Em vez de orar por ella, teriamos lancado sobre o seu corpo ticoes,
+entulho e pedras; e comtudo coroaram-n'a como virgem, e flores cobriram
+a sua campa, e o tanger do bronze sagrado acompanhou-a a sua ultima
+morada.
+
+LAERTE
+
+Entao nada mais se pode fazer?
+
+PRIMEIRO PADRE
+
+Mais nada; profanariamos o rito sagrado se entoassemos um _requiem_, ou
+se implorassemos para ella o repouso destinado as almas que voaram ao
+ceu santamente.
+
+LAERTE
+
+Seja pois o seu corpo depositado na campa, e possam d'elle e da sua
+carne, pura e sem manha, desabrochar violetas! Sou eu que t'o digo,
+padre sem alma, minha irma gosara no ceu a bemaventuranca eterna,
+emquanto que tu extorcer-te-has no inferno nas convulsoes do supplicio
+dos condemnados.
+
+HAMLET
+
+Que? e pois a bella Ophelia?
+
+A RAINHA (lancando flores sobre a campa)
+
+Flores para esta joven flor. Adeus! Esperava ver-te esposa do meu
+Hamlet; contava, encantadora donzella, enfeitar o teu leito nupcial;
+nunca pensei espargir flores sobre a tua sepultura.
+
+LAERTE
+
+Oh! que uma triplice e dez vezes triplice maldicao caia sobre a cabeca
+do scelerado que commetteu tao negra accao, e provocou a perda da sua
+rasao. Esperem que, antes que a terra a cubra, a estreite mais uma vez
+nos meus bracos (salta para dentro da cova). Agora enterrem
+conjunctamente vivos e mortos, elevem sobre nos uma montanha que exceda
+em altura o antigo Pelion, ou o azulado Olympo, cujo cimo vem beijar as
+nuvens.
+
+HAMLET (adiantando-se)
+
+Quem e que na sua dor se exprime com tanta emphase; cuja voz detem os
+astros no seu giro, attonitos de o ouvirem? Sou Hamlet, o dinamarquez!
+(Arremessa-se a cova.)
+
+LAERTE (lancando-se a elle)
+
+O inferno se apodere da tua alma!
+
+HAMLET
+
+e um abominavel desejo: larga-me a garganta, retira as maos, abaixo,
+aconselho-t'o eu; nao sou nem mau, nem arrebatado, mas e perigoso
+excitar-me, e obraras assisadamente pensando assim. Abaixo as maos!
+
+O REI
+
+Separem-os.
+
+A RAINHA
+
+Hamlet! Hamlet!
+
+TODOS
+
+Senhores!
+
+HORACIO
+
+Contenham-se.
+
+HAMLET
+
+Por um tal motivo sinto-me capaz de combater com elle ate ao ultimo
+alento.
+
+A RAINHA
+
+Meu filho, qual e o motivo?
+
+HAMLET
+
+Amava Ophelia, e as affeicoes juntas de quarenta mil irmaos nao poderiam
+igualar a minha; (a Laerte) e que serias tu capaz de fazer por ella?
+
+O REI
+
+Deixa-o, Laerte, esta louco.
+
+A RAINHA
+
+Pelo amor de Deus, nao faca caso das suas palavras.
+
+HAMLET
+
+Vamos, dize-me, que tencionas tu fazer? Prantear, combater, jejuar,
+rasgar tuas proprias carnes, beber o Issel todo, devorar um crocodilo?
+Tudo farei. Vieste aqui para te lamentar, para me desafiar,
+precipitando-te dentro da sua cova; enterra-te vivo com ella, outro
+tanto farei; e ja que fallaste em montanhas, accumulem ellas sobre nos
+tanta terra, que o cume da nossa pyramide tumular toque a zona ardente,
+e ao pe d'ella o monte Ossa nao pareca mais que uma verruga. Podes
+encolerisar-te, que nao me assustam os teus furores.
+
+A RAINHA
+
+e um accesso de loucura que durara algum tempo; depois, similhante a
+meiga pomba acalentando os filhinhos, ficara silencioso e immovel.
+
+HAMLET (a Laerte)
+
+Dize-me, porque me tratas assim? Sempre fui teu amigo. Mas nao importa.
+Aindaque Hercules se oppozesse, se o gato miasse, o cao havia de ladrar
+(afasta-se).
+
+O REI
+
+Siga-o, peco-lhe, meu caro Horacio. (Horacio segue Hamlet) (a Laerte)
+Tem paciencia, lembra-te da nossa conversacao de hontem, (a rainha)
+Querida Gertrudes, faca com que velem sobre Hamlet; (a parte) e preciso
+dar como monumento a este tumulo uma victima humana. Cedo estarei
+descansado; ate entao, paciencia! (Saem todos.)
+
+
+SCENA II
+
+Uma sala no castello
+
+Entram HAMLET e HORACIO
+
+HAMLET
+
+Basta sobre esse assumpto; passemos ao outro, recordas-te bem de todas
+as circumstancias?
+
+HORACIO
+
+Se me lembro, meu senhor!
+
+HAMLET
+
+Uma especie de lucta apoderara-se do meu coracao, vedava-me o somno,
+sentia-me peior que um facinora acorrentado! Adoptando comtudo uma
+resolucao temeraria, achei na temeridade a minha forca; lembremo-nos
+sempre, Horacio, que a imprudencia e muitas vezes o nosso prestante
+auxiliar, quando os nossos mais profundos calculos sao impotentes, e
+isto deve-nos ensinar que ha uma Providencia que aperfeicoa e completa
+os projectos que imperfeitamente esbocamos.
+
+HORACIO
+
+Nao ha cousa mais certa!
+
+HAMLET
+
+Sai pois do meu camarote a bordo, e coberto com as roupas de viagem
+procurei e encontrei pelo tacto, as escuras, a sua mala; abri-a e
+revolvi-a toda, em seguida recolhi-me ao meu aposento; entao o perigo
+baniu todo o escrupulo, abri o despacho rompendo o sello real! Escuta o
+que li, Horacio. Oh! perfidia real! Apoiando-se em differentes motivos,
+a salvacao da Dinamarca e da Inglaterra, e o perigo que para elle havia
+em eu continuar a viver, o rei ordenava expressamente, que depois da
+leitura d'essa carta, sem demora alguma, nem mesmo a necessaria para
+afiar o cutello, eu fosse decapitado.
+
+HORACIO
+
+Sera possivel?
+
+HAMLET
+
+Aqui tens a carta, le-a a tua vontade. Mas queres tu saber o que eu
+entao fiz?
+
+HORACIO
+
+Diga, senhor; que foi?
+
+HAMLET
+
+Para sair salvo dos lacos d'esta infame traicao, appellei para a minha
+intelligencia, e depressa formei o meu plano. Sentei-me, e redigi um
+despacho com a melhor letra que pude fazer. Antigamente, assim como os
+nossos homens d'estado considerava uma vergonha ter boa letra; e se
+soubesses quanto eu desejei perdel-a! mas n'esta occasiao foi-me
+maravilhosamente util. Queres saber o que escrevi?
+
+HORACIO
+
+Com todo o gosto, senhor.
+
+HAMLET
+
+Dirigindo-se ao monarcha inglez como seu fiel tributario, dizia-lhe o
+rei de Dinamarca, se queria que se conservasse virente a palma da
+amisade, a paz se coroasse de espigas e se estreitassem os lacos de uma
+uniao duradoura, lhe ordenava que, finda a leitura da sua carta, sem
+outro exame, sem lhes dar tempo de se confessarem, fizesse suppliciar os
+portadores do despacho.
+
+HORACIO
+
+Mas com que sello fechou esse escripto?
+
+HAMLET
+
+A Providencia nao me desamparou ainda n'essa occasiao; tinha na minha
+bolsa o sello de meu pae, reproduccao exacta do sello do estado. Dobrei
+pois o meu despacho na forma do estylo, subscriptei-o e sellei-o, depois
+colloquei-o no logar em que estava o outro: o engano nao foi descoberto.
+No dia seguinte, em vez de combate sabes o que houve.
+
+HORACIO
+
+Assim, Rosencrantz e Guildenstern, vao receber o seu justo castigo?
+
+HAMLET
+
+Procuraram-n'o por suas proprias maos; nao me peza na consciencia. So de
+si se podem queixar. e sempre uma desgraca para vis subalternos
+acharem-se envolvidos nas contendas de dois poderosos adversarios.
+
+HORACIO
+
+E e rei? meu Deus!
+
+HAMLET
+
+O meu dever esta agora claramente indicado. aquelle que assassinou meu
+pae, deshonrou minha mae, que se interpoz entre a escolha da nacao e as
+minhas esperancas, que attentou contra a minha vida traicoeira e
+perfidamente, e justica que o meu braco o puna. E nao seria um crime
+digno da condemnacao eterna, deixar continuar esta ulcera no seu
+trabalho corrosivo?
+
+HORACIO
+
+Mas dentro em pouco sabera de Inglaterra o desenlace de todo este
+negocio?
+
+HAMLET
+
+Em breve o sabera, e verdade, mas o tempo que ate entao decorrer,
+pertence-me, e o fio da vida do homem corta-se em menos tempo do que o
+preciso para contar ate dois. O que me peza, meu caro Horacio, e ter
+desattendido Laerte, porque eu tambem sinto o que elle deve sentir.
+Sempre prezei a sua estima; mas a emphatica exaltacao da sua dor
+exacerbou-me.
+
+HORACIO
+
+Silencio, principe; approxima-se alguem.
+
+Entra OSRICO
+
+OSRICO
+
+Alegro-me, principe, que tenha regressado a Dinamarca.
+
+HAMLET
+
+Obrigado, senhor. (A Horacio) Conheces tu esse insecto?
+
+HORACIO
+
+Nao, meu senhor.
+
+HAMLET
+
+es pois um homem moral, e um vicio conhecel-o. e verdade que possue
+muitas e ferteis propriedades, mas e um estupido animal, que tem mando
+sobre os outros, seguro de achar a sua mangedoura na mesa real; e um
+ente desprezivel, mas, como disse, e senhor de vastos dominios.
+
+OSRICO
+
+Meu bom senhor, se nao incommodo vossa alteza, alguma cousa tinha que
+lhe communicar da parte de sua magestade.
+
+HAMLET
+
+Escutal-o-hei com prazer. Mas cubra-se ja, que o chapeu foi feito para
+estar na cabeca.
+
+OSRICO
+
+Obrigado, senhor, mas faz muita calma.
+
+HAMLET
+
+Faz muito frio, nao acha? O vento esta norte.
+
+OSRICO
+
+Effectivamente, faz bastante frio.
+
+HAMLET
+
+Nao sei se e effeito de uma predisposicao particular, mas acho um calor
+abrasador.
+
+OSRICO
+
+Nao ha duvida, faz tanto calor, que nem posso quasi respirar. Mas, meu
+senhor, sua magestade encarregou-me de lhe dizer que fez uma aposta
+consideravel, de que vossa alteza e o motivo.
+
+HAMLET (fazendo-lhe signal de se cobrir)
+
+Faz favor.
+
+OSRICO
+
+Perdao, senhor, mas nao me incommoda. Vossa alteza de certo e sabedor
+que chegou a esta corte Laerte, um joven mui dextro, dotado das mais
+raras qualidades, agradavel no trato, um perfeito moco. Para fallar
+d'elle como merece, pode-se dizer que e o espelho e o almanach do bom
+tom, porque n'elle estao reunidas todas as qualidades que deve possuir
+um perfeito cavalheiro.
+
+HAMLET
+
+Senhor, nao encareceu o retrato que d'elle fez; nao e sufficiente toda a
+arithmetica da memoria para redigir o inventario especificado de todas
+as suas perfeicoes, e ainda assim o juizo ficaria aquem da verdade.
+Fallando conscienciosamente, tenho-o na conta de um cavalheiro distincto
+e de raro merecimento; digo-o sinceramente; para achar outro igual,
+forcoso e que se olhe no seu espelho: os outros nao seriam senao a sua
+sombra.
+
+OSRICO
+
+O principe falla d'elle com a conviccao da estima.
+
+HAMLET
+
+De que se trata, pois? Escusamos embacar as suas qualidades com o nosso
+juizo.
+
+OSRICO
+
+Senhor!
+
+HORACIO
+
+Nao seria possivel fallar uma lingua mais intelligivel? e-o por certo,
+senhor.
+
+HAMLET
+
+Com que fim pronunciou o nome d'aquelle cavalheiro?
+
+OSRICO
+
+De Laerte?
+
+HORACIO
+
+Acabou-se-lhe o cabedal; ignora completamente o que ha de responder.
+
+HAMLET
+
+e verdade.
+
+OSRICO
+
+Sei que nao ignora...
+
+HAMLET
+
+Queria que assim pensasse a meu respeito; e se assim fosse, fraco elogio
+para mim seria. Continue agora.
+
+OSRICO
+
+Vossa alteza nao ignora a superioridade de Laerte?
+
+HAMLET
+
+e o que nao affirmo, com o receio de me comparar a elle. Para conhecer
+um homem a fundo era necessario vestir a sua pelle.
+
+OSRICO
+
+Quero fallar da sua superioridade em manejar as armas; gosa da reputacao
+de nao ter rival.
+
+HAMLET
+
+Quaes sao as suas armas de predileccao?
+
+OSRICO
+
+Florete e adaga.
+
+HAMLET
+
+Sao so duas! prosiga.
+
+OSRICO
+
+O rei apostou seis bellos cavallos da melhor raca, contra seis espadas e
+seis adagas francezas de Laerte, sem contar os cinturoes, talabartes e
+tudo o mais. Tres dos accessorios sobretudo sao dignos da aposta e de um
+trabalho maravilhoso, no estylo mesmo das armas.
+
+HAMLET
+
+Que chama accessorios?
+
+HORACIO
+
+Bem sabia eu que antes de terminar era infallivel algum reparo do
+principe.
+
+OSRICO
+
+Os accessorios, senhor, sao os enfeites dos cintos e talabartes em que
+se suspendem as espadas.
+
+HAMLET
+
+A expressao seria mais exacta se em vez de espada usassemos um canhao;
+sirvamo-nos pois do termo cinto na generalidade. Prosiga. Seis bellos
+cavallos contra seis espadas e seus pertences, incluindo tres cintos,
+obra prima da arte franceza; e pois a Franca contra a Dinamarca. Mas
+qual e o motivo d'esta aposta?
+
+OSRICO
+
+O rei apostou que em doze golpes, Laerte nao tocaria o principe senao
+tres vezes. Laerte apostou que seriam nove em doze. A questao sera
+promptamente decidida se vossa alteza se dignar responder.
+
+HAMLET
+
+E se eu responder negativamente?
+
+OSRICO
+
+Quer dizer, se o principe convier em combater.
+
+HAMLET
+
+Senhor, vou agora passeiar n'esta sala; costumo todos os dias a esta
+hora, entregar-me a esses exercicios: depois estou as ordens do rei.
+Tragam floretes com a annuencia de Laerte; e se o rei persistir no seu
+empenho far-lhe-hei ganhar a aposta se poder; no caso contrario
+restam-me os golpes recebidos e a vergonha.
+
+OSRICO
+
+Deverei dar ao rei a sua resposta?
+
+HAMLET
+
+Disse-lhe o meu pensamento: o seu talento sabera completar a resposta.
+
+OSRICO
+
+Um servo dedicado de vossa alteza. (Sae.)
+
+HAMLET
+
+Muito agradecido, obrigado (a Horacio); fez bem de o dizer elle mesmo,
+ninguem se encarregava por certo de tal missao.
+
+HORACIO
+
+Finalmente, estamos sos!
+
+HAMLET
+
+Estou certo que ao collo da ama, antes de o sugar, elogiava a alvura do
+seu seio; similhante a tantas pessoas da sua tempera, que sao o encanto
+dos ignorantes, abracam as modas do dia, e revestem-se de um falso
+verniz de polidez, e, gracas a essa mascara, sao escutados pelos
+sensatos; mas experimentem-os, sao como bolas de sabao, que se
+desvanecem ao menor sopro.
+
+Entra UM SENHOR
+
+O SENHOR
+
+Senhor! o rei mandou o joven Osrico cumprimentar vossa alteza da sua
+parte, o qual lhe disse que o principe esperava n'esta sala. El-rei
+envia-me para saber se e intencao de vossa alteza combater ja, ou adiar
+o combate.
+
+HAMLET
+
+Tomei ja a minha resolucao, e concorda com os desejos de sua magestade.
+Se Laerte esta prompto, tambem eu o estou; immediatamente, ou quando
+quizer, comtanto que me sinta sempre tao bem disposto como agora o
+estou.
+
+O SENHOR
+
+Em breve chegarao o rei e a rainha, e toda a corte.
+
+HAMLET
+
+Bemvindos sejam!
+
+O SENHOR
+
+e pedido da rainha que receba cordialmente Laerte, antes de dar
+principio a contenda.
+
+HAMLET
+
+e justo o seu conselho. (O senhor sae.)
+
+HORACIO
+
+Receio que o principe perca a aposta.
+
+HAMLET
+
+Nao creias tal; depois que elle partiu, tenho-me continuamente
+exercitado no jogo das armas: com a vantagem concedida a victoria e
+certa. Se tu soubesse que dor sinto no coracao! Nao importa.
+
+HORACIO
+
+Comtudo, senhor!
+
+HAMLET
+
+e uma loucura, uma leve apprehensao, que apenas poderia influenciar uma
+fraca mulher.
+
+HORACIO
+
+Se sente alguma repugnancia no seu espirito, obedeca-lhe. Vou
+prevenil-os que nao venham, que o principe se sente indisposto.
+
+HAMLET
+
+De modo nenhum! Luctarei com os meus presentimentos; a Providencia tem
+ja escripto o meu destino. Se tenho de morrer, nada o evitara, forcoso e
+obedecer aos seus decretos; que seja hoje ou amanha, estou prompto;
+tenho dito. Poisque o homem nao e senhor do seu destino, que importa que
+seja mais tarde ou mais cedo? Sera o que Deus quizer.
+
+Entram o REI, a RAINHA, LAERTE, OSRICO, SENHORES e CREADOS trazendo
+floretes e luvas e uma mesa com frascos e tacas
+
+HAMLET (a Laerte)
+
+Perdoe-me, se o offendi, mas perdoe-me como cavalheiro. Os que nos
+cercam, sabem-o, e creio que tambem deve saber, que um terrivel
+desvairamento se apossou de mim. Se alguma cousa fiz que podesse irritar
+o seu caracter e a sua honra e melindre, proclamo-o bem alto: «Loucura!»
+Seria ainda Hamlet que offendeu Laerte? Nunca, nunca poderia ser Hamlet.
+Entao nao era elle, e nao sendo elle, como offenderia Hamlet a Laerte? e
+claro, nao era elle; renego todos esses actos. Quem foi entao? a
+loucura. Sendo assim, Hamlet abraca o offendido; o verdadeiro inimigo do
+desditoso Hamlet e a sua loucura. Senhor, depois d'esta confissao, em
+que perante todos renego toda a ma intencao, podera ainda a sua
+generosidade condemnar-me? e como se inconscientemente despedisse por
+cima de uma casa um dardo, e fosse ferir um irmao.
+
+LAERTE
+
+Meu coracao esta satisfeito; era elle que mais me excitava a vinganca;
+mas no campo da honra recuso-me a toda a conciliacao, ate que arbitros
+mais idosos e de provada lealdade, me imponham, fundados em precedentes,
+uma sentenca de paz, que ponha o meu nome ao abrigo de toda a suspeita.
+Ate entao acceito a amisade que me offerece, e nada farei em seu
+detrimento.
+
+HAMLET
+
+Acceito francamente essa promessa, e a lucta fraternal que vamos
+encetar. Venham os floretes, comecemos.
+
+LAERTE
+
+Deem-me um florete!
+
+HAMLET
+
+Vou ser o seu alvo, Laerte; ao pe da minha inexperiencia vae sobresair a
+sua pericia, como um astro brilhante em noite escura.
+
+LAERTE
+
+Zomba de mim?
+
+HAMLET
+
+Juro que nao!
+
+O REI
+
+Da-lhes floretes, Osrico, Primo Hamlet, conheces a aposta?
+
+HAMLET
+
+Perfeitamente, senhor; aposta demasiado vantajosa para o mais fraco.
+
+O REI
+
+Nada receio; ja os conheco ambos, e poisque Hamlet e quem mais
+avantajado esta, a sorte esta pelo nosso lado.
+
+LAERTE (examinando um florete)
+
+Este nao, que e muito pesado; outro!
+
+HAMLET
+
+Este convem-me; os floretes sao todos iguaes, nao e verdade?
+
+OSRICO
+
+Sim, meu bom senhor. (Collocam-se.)
+
+O REI
+
+Ponham os frascos sobre a mesa. Se Hamlet o tocar a primeira e segunda
+vez, ou se elle aparar o terceiro golpe, que as baterias rompam uma
+salva geral; beberei a saude de Hamlet, e lancarei na taca uma perola
+mais preciosa que as que usavam nos seus diademas os quatro reis meus
+predecessores. Venham as tacas. Que os timbales annunciem aos clarins,
+os clarins aos canhoes, os canhoes aos ceus, os ceus a terra que o rei
+brinda por Hamlet. Vamos, senhores, podem comecar, e vos juizes,
+attencao!
+
+HAMLET
+
+Em guarda!
+
+LAERTE
+
+Em guarda, principe! (Comecam.)
+
+HAMLET
+
+Uma!
+
+LAERTE
+
+Nao tocou.
+
+HAMLET
+
+Os juizes que decidam!
+
+OSRICO
+
+Tocou, nao ha duvida.
+
+LAERTE
+
+Recomecemos.
+
+O REI
+
+Esperem, encham as tacas. Hamlet, dou-te esta perola, brindo por ti.
+Offerecam-lhe a taca. (Clarins e salvas.)
+
+HAMLET
+
+Prefiro acabar a contenda, esperem; depois beberei. Vamos, Laerte. Uma!
+que diz agora?
+
+LAERTE
+
+Fui tocado, confesso-o.
+
+O REI
+
+Hamlet ganha.
+
+A RAINHA
+
+Estas fatigado, falta-te o folego. Limpa a fronte com o meu lenco. A
+rainha bebe a tua victoria, Hamlet.
+
+HAMLET
+
+Minha senhora!
+
+O REI
+
+Nao bebas, Gertrudes.
+
+A RAINHA
+
+Bebo, senhor, desculpe-me, desejo-o.
+
+O REI (a parte)
+
+Era a taca envenenada, ja nao ha remedio.
+
+HAMLET
+
+Ainda nao bebo, mais tarde, senhora.
+
+A RAINHA
+
+Deixa-me limpar tua fronte, filho!
+
+LAERTE (ao rei, a parte)
+
+Senhor, agora vera.
+
+O REI
+
+Ja nao creio.
+
+LAERTE (a parte)
+
+E, comtudo, diz-me a consciencia que nao.
+
+HAMLET
+
+Vamos, Laerte, a terceira prova; nao me poupe, peco-lh'o; desenvolva
+toda a sua pericia, nao me trate como creanca.
+
+LAERTE
+
+Que diz? em guarda, pois.
+
+OSRICO
+
+Ainda nada.
+
+LAERTE
+
+Agora toquei. (No encarnicado da lucta trocam os floretes, e Hamlet e
+ferido e fere Laerte.)
+
+O REI
+
+Separem-nos, estao desesperados.
+
+HAMLET
+
+Nao, recomecemos. (A rainha cae)
+
+OSRICO
+
+Acudam a rainha; acudam!
+
+HORACIO
+
+Feridos ambos!! que e isto, senhor?
+
+OSRICO
+
+Como esta Laerte?
+
+LAERTE
+
+Colhido no meu proprio laco, morro pela minha traicao.
+
+HAMLET
+
+Que tem a rainha?
+
+O REI
+
+Desmaiou a vista do sangue.
+
+A RAINHA
+
+Nao, nao! a bebida, a bebida! meu Hamlet, a bebida! a bebida!
+envenenada... (Morre.)
+
+HAMLET
+
+Oh! infamia! fechem as portas, traicao! quero conhecel-a.
+
+LAERTE
+
+Eu t'o digo, e esta: Hamlet, morres assassinado, nada te pode salvar;
+meia hora, quando muito, te resta de vida, na tua mao ainda conservas a
+arma da traicao afiada e envenenada; tambem sou victima da minha
+perfidia. Escuta, ja sinto a morte, tua mae envenenada... morro, Hamlet!
+o rei... so o rei culpado... (Desfallecendo.)
+
+HAMLET
+
+A ponta envenenada! veneno, cumpre o teu dever. (Fere o rei.)
+
+OSRICO e SENHOR
+
+Traicao! traicao!
+
+O REI
+
+Defendam-me, e apenas leve ferimento.
+
+HAMLET
+
+Bebe os restos d'esta taca, incestuoso assassino, damnado dinamarquez.
+Procura a perola, achal-a-has seguindo minha mae. (Vasa a forca o resto
+da taca pela boca do rei, que cae e morre.)
+
+LAERTE (n'um ultimo alento de vida)
+
+e justo o castigo; morre pelo veneno que prepararas. Hamlet,
+perdoemo-nos mutuamente, e livres de qualquer reciproco remorso subam
+nossas almas abracadas ao ceu. (Morre.)
+
+HAMLET
+
+Absolva-te o ceu, como eu te perdoo; sigo-te, Laerte (a Horacio) morro,
+Horacio. Rainha desgracada, adeus. A vos todos, que ao ver esta
+catastrophe empallideceis, mudos espectadores d'este drama, se tivesse
+tempo ainda, se esta ancia terrivel nao m'o vedasse, poderia dizer...
+agora, resignacao. Eu morro, Horacio, tu viveras, justifica-me, explica
+o meu odio aos que o ignoram.
+
+HORACIO
+
+Isso nunca! sou mais romano que dinamarquez, e n'esta taca ainda ha
+liquido.
+
+HAMLET
+
+Se es homem, da-m'a; larga-a, por Deus, quero-a. Vive para revelar um
+tao infame crime. Se alguma vez foste meu amigo, nao apresses a tua
+felicidade celeste e permanece n'este mundo odioso, conta a minha
+historia. (Ouve-se uma marcha) Que rumor marcial e este?
+
+HORACIO
+
+e o jovem Fortimbraz, que regressa victorioso da Polonia, e que sauda os
+embaixadores de Inglaterra com esta salva guerreira. (Ouvem-se tiros.)
+
+HAMLET
+
+Morro, Horacio, triumpha o veneno poderoso; nem ja as noticias de
+Inglaterra me e dado saber, mas predigo que Fortimbraz ha de reinar;
+morrendo, voto por elle; conta-lhe mais ou menos os pormenores da causa
+da minha morte. O resto... e... silencio... (Morre)
+
+HORACIO
+
+Que nobre alma! Adeus, meu adorado principe, os anjos do ceu o embalem
+com os seus canticos divinos. Mas porque e esta marcha? (Ouve-se uma
+marcha militar.)
+
+Entram FORTIMBRAZ, os EMBAIXADORES a outras pessoas
+
+FORTIMBRAZ
+
+Que vejo?
+
+HORACIO
+
+Vae sabel-o. Desgraca ou prodigio, esta patente a seus olhos.
+
+FORTIMBRAZ
+
+Que hecatombe, que horror! Oh! morte, que festim cruento preparavas tu,
+para precisar de uma so vez tanto sangue real?
+
+PRIMEIRO EMBAIXADOR
+
+Que horrivel espectaculo! tarde chegamos de Inglaterra. Ja nao nos pode
+ouvir aquelle de cujas ordens annunciavamos o cumprimento, trazendo a
+nova da execucao de Rosencrantz e Guildenstern. Quem nol-o agradecera
+agora?
+
+HORACIO
+
+Elle nao, que os seus labios agora gelidos nunca o ordenaram. Mas,
+poisque vindes de Inglaterra e de Polonia e presenceaes esta crise
+sangrenta, ordenae que bem alto, a vista de todos, sejam collocados
+estes corpos, e eu lhes direi a causa d'estes factos, poisque a ignoram.
+Entao soarao aos seus ouvidos actos carnaes, incestos, sangue,
+expiacoes, assassinios fortuitos, mortes causadas pela perfidia ou por
+forca maior, e para desfecho traicoes que feriram os proprios auctores;
+eis a minha narracao, e juro que e verdade.
+
+FORTIMBRAZ
+
+Oucamol-o promptamente, convoquemos os nobres: dolorosamente acceito o
+meu novo encargo, pois tenho sobre este reino direitos incontestaveis,
+que e meu dever reivindicar.
+
+HORACIO
+
+Missao tenho de lhe fallar a esse respeito, da parte d'aquelle que vivo
+teria tido os suffragios do povo. Seja pois rapida a decisao, antes que
+os espiritos preplexos sejam dominados por alguma conspiracao ou engano
+que causem novas desgracas.
+
+FORTIMBRAZ
+
+Sejam por quatro capitaes levados os restos mortaes de Hamlet:
+facam-se-lhe todas as honras militares. Se vivesse teria sido um grande
+rei. Quando passar, salvem os canhoes. Levem os cadaveres, esta vista e
+so propria dos campos de batalha; aqui causa horror! Executem as minhas
+ordens, rompam as salvas de canhoes e as descargas de fuzilaria, e as
+marchas funebres. Morreu o que havia de ser rei de Dinamarca. (Desfilam
+todos com os cadaveres: ouvem-se salvas de artilheria, descargas de
+fuzilaria e marchas funebres. Cae o panno.)
+
+
+Fim do quinto e ultimo acto
+
