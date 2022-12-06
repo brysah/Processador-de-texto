@@ -1,8 +1,7 @@
 # Processamento de Texto
 
-O objetivo desta tarefa é desenvolver um programa para ler e processar arquivos ASCII para encontrar as palavras mais usadas na língua portuguesa. Para isso utilizei como base livros em língua portuguesa disponíveis em:  [Projeto Guteberg](https://www.gutenberg.org/browse/languages/pt) 
-
-O Projeto Gutenberg (AO 1945: Projecto Gutenberg) (PG) é um esforço voluntário para digitalizar, arquivar e distribuir obras culturais através da digitalização de livros. Fundado em 1971, é a mais antiga biblioteca digital. A maioria dos itens no seu acervo são textos completos de livros em domínio público. O projeto tenta torná-los tão livres quanto possível, em formatos duradouros e abertos, que possam ser usados em praticamente quaisquer computadores [trecho obtido da wikipedia].
+Como primeira parte , objetivo desta tarefa é desenvolver um programa para ler e processar arquivos ASCII para encontrar as palavras mais usadas na língua portuguesa. Para isso utilizei como base livros em língua portuguesa disponíveis em:  [Projeto Guteberg](https://www.gutenberg.org/browse/languages/pt) 
+Como segunda parte, foi implementado o índice remissivo das palavras mais frequentes encontradas. O índice remissivo é aquele que mostra para cada palavra, as páginas que elas aparecem no texto. Neste projeto, ao invés de considerar as páginas onde essas palavras aparecem, iremos exibir as linhas. Além disso, para otimizar o armazenamento, foi desenvolver um método de compressão.
 
 ## Métodos
 Há muitas maneiras de atingir esse objetivo, mas usei uma tabela hash para contar o número de vezes que cada palavra única ocorre à medida que digitalizamos o arquivo ascii. Quando terminar de processar o documento, a tabela de hash conterá N palavras exclusivas e seus contadores de palavras associados.
@@ -44,3 +43,22 @@ Para padronizar a leitura dos dados, considere que os arquivos com os textos de 
 **Observações**:
 Palavras como artigos (o, a, um …), preposições (de, em, para, …) e pontuações (‘.’ , ‘ !’, ‘?’, ...) são nas contagens. 
 
+### Forma de execução 
+ ```JavaScript
+    cmake -B build
+```
+ ```JavaScript
+  cmake --build build
+```
+- Primeira parte
+ ```JavaScript
+ ./build/main/main
+```
+- Segunda parte ( Trie )
+ ```JavaScript
+ ./build/main/mainTrie
+```
+- Segunda parte ( Huffman )
+ ```JavaScript
+ ./build/main/mainHuffman
+```
